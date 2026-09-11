@@ -1,0 +1,1458 @@
+record	locus_tag	gene	product	enzyme_class	start	end	strand	cds_length_bp	gc_content
+NZ_CP148474.1_reverse_complement	MGLELH_08125	?	glycosyltransferase family 1 protein	glycosyltransferase	572	1736	1	1164	30.93
+NZ_CP148474.1_reverse_complement	MGLELH_08130	wzx	O3 family O-antigen flippase	wzx	2580	4095	1	1515	28.38
+NZ_CP148474.1_reverse_complement	MGLELH_08140	wzy	O3 family O-antigen polymerase	wzy	5242	6328	1	1086	26.24
+NZ_CP148474.1_reverse_complement	MGLELH_08160	?	Glycosyltransferase family 2 protein	glycosyltransferase	8721	9519	1	798	29.07
+NZ_CP010160.1_reverse_complement	MGLELH_26395	wzx	O-antigen flippase	wzx	547	1687	1	1140	29.91
+NZ_CP010160.1_reverse_complement	MGLELH_26405	?	D-inositol 3-phosphate glycosyltransferase	glycosyltransferase	2713	3955	1	1242	34.14
+NZ_CP010160.1_reverse_complement	MGLELH_26410	wzy	O156 family O-antigen polymerase	wzy	3964	5170	1	1206	28.11
+NC_017656.1_reverse_complement	MGLELH_04040	?	glycosyltransferase family 1 protein	glycosyltransferase	409	1498	1	1089	32.97
+NC_017656.1_reverse_complement	MGLELH_04065	?	alpha-1,2-fucosyltransferase	glycosyltransferase	6104	6977	1	873	34.02
+NC_017656.1_reverse_complement	MGLELH_04070	wzy	O55 family O-antigen polymerase	wzy	6988	7966	1	978	29.45
+NC_017656.1_reverse_complement	MGLELH_04075	wzx	O55 family O-antigen flippase	wzx	7983	9261	1	1278	31.46
+NC_017656.1_reverse_complement	MGLELH_04085	?	glycosyltransferase family 2 protein	glycosyltransferase	10065	10815	1	750	32.4
+NZ_CP132728.1_reverse_complement	MGLELH_12000	wzx	O84 family O-antigen flippase	wzx	412	1807	1	1395	31.25
+NZ_CP132728.1_reverse_complement	MGLELH_12020	wzy	O84 family O-antigen polymerase	wzy	4474	5626	1	1152	25.69
+NZ_CP021722.1_reverse_complement	MGLELH_66150	wzx	O131 family O-antigen flippase	wzx	4459	5728	1	1269	32.86
+NZ_CP021722.1_reverse_complement	MGLELH_66155	?	Glycosyltransferase family 52	glycosyltransferase	5767	6709	1	942	28.34
+NZ_CP021722.1_reverse_complement	MGLELH_66160	wzy	O131 family O-antigen polymerase	wzy	6730	8035	1	1305	29.81
+NZ_CP136025.1_reverse_complement	MGLELH_107285	wzx	O82 family O-antigen flippase	wzx	2521	3751	1	1230	30.81
+NZ_CP136025.1_reverse_complement	MGLELH_107295	wzy	O82 family O-antigen polymerase	wzy	4921	6004	1	1083	28.81
+NZ_CP136025.1_reverse_complement	MGLELH_107300	?	Mannosyltransferase	glycosyltransferase	6027	6717	1	690	29.28
+NZ_CP136025.1_reverse_complement	MGLELH_107305	?	Glycosyltransferase family 2 protein	glycosyltransferase	6901	7792	1	891	27.61
+NZ_CP136025.1_reverse_complement	MGLELH_107310	?	Glycosyltransferase family 2 protein	glycosyltransferase	8136	8856	1	720	29.86
+NZ_CP137737.1_reverse_complement	MGLELH_67535	wzx	flippase	wzx	317	1634	1	1317	30.6
+NZ_CP137737.1_reverse_complement	MGLELH_67550	?	glycosyltransferase	glycosyltransferase	3859	5092	1	1233	31.79
+NZ_CP137737.1_reverse_complement	MGLELH_67555	wzy	hypothetical protein	wzy	5102	6260	1	1158	28.58
+NZ_CP137737.1_reverse_complement	MGLELH_67560	?	glycosyltransferase	glycosyltransferase	6256	7060	1	804	31.22
+NZ_CP137737.1_reverse_complement	MGLELH_67565	?	glycosyltransferase family 4 protein	glycosyltransferase	7062	8097	1	1035	32.56
+NZ_CP058596.1_reverse_complement	MGLELH_04155	wzx	O6 family O-antigen flippase	wzx	374	1613	1	1239	31.32
+NZ_CP058596.1_reverse_complement	MGLELH_04160	wzy	O6 family O-antigen polymerase	wzy	1612	2956	1	1344	30.65
+NZ_CP058596.1_reverse_complement	MGLELH_04165	?	glycosyltransferase family 2 protein	glycosyltransferase	2961	3822	1	861	31.24
+NZ_CP054191.1_reverse_complement	MGLELH_61080	wzx	O171 family O-antigen flippase	wzx	4643	5840	1	1197	28.57
+NZ_CP054191.1_reverse_complement	MGLELH_61085	?	Glycosyltransferase family 52	glycosyltransferase	5839	6790	1	951	30.39
+NZ_CP054191.1_reverse_complement	MGLELH_61090	wzy	O171 family O-antigen polymerase	wzy	6786	7938	1	1152	27.43
+NZ_CP054191.1_reverse_complement	MGLELH_61100	?	Putative glycosyltransferase	glycosyltransferase	8893	9769	1	876	30.59
+NZ_CP041002.1_reverse_complement	MGLELH_14750	wzy	O104 family O-antigen polymerase	wzy	5489	6602	1	1113	27.31
+NZ_CP041002.1_reverse_complement	MGLELH_14755	?	glycosyltransferase	glycosyltransferase	6607	7831	1	1224	28.68
+NZ_CP041002.1_reverse_complement	MGLELH_14760	wzx	O104 family O-antigen flippase	wzx	7830	9108	1	1278	30.13
+NZ_CP024223.1_reverse_complement	MGLELH_40645	?	glycosyltransferase family 2 protein	glycosyltransferase	294	1302	1	1008	28.97
+NZ_CP024223.1_reverse_complement	MGLELH_40650	?	glycosyltransferase family 4 protein	glycosyltransferase	1294	2404	1	1110	28.74
+NZ_CP024223.1_reverse_complement	MGLELH_40655	wzy	O169/O183 family O-antigen polymerase	wzy	2430	3483	1	1053	26.21
+NZ_CP024223.1_reverse_complement	MGLELH_40660	?	glycosyltransferase family 1 protein	glycosyltransferase	3475	4567	1	1092	28.21
+NZ_CP024223.1_reverse_complement	MGLELH_40690	wzx	O169 family O-antigen flippase	wzx	10372	11656	1	1284	29.6
+NZ_CP129383.1_reverse_complement	MGLELH_67110	wzx	O43 family O-antigen flippase	wzx	317	1631	1	1314	30.97
+NZ_CP129383.1_reverse_complement	MGLELH_67130	wzy	O43 family O-antigen polymerase	wzy	3961	5173	1	1212	26.98
+NZ_CP129383.1_reverse_complement	MGLELH_67135	?	Putative glycosyltransferase	glycosyltransferase	5169	6219	1	1050	29.71
+NZ_CP027310.1_reverse_complement	MGLELH_04725	wzx	O113 family O-antigen flippase	wzx	293	1742	1	1449	29.54
+NZ_CP027310.1_reverse_complement	MGLELH_04735	wzy	O113 family O-antigen polymerase	wzy	2679	3867	1	1188	27.78
+NZ_CP051727.1_reverse_complement	MGLELH_39095	wzx	O33 family O-antigen flippase	wzx	1864	3109	1	1245	29.72
+NZ_CP051727.1_reverse_complement	MGLELH_39105	wzy	O33 family O-antigen polymerase	wzy	4256	5459	1	1203	28.76
+NZ_CP051727.1_reverse_complement	MGLELH_39110	?	Glycosyltransferase family 25 protein	glycosyltransferase	5427	6171	1	744	28.9
+NZ_CM135133.1_reverse_complement	MGLELH_06865	?	Glycosyltransferase	glycosyltransferase	135	1125	1	990	30.1
+NZ_CM135133.1_reverse_complement	MGLELH_06870	wzx	O76 family O-antigen flippase	wzx	1111	2350	1	1239	30.19
+NZ_CM135133.1_reverse_complement	MGLELH_06880	wzy	O76 family O-antigen polymerase	wzy	2915	4148	1	1233	28.55
+NZ_CM135133.1_reverse_complement	MGLELH_06885	?	Putative glycosyltransferase	glycosyltransferase	4107	5007	1	900	31.56
+NZ_CM135133.1_reverse_complement	MGLELH_06890	?	Putative glycosyltransferase	glycosyltransferase	5032	6070	1	1038	32.76
+NZ_AP021944.1_reverse_complement	MGLELH_110650	wzx	O140 family O-antigen flippase	wzx	255	1569	1	1314	32.34
+NZ_AP021944.1_reverse_complement	MGLELH_110665	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	3715	4801	1	1086	42.63
+NZ_AP021944.1_reverse_complement	MGLELH_110670	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	4800	5700	1	900	47.56
+NZ_AP021944.1_reverse_complement	MGLELH_110675	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	5757	6633	1	876	42.81
+NZ_AP021944.1_reverse_complement	MGLELH_110680	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	6640	7174	1	534	38.58
+NZ_AP021944.1_reverse_complement	MGLELH_110690	wzy	O140 family O-antigen polymerase	wzy	8231	9422	1	1191	26.03
+NZ_CP081698.1_reverse_complement	MGLELH_05795	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	44.38
+NZ_CP081698.1_reverse_complement	MGLELH_05800	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.89
+NZ_CP081698.1_reverse_complement	MGLELH_05805	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	42.89
+NZ_CP081698.1_reverse_complement	MGLELH_05810	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3857	1	561	37.08
+NZ_CP081698.1_reverse_complement	MGLELH_05815	wzx	O120 family O-antigen flippase	wzx	3869	5351	1	1482	30.23
+NZ_CP081698.1_reverse_complement	MGLELH_05820	?	Putative glycosyltransferase	glycosyltransferase	5347	6193	1	846	29.55
+NZ_CP081698.1_reverse_complement	MGLELH_05825	wzy	O120 family O-antigen polymerase	wzy	6176	7436	1	1260	27.14
+NZ_CP081698.1_reverse_complement	MGLELH_05835	?	rhamnosyltransferase	glycosyltransferase	8218	9124	1	906	31.35
+NZ_CP081698.1_reverse_complement	MGLELH_05840	?	glycosyltransferase family 1 protein	glycosyltransferase	9135	10239	1	1104	34.06
+NZ_CP016404.1_reverse_complement	MGLELH_40310	wzx	Flippase	wzx	348	1665	1	1317	31.81
+NZ_CP016404.1_reverse_complement	MGLELH_40320	?	glycosyltransferase	glycosyltransferase	2611	3871	1	1260	33.1
+NZ_CP016404.1_reverse_complement	MGLELH_40325	wzy	EpsG family protein	wzy	3886	5083	1	1197	26.65
+NZ_CP016404.1_reverse_complement	MGLELH_40360	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	10712	11459	1	747	34.14
+NZ_CP019259.1_reverse_complement	MGLELH_02170	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	43.74
+NZ_CP019259.1_reverse_complement	MGLELH_02175	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	45.56
+NZ_CP019259.1_reverse_complement	MGLELH_02180	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	44.03
+NZ_CP019259.1_reverse_complement	MGLELH_02185	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3295	3835	1	540	37.04
+NZ_CP019259.1_reverse_complement	MGLELH_02200	wzx	O39 family O-antigen flippase	wzx	5523	7002	1	1479	31.58
+NZ_CP019259.1_reverse_complement	MGLELH_02215	wzy	O39 family O-antigen polymerase	wzy	8994	10242	1	1248	28.53
+NZ_CP019259.1_reverse_complement	MGLELH_02225	?	glycosyltransferase family 2 protein	glycosyltransferase	11241	12021	1	780	25.9
+NZ_CP103544.1_reverse_complement	MGLELH_190910	wzx	polysaccharide biosynthesis protein	wzx	4467	5727	1	1260	33.33
+NZ_CP103544.1_reverse_complement	MGLELH_190915	wzy	O-antigen polymerase	wzy	5844	7188	1	1344	29.17
+NZ_CP015240.1_reverse_complement	MGLELH_90020	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1459	1	1086	43.46
+NZ_CP015240.1_reverse_complement	MGLELH_90025	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	46.67
+NZ_CP015240.1_reverse_complement	MGLELH_90030	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	42.89
+NZ_CP015240.1_reverse_complement	MGLELH_90035	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3844	1	546	40.29
+NZ_CP015240.1_reverse_complement	MGLELH_90040	wzy	EpsG family protein	wzy	3940	5056	1	1116	28.67
+NZ_CP015240.1_reverse_complement	MGLELH_90045	?	glycosyltransferase family 2 protein	glycosyltransferase	5095	6037	1	942	32.7
+NZ_CP015240.1_reverse_complement	MGLELH_90050	wzx	glycosyltransferase family 4 protein	glycosyltransferase	6040	7123	1	1083	32.87
+NZ_CP015240.1_reverse_complement	MGLELH_90055	?	O-antigen flippase	wzx	7124	8405	1	1281	28.34
+NZ_CP015240.1_reverse_complement	MGLELH_90060	?	glycosyltransferase family 2 protein	glycosyltransferase	8413	9304	1	891	29.07
+NZ_CP015240.1_reverse_complement	MGLELH_90065	?	rhamnosyltransferase	glycosyltransferase	9365	10259	1	894	31.21
+NZ_CP015240.1_reverse_complement	MGLELH_90070	?	glycosyltransferase family 4 protein	glycosyltransferase	10255	11350	1	1095	32.6
+NZ_CP080070.1_reverse_complement	MGLELH_11970	?	Putative glycosyltransferase	glycosyltransferase	315	1059	1	744	30.65
+NZ_CP080070.1_reverse_complement	MGLELH_11975	wzx	O174 family O-antigen flippase	wzx	1061	2333	1	1272	26.26
+NZ_CP080070.1_reverse_complement	MGLELH_11980	wzy	O174 family O-antigen polymerase	wzy	2379	3453	1	1074	26.63
+NZ_CP155555.1_reverse_complement	MGLELH_73805	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	377	1463	1	1086	42.91
+NZ_CP155555.1_reverse_complement	MGLELH_73810	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1462	2362	1	900	46.44
+NZ_CP155555.1_reverse_complement	MGLELH_73815	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2420	3299	1	879	42.09
+NZ_CP155555.1_reverse_complement	MGLELH_73820	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3303	3849	1	546	37.55
+NZ_CP155555.1_reverse_complement	MGLELH_73830	wzx	O69 family O-antigen flippase	wzx	5226	6741	1	1515	31.35
+NZ_CP155555.1_reverse_complement	MGLELH_73845	wzy	O69 family O-antigen polymerase	wzy	8788	9904	1	1116	28.41
+NZ_CP035812.1_reverse_complement	MGLELH_10890	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1459	1	1086	42.45
+NZ_CP035812.1_reverse_complement	MGLELH_10895	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	46.89
+NZ_CP035812.1_reverse_complement	MGLELH_10900	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.12
+NZ_CP035812.1_reverse_complement	MGLELH_10905	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3856	1	558	35.66
+NZ_CP035812.1_reverse_complement	MGLELH_10910	wzx	O148 family O-antigen flippase	wzx	3852	5043	1	1191	31.57
+NZ_CP035812.1_reverse_complement	MGLELH_10915	wzy	O148 family O-antigen polymerase	wzy	5039	6182	1	1143	31.06
+NZ_CP035812.1_reverse_complement	MGLELH_10925	wcaE	rhamnosyltransferase	glycosyltransferase	7047	7959	1	912	29.93
+NZ_CP035812.1_reverse_complement	MGLELH_10930	?	glycosyltransferase family 1 protein	glycosyltransferase	7968	9060	1	1092	30.95
+NZ_CP142925.1_reverse_complement	MGLELH_00655	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.19
+NZ_CP142925.1_reverse_complement	MGLELH_00660	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.11
+NZ_CP142925.1_reverse_complement	MGLELH_00665	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.69
+NZ_CP142925.1_reverse_complement	MGLELH_00670	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	34.79
+NZ_CP142925.1_reverse_complement	MGLELH_00675	wzx	O102 family O-antigen flippase	wzx	3852	5103	1	1251	32.77
+NZ_CP142925.1_reverse_complement	MGLELH_00685	wzy	O102 family O-antigen polymerase	wzy	6105	7236	1	1131	28.03
+NZ_CP142925.1_reverse_complement	MGLELH_00700	?	Galactosyltransferase	glycosyltransferase	9217	9955	1	738	29.67
+NZ_CP034738.1_reverse_complement	MGLELH_26225	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	44.38
+NZ_CP034738.1_reverse_complement	MGLELH_26230	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.78
+NZ_CP034738.1_reverse_complement	MGLELH_26235	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.12
+NZ_CP034738.1_reverse_complement	MGLELH_26240	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3852	1	555	38.74
+NZ_CP034738.1_reverse_complement	MGLELH_26245	wzy	O-antigen polymerase	wzy	3915	5037	1	1122	26.74
+NZ_CP034738.1_reverse_complement	MGLELH_26250	?	Glycosyltransferase family 2 protein	glycosyltransferase	5079	6024	1	945	28.57
+NZ_CP034738.1_reverse_complement	MGLELH_26255	?	Glycosyltransferase family 4 protein	glycosyltransferase	6031	7123	1	1092	29.58
+NZ_CP034738.1_reverse_complement	MGLELH_26260	wzx	O-antigen flippase	wzx	7115	8381	1	1266	28.91
+NZ_CP034738.1_reverse_complement	MGLELH_26270	?	Rhamnosyltransferase	glycosyltransferase	9288	10188	1	900	32.44
+NZ_CP034738.1_reverse_complement	MGLELH_26275	?	glycosyltransferase family 1 protein	glycosyltransferase	10199	11303	1	1104	34.06
+NZ_CP076646.1_reverse_complement	MGLELH_35970	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.0
+NZ_CP076646.1_reverse_complement	MGLELH_35975	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.56
+NZ_CP076646.1_reverse_complement	MGLELH_35980	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.0
+NZ_CP076646.1_reverse_complement	MGLELH_35985	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3833	1	537	37.06
+NZ_CP076646.1_reverse_complement	MGLELH_35995	wzy	O79 family O-antigen polymerase	wzy	4612	5704	1	1092	28.94
+NZ_CP076646.1_reverse_complement	MGLELH_36005	wzx	O79 family O-antigen flippase	wzx	6496	7657	1	1161	31.52
+NZ_CP122629.1_reverse_complement	MGLELH_189920	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.19
+NZ_CP122629.1_reverse_complement	MGLELH_189925	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.0
+NZ_CP122629.1_reverse_complement	MGLELH_189930	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	43.84
+NZ_CP122629.1_reverse_complement	MGLELH_189935	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3840	1	543	38.49
+NZ_CP122629.1_reverse_complement	MGLELH_189940	wzx	O58 family O-antigen flippase	wzx	3963	5004	1	1041	28.24
+NZ_CP122629.1_reverse_complement	MGLELH_189970	wzy	O58 family O-antigen polymerase	wzy	9180	10368	1	1188	32.74
+NZ_CP122629.1_reverse_complement	MGLELH_189975	?	Glycosyltransferase family 4 protein	glycosyltransferase	10354	11485	1	1131	30.15
+NZ_CP122629.1_reverse_complement	MGLELH_189980	?	glycosyltransferase	glycosyltransferase	11566	12289	1	723	30.57
+NZ_CP027457.1_reverse_complement	MGLELH_09215	wzy	O20/O137 family O-antigen polymerase	wzy	3221	4277	1	1056	31.34
+NZ_CP027457.1_reverse_complement	MGLELH_09220	wzx	O20/O137 family O-antigen flippase	wzx	4269	5652	1	1383	29.65
+NZ_CP138232.1_reverse_complement	MGLELH_01190	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	42.6
+NZ_CP138232.1_reverse_complement	MGLELH_01195	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_CP138232.1_reverse_complement	MGLELH_01200	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.91
+NZ_CP138232.1_reverse_complement	MGLELH_01205	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3840	1	543	37.94
+NZ_CP138232.1_reverse_complement	MGLELH_01210	wzx	O25 family O-antigen flippase	wzx	3841	5101	1	1260	33.65
+NZ_CP138232.1_reverse_complement	MGLELH_01215	?	glycosyltransferase family 2 protein	glycosyltransferase	5105	6071	1	966	31.37
+NZ_CP138232.1_reverse_complement	MGLELH_01220	?	glycosyltransferase	glycosyltransferase	6133	7282	1	1149	31.51
+NZ_CP138232.1_reverse_complement	MGLELH_01225	wzy	O-antigen polymerase	wzy	7253	8471	1	1218	29.72
+NZ_CP138232.1_reverse_complement	MGLELH_01235	?	glycosyltransferase	glycosyltransferase	9131	10232	1	1101	31.34
+NZ_CP138232.1_reverse_complement	MGLELH_01240	?	rhamnosyltransferase	glycosyltransferase	10233	11025	1	792	28.16
+NZ_CP100973.1_reverse_complement	MGLELH_09075	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.37
+NZ_CP100973.1_reverse_complement	MGLELH_09080	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.33
+NZ_CP100973.1_reverse_complement	MGLELH_09085	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3305	1	891	41.19
+NZ_CP100973.1_reverse_complement	MGLELH_09090	wzx	O177 family O-antigen flippase	wzx	3294	4560	1	1266	31.75
+NZ_CP100973.1_reverse_complement	MGLELH_09095	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4572	5139	1	567	32.28
+NZ_CP100973.1_reverse_complement	MGLELH_09100	wzy	O177 family O-antigen polymerase	wzy	5140	6406	1	1266	31.12
+NZ_CP100973.1_reverse_complement	MGLELH_09130	?	glycosyltransferase family 4 protein	glycosyltransferase	11707	12916	1	1209	39.04
+NZ_CP148578.1_reverse_complement	MGLELH_139700	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.65
+NZ_CP148578.1_reverse_complement	MGLELH_139705	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.33
+NZ_CP148578.1_reverse_complement	MGLELH_139710	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.34
+NZ_CP148578.1_reverse_complement	MGLELH_139715	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3833	1	537	39.11
+NZ_CP148578.1_reverse_complement	MGLELH_139720	wzx	O138 family O-antigen flippase	wzx	3866	5144	1	1278	33.57
+NZ_CP148578.1_reverse_complement	MGLELH_139725	?	Glycosyltransferase	glycosyltransferase	5145	6090	1	945	31.43
+NZ_CP148578.1_reverse_complement	MGLELH_139730	?	Glycosyltransferase	glycosyltransferase	6082	7159	1	1077	32.4
+NZ_CP148578.1_reverse_complement	MGLELH_139735	?	Nucleotide sugar dehydrogenase	sugar_biosynthesis	7219	8497	1	1278	36.62
+NZ_CP148578.1_reverse_complement	MGLELH_139745	?	Glycosyltransferase family 4 protein	glycosyltransferase	9568	10699	1	1131	34.39
+NZ_CP148578.1_reverse_complement	MGLELH_139750	wzy	O138 family O-antigen polymerase	wzy	10715	11915	1	1200	30.92
+NZ_CP097719.1_reverse_complement	MGLELH_26515	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1445	1	1074	41.99
+NZ_CP097719.1_reverse_complement	MGLELH_26520	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1446	2319	1	873	38.6
+NZ_CP097719.1_reverse_complement	MGLELH_26525	wzy	O109 family O-antigen polymerase	wzy	2418	3639	1	1221	32.1
+NZ_CP097719.1_reverse_complement	MGLELH_26535	?	glycosyltransferase family 2 protein	glycosyltransferase	4783	5947	1	1164	32.9
+NZ_CP097719.1_reverse_complement	MGLELH_26555	wzx	O109 family O-antigen flippase	wzx	8975	10340	1	1365	32.89
+NZ_CP097719.1_reverse_complement	MGLELH_26565	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	11392	11938	1	546	37.18
+NZ_CP024826.1_reverse_complement	MGLELH_02355	wzx	O11 family O-antigen flippase	wzx	372	1608	1	1236	30.02
+NZ_CP024826.1_reverse_complement	MGLELH_02360	?	glycosyltransferase	glycosyltransferase	1616	2342	1	726	28.93
+NZ_CP024826.1_reverse_complement	MGLELH_02365	wzy	O11 family O-antigen polymerase	wzy	2338	3574	1	1236	26.21
+NZ_CP024826.1_reverse_complement	MGLELH_02380	?	glycosyltransferase family 1 protein	glycosyltransferase	5748	6594	1	846	33.45
+NZ_CP085638.1_reverse_complement	MGLELH_06380	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.55
+NZ_CP085638.1_reverse_complement	MGLELH_06385	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.0
+NZ_CP085638.1_reverse_complement	MGLELH_06390	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.23
+NZ_CP085638.1_reverse_complement	MGLELH_06395	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	37.7
+NZ_CP085638.1_reverse_complement	MGLELH_06400	?	Glycosyltransferase	glycosyltransferase	3857	4736	1	879	27.76
+NZ_CP085638.1_reverse_complement	MGLELH_06405	wzx	O-antigen flippase	wzx	4742	5990	1	1248	26.6
+NZ_CP085638.1_reverse_complement	MGLELH_06410	?	putative glycosyltransferase	glycosyltransferase	6141	6957	1	816	25.98
+NZ_CP085638.1_reverse_complement	MGLELH_06415	wzy	O-antigen polymerase	wzy	6970	8287	1	1317	29.23
+NZ_CP085638.1_reverse_complement	MGLELH_06420	?	Glycosyltransferase	glycosyltransferase	8297	9416	1	1119	31.46
+NZ_CP085638.1_reverse_complement	MGLELH_06425	?	Glycosyltransferase	glycosyltransferase	9458	10565	1	1107	32.43
+NZ_CP148269.1_reverse_complement	MGLELH_25795	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1459	1	1086	43.46
+NZ_CP148269.1_reverse_complement	MGLELH_25800	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	46.56
+NZ_CP148269.1_reverse_complement	MGLELH_25805	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.8
+NZ_CP148269.1_reverse_complement	MGLELH_25810	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3838	1	540	35.37
+NZ_CP148269.1_reverse_complement	MGLELH_25830	wzx	O49 family O-antigen flippase	wzx	6083	7586	1	1503	30.94
+NZ_CP148269.1_reverse_complement	MGLELH_25835	?	Putative glycosyltransferase	glycosyltransferase	7582	8815	1	1233	30.17
+NZ_CP148269.1_reverse_complement	MGLELH_25840	wzy	O49 family O-antigen polymerase	wzy	8804	9959	1	1155	27.71
+NZ_CP148269.1_reverse_complement	MGLELH_25845	?	Putative glycosyltransferase	glycosyltransferase	9955	10795	1	840	30.83
+NZ_CP148269.1_reverse_complement	MGLELH_25850	?	Putative glycosyltransferase	glycosyltransferase	10791	11700	1	909	30.36
+NZ_CP074019.1_reverse_complement	MGLELH_150230	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1447	1	1077	42.34
+NZ_CP074019.1_reverse_complement	MGLELH_150235	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1443	2310	1	867	37.37
+NZ_CP074019.1_reverse_complement	MGLELH_150240	wzx	Lipopolysaccharide biosynthesis protein	wzx	2316	3744	1	1428	32.28
+NZ_CP074019.1_reverse_complement	MGLELH_150265	wzy	hypothetical protein	wzy	6802	8008	1	1206	29.44
+NZ_CP074019.1_reverse_complement	MGLELH_150270	?	Glycosyltransferase family 2 protein	glycosyltransferase	8087	8960	1	873	29.55
+NZ_CP027140.1_reverse_complement	MGLELH_43790	?	glycosyltransferase family 1 protein	glycosyltransferase	415	1585	1	1170	30.94
+NZ_CP027140.1_reverse_complement	MGLELH_43800	?	Glycosyltransferase family 25 (LPS biosynthesis protein)	glycosyltransferase	1813	2566	1	753	31.74
+NZ_CP027140.1_reverse_complement	MGLELH_43805	wzy	O40 family O-antigen polymerase	wzy	2586	3768	1	1182	29.27
+NZ_CP027140.1_reverse_complement	MGLELH_43815	wzx	O40 family O-antigen flippase	wzx	4964	6245	1	1281	30.29
+NZ_CP095137.1_reverse_complement	MGLELH_00070	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	43.12
+NZ_CP095137.1_reverse_complement	MGLELH_00075	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.22
+NZ_CP095137.1_reverse_complement	MGLELH_00080	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3296	1	882	42.86
+NZ_CP095137.1_reverse_complement	MGLELH_00085	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3295	3853	1	558	38.71
+NZ_CP095137.1_reverse_complement	MGLELH_00090	wzx	O16 family O-antigen flippase	wzx	3849	5097	1	1248	35.42
+NZ_CP095137.1_reverse_complement	MGLELH_00100	wzy	O16 family O-antigen polymerase	wzy	6207	7374	1	1167	32.31
+NZ_CP095137.1_reverse_complement	MGLELH_00115	wbbK	Putative glycosyltransferase WbbK	glycosyltransferase	8924	10043	1	1119	32.08
+NZ_CP095137.1_reverse_complement	MGLELH_00120	wbbL	Rhamnosyltransferase WbbL	glycosyltransferase	10044	10839	1	795	35.35
+NZ_CP010191.1_reverse_complement	MGLELH_15010	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1448	1	1077	43.55
+NZ_CP010191.1_reverse_complement	MGLELH_15015	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1444	2308	1	864	37.15
+NZ_CP010191.1_reverse_complement	MGLELH_15035	wzx	O65 family O-antigen flippase	wzx	4269	5520	1	1251	27.5
+NZ_CP010191.1_reverse_complement	MGLELH_15050	?	Glycosyltransferase	glycosyltransferase	8318	9446	1	1128	31.91
+NZ_CP010191.1_reverse_complement	MGLELH_15055	wzy	O65 family O-antigen polymerase	wzy	9442	10714	1	1272	32.47
+NZ_CP010191.1_reverse_complement	MGLELH_15060	?	Glycosyltransferase	glycosyltransferase	10715	11840	1	1125	31.64
+NZ_CP134389.1_reverse_complement	MGLELH_02075	wzx	O15 family O-antigen flippase	wzx	373	1618	1	1245	33.57
+NZ_CP134389.1_reverse_complement	MGLELH_02080	?	glycosyltransferase family 2 protein	glycosyltransferase	1614	2601	1	987	30.8
+NZ_CP134389.1_reverse_complement	MGLELH_02085	wzy	O15 family O-antigen polymerase	wzy	2650	3829	1	1179	29.26
+NZ_CP134389.1_reverse_complement	MGLELH_02105	?	glycosyltransferase WbuB	glycosyltransferase	7139	8351	1	1212	40.1
+NZ_CP029328.1_reverse_complement	MGLELH_22585	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1459	1	1086	43.37
+NZ_CP029328.1_reverse_complement	MGLELH_22590	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	46.78
+NZ_CP029328.1_reverse_complement	MGLELH_22595	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.23
+NZ_CP029328.1_reverse_complement	MGLELH_22600	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3829	1	531	36.35
+NZ_CP029328.1_reverse_complement	MGLELH_22605	wzx	flippase	wzx	3858	5082	1	1224	30.15
+NZ_CP029328.1_reverse_complement	MGLELH_22610	?	Glycosyltransferase WbsX family protein	glycosyltransferase	5258	6338	1	1080	30.46
+NZ_CP029328.1_reverse_complement	MGLELH_22615	wzy	Wzy	wzy	6399	7434	1	1035	27.63
+NZ_CP029328.1_reverse_complement	MGLELH_22620	?	Glycosyltransferase	glycosyltransferase	7492	8527	1	1035	31.21
+NZ_CP062901.1_reverse_complement	MGLELH_05120	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.37
+NZ_CP062901.1_reverse_complement	MGLELH_05125	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_CP062901.1_reverse_complement	MGLELH_05130	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.57
+NZ_CP062901.1_reverse_complement	MGLELH_05135	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	38.07
+NZ_CP062901.1_reverse_complement	MGLELH_05145	wzx	O152 family O-antigen flippase	wzx	4898	6110	1	1212	31.19
+NZ_CP062901.1_reverse_complement	MGLELH_05155	wzy	O152 family O-antigen polymerase	wzy	7117	8191	1	1074	29.24
+NZ_CP062901.1_reverse_complement	MGLELH_05160	wfgD	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD	glycosyltransferase	8153	8957	1	804	30.35
+NZ_AP027704.1_reverse_complement	MGLELH_41515	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.91
+NZ_AP027704.1_reverse_complement	MGLELH_41520	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.33
+NZ_AP027704.1_reverse_complement	MGLELH_41525	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.46
+NZ_AP027704.1_reverse_complement	MGLELH_41530	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3831	1	534	39.7
+NZ_AP027704.1_reverse_complement	MGLELH_41540	wzy	O105 family O-antigen polymerase	wzy	4694	5723	1	1029	28.86
+NZ_AP027704.1_reverse_complement	MGLELH_41565	wzx	O105 family O-antigen flippase	wzx	9631	11059	-1	1428	30.11
+NZ_CP123247.1_reverse_complement	MGLELH_17850	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.37
+NZ_CP123247.1_reverse_complement	MGLELH_17855	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.22
+NZ_CP123247.1_reverse_complement	MGLELH_17860	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.12
+NZ_CP123247.1_reverse_complement	MGLELH_17865	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	39.53
+NZ_CP123247.1_reverse_complement	MGLELH_17885	wzx	O-antigen flippase Wzx	wzx	5806	7072	1	1266	33.89
+NZ_CP123247.1_reverse_complement	MGLELH_17890	?	Glycosyltransferase	glycosyltransferase	7068	7974	1	906	30.24
+NZ_CP123247.1_reverse_complement	MGLELH_17895	wzy	hypothetical protein	wzy	8016	9315	1	1299	31.41
+NZ_CP123247.1_reverse_complement	MGLELH_17910	?	Putative glycosyltransferase	glycosyltransferase	11070	11832	1	762	32.28
+NZ_CP075465.1_reverse_complement	MGLELH_36585	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1412	2498	1	1086	43.0
+NZ_CP075465.1_reverse_complement	MGLELH_36590	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2497	3397	1	900	43.11
+NZ_CP075465.1_reverse_complement	MGLELH_36595	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3448	4327	1	879	41.07
+NZ_CP075465.1_reverse_complement	MGLELH_36600	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4331	4889	1	558	36.92
+NZ_CP075465.1_reverse_complement	MGLELH_36605	wzx	O142 family O-antigen flippase	wzx	4885	6130	1	1245	35.02
+NZ_CP075465.1_reverse_complement	MGLELH_36610	wzy	O142 family O-antigen polymerase	wzy	6181	7363	1	1182	32.83
+NZ_CP075465.1_reverse_complement	MGLELH_36620	?	glycosyltransferase family 2 protein	glycosyltransferase	8276	9065	1	789	31.69
+NZ_CP178707.1_reverse_complement	MGLELH_13555	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.28
+NZ_CP178707.1_reverse_complement	MGLELH_13560	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.56
+NZ_CP178707.1_reverse_complement	MGLELH_13565	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	42.89
+NZ_CP178707.1_reverse_complement	MGLELH_13570	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3849	1	552	38.95
+NZ_CP178707.1_reverse_complement	MGLELH_13580	wzx	O150 family O-antigen flippase	wzx	4866	6369	1	1503	29.34
+NZ_CP178707.1_reverse_complement	MGLELH_13590	?	Glycosyltransferase	glycosyltransferase	7523	8432	1	909	32.67
+NZ_CP178707.1_reverse_complement	MGLELH_13595	?	Rhamnosyltransferase	glycosyltransferase	8418	9333	1	915	32.02
+NZ_CP178707.1_reverse_complement	MGLELH_13600	?	Glycosyltransferase	glycosyltransferase	9344	10229	1	885	32.43
+NZ_CP178707.1_reverse_complement	MGLELH_13605	wzy	O150 family O-antigen polymerase	wzy	10246	11344	1	1098	30.97
+NZ_CP047571.1_reverse_complement	MGLELH_04560	wzx	Wzx	wzx	2329	3730	1	1401	28.84
+NZ_CP047571.1_reverse_complement	MGLELH_04565	wzy	Wzy	wzy	3740	4898	1	1158	28.93
+NZ_CP047571.1_reverse_complement	MGLELH_04570	?	glycosyltransferase	glycosyltransferase	4900	6010	1	1110	30.99
+NZ_CM135127.1_reverse_complement	MGLELH_27890	wzx	O179 family O-antigen flippase	wzx	335	1796	1	1461	28.95
+NZ_CM135127.1_reverse_complement	MGLELH_27900	wzy	O179 family O-antigen polymerase	wzy	2931	4035	1	1104	28.89
+NZ_CP077646.1_reverse_complement	MGLELH_20930	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.0
+NZ_CP077646.1_reverse_complement	MGLELH_20935	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.56
+NZ_CP077646.1_reverse_complement	MGLELH_20940	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	42.43
+NZ_CP077646.1_reverse_complement	MGLELH_20945	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3830	1	534	32.77
+NZ_CP077646.1_reverse_complement	MGLELH_20955	wzx	O146 family O-antigen flippase	wzx	4845	6372	1	1527	29.47
+NZ_CP077646.1_reverse_complement	MGLELH_20970	wzy	O146 family O-antigen polymerase	wzy	8678	9914	1	1236	27.35
+NZ_CP077646.1_reverse_complement	MGLELH_20975	?	glycosyltransferase family 2 protein	glycosyltransferase	9876	10764	1	888	30.63
+NZ_CP031546.1_reverse_complement	MGLELH_61235	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1450	1	1077	41.97
+NZ_CP031546.1_reverse_complement	MGLELH_61240	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1446	2313	1	867	37.25
+NZ_CP031546.1_reverse_complement	MGLELH_61245	wzx	O116 family O-antigen flippase	wzx	2319	3747	1	1428	32.49
+NZ_CP031546.1_reverse_complement	MGLELH_61260	?	Glycosyltransferase	glycosyltransferase	5465	6428	1	963	30.22
+NZ_CP031546.1_reverse_complement	MGLELH_61265	wzy	O116 family O-antigen polymerase	wzy	6435	7596	1	1161	28.85
+NZ_CP031546.1_reverse_complement	MGLELH_61270	?	Glycosyltransferase	glycosyltransferase	7598	8681	1	1083	28.53
+NZ_CP031546.1_reverse_complement	MGLELH_61280	?	Glycosyltransferase family 1 protein	glycosyltransferase	9782	10901	1	1119	30.74
+NZ_AP027258.1_reverse_complement	MGLELH_92675	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1450	1	1077	43.08
+NZ_AP027258.1_reverse_complement	MGLELH_92680	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1446	2310	1	864	36.69
+NZ_AP027258.1_reverse_complement	MGLELH_92700	wzx	O74 family O-antigen flippase	wzx	4266	5526	1	1260	31.9
+NZ_AP027258.1_reverse_complement	MGLELH_92705	?	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	5536	6478	1	942	29.3
+NZ_AP027258.1_reverse_complement	MGLELH_92710	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	6493	7315	1	822	30.17
+NZ_AP027258.1_reverse_complement	MGLELH_92715	wzy	O74 family O-antigen polymerase	wzy	7314	8490	1	1176	28.23
+NZ_AP027258.1_reverse_complement	MGLELH_92720	?	UDP-D-galactose:(Glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase	glycosyltransferase	8467	9550	1	1083	29.09
+NZ_CP075469.1_reverse_complement	MGLELH_03550	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	41.8
+NZ_CP075469.1_reverse_complement	MGLELH_03555	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1456	2320	1	864	38.19
+NZ_CP075469.1_reverse_complement	MGLELH_03575	wzx	O5 family O-antigen flippase	wzx	4285	5542	1	1257	31.82
+NZ_CP075469.1_reverse_complement	MGLELH_03580	wzy	O5 family O-antigen polymerase	wzy	5542	6859	1	1317	31.59
+NZ_CP100930.1_reverse_complement	MGLELH_15895	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.73
+NZ_CP100930.1_reverse_complement	MGLELH_15900	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.11
+NZ_CP100930.1_reverse_complement	MGLELH_15905	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.23
+NZ_CP100930.1_reverse_complement	MGLELH_15910	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3834	1	537	39.66
+NZ_CP100930.1_reverse_complement	MGLELH_15915	?	UDP-glc:alpha-D-glcNac-diphosphoundecaprenol beta-1,3-glucosyltransferase wfgD	glycosyltransferase	3893	4757	1	864	30.21
+NZ_CP100930.1_reverse_complement	MGLELH_15920	?	Glycosyltransferase group 1	glycosyltransferase	4797	5895	1	1098	28.96
+NZ_CP100930.1_reverse_complement	MGLELH_15925	?	Rhamnosyltransferase wbbL	glycosyltransferase	5897	6662	1	765	27.45
+NZ_CP100930.1_reverse_complement	MGLELH_15930	?	GalNac(5)-diNacbac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	6687	7542	1	855	28.89
+NZ_CP100930.1_reverse_complement	MGLELH_15935	wzy	oligosaccharide repeat unit polymerase	wzy	7587	8790	1	1203	28.18
+NZ_CP100930.1_reverse_complement	MGLELH_15945	wzx	O-antigen flippase	wzx	9807	11040	1	1233	29.85
+NZ_CP060899.1_reverse_complement	MGLELH_04680	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	44.29
+NZ_CP060899.1_reverse_complement	MGLELH_04685	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.78
+NZ_CP060899.1_reverse_complement	MGLELH_04690	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.12
+NZ_CP060899.1_reverse_complement	MGLELH_04695	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3845	1	549	39.16
+NZ_CP060899.1_reverse_complement	MGLELH_04700	wzy	Oligosaccharide repeat unit polymerase	wzy	3873	5103	1	1230	31.46
+NZ_CP060899.1_reverse_complement	MGLELH_04705	wzx	Oligosaccharide flippase family protein	wzx	5095	6259	1	1164	30.41
+NZ_CP060899.1_reverse_complement	MGLELH_04710	?	Glycosyltransferase family 2 protein	glycosyltransferase	6255	7074	1	819	30.28
+NZ_CP060899.1_reverse_complement	MGLELH_04720	?	Glycosyltransferase family 2 protein	glycosyltransferase	8242	9010	1	768	33.98
+NZ_AP022298.1_reverse_complement	MGLELH_25015	?	Glycosyltransferase	glycosyltransferase	647	1823	1	1176	30.7
+NZ_AP022298.1_reverse_complement	MGLELH_25020	?	Glycosyltransferase	glycosyltransferase	1800	2820	1	1020	29.9
+NZ_AP022298.1_reverse_complement	MGLELH_25035	wzy	O176 family O-antigen polymerase	wzy	5781	7113	1	1332	29.65
+NZ_AP022298.1_reverse_complement	MGLELH_25040	wzx	O176 family O-antigen flippase	wzx	7115	8348	1	1233	28.39
+NZ_CP044443.1_reverse_complement	MGLELH_36345	wzm	O99 family O-antigen export ABC transporter permease subunit	wzm	3236	4031	1	795	35.6
+NZ_CP044443.1_reverse_complement	MGLELH_36350	wzt	O99 family O-antigen export ABC transporter ATP-binding subunit	wzt	4032	5334	1	1302	38.33
+NZ_CP044443.1_reverse_complement	MGLELH_36360	?	Glycosyltransferase family 1 protein	glycosyltransferase	7546	10042	1	2496	36.06
+NZ_CP044443.1_reverse_complement	MGLELH_36375	?	Glycosyltransferase family 1 protein	glycosyltransferase	12109	13246	1	1137	39.14
+NZ_CP024131.1_reverse_complement	MGLELH_43000	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.0
+NZ_CP024131.1_reverse_complement	MGLELH_43005	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.67
+NZ_CP024131.1_reverse_complement	MGLELH_43010	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	42.55
+NZ_CP024131.1_reverse_complement	MGLELH_43015	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3836	1	540	38.15
+NZ_CP024131.1_reverse_complement	MGLELH_43040	wzx	O180 family O-antigen flippase	wzx	7949	9209	1	1260	34.52
+NZ_CP024131.1_reverse_complement	MGLELH_43045	wzy	O180 family O-antigen polymerase	wzy	9242	10574	1	1332	32.13
+NZ_CP024131.1_reverse_complement	MGLELH_43055	?	Glycosyltransferase	glycosyltransferase	11788	12868	1	1080	31.67
+NZ_CP028772.1_reverse_complement	MGLELH_138715	wzx	O87 family O-antigen flippase	wzx	326	1574	1	1248	31.33
+NZ_CP028772.1_reverse_complement	MGLELH_138730	wzy	O87 family O-antigen polymerase	wzy	3456	4611	1	1155	27.53
+NZ_CP173539.1_reverse_complement	MGLELH_00510	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.91
+NZ_CP173539.1_reverse_complement	MGLELH_00515	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.67
+NZ_CP173539.1_reverse_complement	MGLELH_00520	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	43.49
+NZ_CP173539.1_reverse_complement	MGLELH_00525	wzy	O54 family O-antigen polymerase	wzy	3293	4352	1	1059	28.05
+NZ_CP173539.1_reverse_complement	MGLELH_00530	?	Putative glycosyltransferase	glycosyltransferase	4354	5173	1	819	31.38
+NZ_CP173539.1_reverse_complement	MGLELH_00550	?	Putative glycosyltransferase	glycosyltransferase	7341	8199	1	858	31.47
+NZ_CP173539.1_reverse_complement	MGLELH_00555	wzx	O54 family O-antigen flippase	wzx	8195	9446	1	1251	27.5
+NZ_CP173539.1_reverse_complement	MGLELH_00570	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	11272	11815	1	543	34.44
+NZ_CP050036.1_reverse_complement	MGLELH_37365	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1448	1	1077	41.6
+NZ_CP050036.1_reverse_complement	MGLELH_37370	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1444	2317	1	873	36.66
+NZ_CP050036.1_reverse_complement	MGLELH_37390	wzx	O103 family O-antigen flippase	wzx	4348	5614	1	1266	33.73
+NZ_CP050036.1_reverse_complement	MGLELH_37395	?	glycosyltransferase	glycosyltransferase	5617	6604	1	987	27.46
+NZ_CP050036.1_reverse_complement	MGLELH_37400	?	glycosyltransferase	glycosyltransferase	6606	7497	1	891	28.51
+NZ_CP050036.1_reverse_complement	MGLELH_37405	wzy	O103 family O-antigen polymerase	wzy	7496	8645	1	1149	29.5
+NZ_CP050036.1_reverse_complement	MGLELH_37415	?	glycosyltransferase family 1 protein	glycosyltransferase	9924	11046	1	1122	31.91
+NZ_CP172152.1_reverse_complement	MGLELH_63185	wzy	O85 family O-antigen polymerase	wzy	1501	2620	1	1119	29.4
+NZ_CP172152.1_reverse_complement	MGLELH_63195	wzx	O85 family O-antigen flippase	wzx	3655	4876	1	1221	28.67
+NZ_CP178711.1_reverse_complement	MGLELH_40375	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.28
+NZ_CP178711.1_reverse_complement	MGLELH_40380	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_CP178711.1_reverse_complement	MGLELH_40385	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.57
+NZ_CP178711.1_reverse_complement	MGLELH_40390	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	40.8
+NZ_CP178711.1_reverse_complement	MGLELH_40395	?	glycosyltransferase WbsX family protein	glycosyltransferase	3852	4926	1	1074	32.77
+NZ_CP178711.1_reverse_complement	MGLELH_40405	wzx	O115 family O-antigen flippase	wzx	5642	7130	1	1488	32.33
+NZ_CP178711.1_reverse_complement	MGLELH_40415	wzy	O115 family O-antigen polymerase	wzy	7664	8732	1	1068	29.12
+NZ_CP178711.1_reverse_complement	MGLELH_40420	?	glycosyltransferase family 2 protein	glycosyltransferase	8728	9655	1	927	32.04
+NZ_CP027351.1_reverse_complement	MGLELH_00135	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	2770	3859	1	1089	38.29
+NZ_CP027351.1_reverse_complement	MGLELH_00140	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3825	4725	1	900	37.33
+NZ_CP027351.1_reverse_complement	MGLELH_00160	wzx	O121 family O-antigen flippase	wzx	6969	8457	1	1488	36.63
+NZ_CP027351.1_reverse_complement	MGLELH_00165	?	Glycosyltransferase	glycosyltransferase	8462	9353	1	891	33.22
+NZ_CP027351.1_reverse_complement	MGLELH_00175	wzy	O121 family O-antigen polymerase	wzy	9908	11099	1	1191	31.07
+NZ_CP027351.1_reverse_complement	MGLELH_00190	?	glycosyltransferase family 1 protein	glycosyltransferase	14111	15236	1	1125	40.53
+NZ_CP010177.1_reverse_complement	MGLELH_16940	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1449	1	1077	42.9
+NZ_CP010177.1_reverse_complement	MGLELH_16945	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1445	2312	1	867	37.02
+NZ_CP010177.1_reverse_complement	MGLELH_16950	wzx	O116 family O-antigen flippase	wzx	2318	3746	1	1428	32.28
+NZ_CP010177.1_reverse_complement	MGLELH_16965	wzy	O-antigen polymerase	wzy	6001	7210	1	1209	29.28
+NZ_CP010177.1_reverse_complement	MGLELH_16970	?	Glycosyltransferase	glycosyltransferase	7222	8389	1	1167	32.39
+NZ_CP010177.1_reverse_complement	MGLELH_16975	?	Glycosyltransferase	glycosyltransferase	8400	9237	1	837	30.23
+NZ_CP071263.1_reverse_complement	MGLELH_54970	wzx	O61 family O-antigen flippase	wzx	9723	10950	1	1227	30.64
+NZ_CP071263.1_reverse_complement	MGLELH_54980	wzy	O61 family O-antigen polymerase	wzy	11876	13034	1	1158	30.31
+NZ_CP029164.1_reverse_complement	MGLELH_17195	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.0
+NZ_CP029164.1_reverse_complement	MGLELH_17200	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.22
+NZ_CP029164.1_reverse_complement	MGLELH_17205	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.46
+NZ_CP029164.1_reverse_complement	MGLELH_17210	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3867	1	570	38.95
+NZ_CP029164.1_reverse_complement	MGLELH_17215	?	Putative glycosyltransferase	glycosyltransferase	3853	4696	1	843	27.05
+NZ_CP029164.1_reverse_complement	MGLELH_17225	wzx	O53 family O-antigen flippase	wzx	5785	7015	1	1230	28.62
+NZ_CP029164.1_reverse_complement	MGLELH_17235	wzy	O53 family O-antigen polymerase	wzy	8113	9406	1	1293	28.0
+NZ_AP027634.1_reverse_complement	MGLELH_00365	wzx	O182 family O-antigen flippase	wzx	3374	4745	1	1371	30.42
+NZ_AP027634.1_reverse_complement	MGLELH_00375	?	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	5869	7024	1	1155	31.77
+NZ_AP027634.1_reverse_complement	MGLELH_00380	wzy	O182 family O-antigen polymerase	wzy	7020	8247	1	1227	30.81
+NZ_AP027634.1_reverse_complement	MGLELH_00385	?	glycosyltransferase	glycosyltransferase	8374	8965	1	591	32.83
+NZ_AP027634.1_reverse_complement	MGLELH_00390	?	Putative glycosyltransferase	glycosyltransferase	8977	9727	1	750	32.93
+NZ_CP138428.1_reverse_complement	MGLELH_35645	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1447	1	1074	43.48
+NZ_CP138428.1_reverse_complement	MGLELH_35650	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1447	2323	1	876	38.7
+NZ_CP138428.1_reverse_complement	MGLELH_35670	wzx	O-antigen flippase Wzx	wzx	4267	5533	1	1266	34.04
+NZ_CP138428.1_reverse_complement	MGLELH_35675	?	Glycosyltransferase	glycosyltransferase	5537	6779	1	1242	31.32
+NZ_CP138428.1_reverse_complement	MGLELH_35680	?	Glycosyltransferase	glycosyltransferase	6783	7857	1	1074	31.01
+NZ_CP138428.1_reverse_complement	MGLELH_35685	wzy	O-antigen polymerase	wzy	7860	8907	1	1047	27.7
+NZ_CP138428.1_reverse_complement	MGLELH_35690	?	Glycosyltransferase family 2 protein	glycosyltransferase	8903	9716	1	813	34.56
+NZ_CP035882.1_reverse_complement	MGLELH_01455	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1449	1	1077	42.62
+NZ_CP035882.1_reverse_complement	MGLELH_01460	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1445	2324	1	879	34.81
+NZ_CP035882.1_reverse_complement	MGLELH_01485	wzx	O114 family O-antigen flippase	wzx	5262	6516	1	1254	31.66
+NZ_CP035882.1_reverse_complement	MGLELH_01495	wzy	O114 family O-antigen polymerase	wzy	7374	8703	1	1329	29.8
+NZ_CP182308.1_reverse_complement	MGLELH_06970	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.19
+NZ_CP182308.1_reverse_complement	MGLELH_06975	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	48.22
+NZ_CP182308.1_reverse_complement	MGLELH_06980	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.57
+NZ_CP182308.1_reverse_complement	MGLELH_06985	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3294	3843	1	549	34.97
+NZ_CP182308.1_reverse_complement	MGLELH_07005	wzx	O-antigen flippase	wzx	5802	7065	1	1263	33.25
+NZ_CP182308.1_reverse_complement	MGLELH_07010	?	Glycosyltransferase	glycosyltransferase	7065	7962	1	897	26.98
+NZ_CP182308.1_reverse_complement	MGLELH_07015	wzy	putative glycosyltransferase	glycosyltransferase	7969	9205	1	1236	29.29
+NZ_CP182308.1_reverse_complement	MGLELH_07025	?	Glycosyltransferase	glycosyltransferase	10141	11212	1	1071	32.12
+NZ_CP182308.1_reverse_complement	MGLELH_07030	?	glycosyltransferase family 1 protein	glycosyltransferase	11221	12370	1	1149	30.9
+NZ_CP028745.1_reverse_complement	MGLELH_41905	?	Glycosyltransferase family 4 protein	glycosyltransferase	1025	2063	1	1038	29.77
+NZ_CP028745.1_reverse_complement	MGLELH_41910	wzy	O112ac family O-antigen polymerase	wzy	2046	3132	1	1086	27.16
+NZ_CP028745.1_reverse_complement	MGLELH_41920	?	Glycosyltransferase family 2 protein	glycosyltransferase	4160	5045	1	885	29.04
+NZ_CP028745.1_reverse_complement	MGLELH_41930	wzx	O112ac family O-antigen flippase	wzx	5960	7382	1	1422	28.97
+NZ_CP010237.1_reverse_complement	MGLELH_08820	wzx	Wzx	wzx	303	1587	1	1284	29.52
+NZ_CP010237.1_reverse_complement	MGLELH_08835	wzy	EpsG family protein	wzy	3789	5718	1	1929	27.84
+NZ_CP134358.1_reverse_complement	MGLELH_10300	wzx	O80 family O-antigen flippase	wzx	7107	8328	1	1221	31.04
+NZ_CP134358.1_reverse_complement	MGLELH_10310	?	Glycosyltransferase	glycosyltransferase	9147	9864	1	717	30.82
+NZ_CP134358.1_reverse_complement	MGLELH_10315	?	Glycosyltransferase	glycosyltransferase	10075	12022	1	1947	30.61
+NZ_CP134358.1_reverse_complement	MGLELH_10320	wzy	O80 family O-antigen polymerase	wzy	12018	13245	1	1227	29.75
+NZ_CP134358.1_reverse_complement	MGLELH_10325	?	Putative glycosyltransferase	glycosyltransferase	13255	14002	1	747	30.79
+NZ_CP196263.1_reverse_complement	MGLELH_12070	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.09
+NZ_CP196263.1_reverse_complement	MGLELH_12075	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	48.22
+NZ_CP196263.1_reverse_complement	MGLELH_12080	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	43.84
+NZ_CP196263.1_reverse_complement	MGLELH_12085	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3855	1	558	36.38
+NZ_CP196263.1_reverse_complement	MGLELH_12090	wzx	O18 family O-antigen flippase	wzx	3851	5099	1	1248	33.89
+NZ_CP196263.1_reverse_complement	MGLELH_12095	wzy	Wzy	wzy	5155	6346	1	1191	30.48
+NZ_CP196263.1_reverse_complement	MGLELH_12105	?	glycosyltransferase family 2 protein	glycosyltransferase	7259	8048	1	789	29.28
+NZ_CP196263.1_reverse_complement	MGLELH_12115	?	glycosyltransferase family 1 protein	glycosyltransferase	9492	10596	1	1104	32.43
+NZ_CP159540.1_reverse_complement	MGLELH_08855	wzy	O175 family O-antigen polymerase	wzy	329	1460	1	1131	31.92
+NZ_CP159540.1_reverse_complement	MGLELH_08870	?	Putative glycosyltransferase	glycosyltransferase	3574	4732	1	1158	29.53
+NZ_CP159540.1_reverse_complement	MGLELH_08890	wzx	O175 family O-antigen flippase	wzx	8513	9920	1	1407	30.63
+NZ_AP027254.1_reverse_complement	MGLELH_31420	?	glycosyltransferase family 2 protein	glycosyltransferase	294	1302	1	1008	29.66
+NZ_AP027254.1_reverse_complement	MGLELH_31425	?	glycosyltransferase family 4 protein	glycosyltransferase	1294	2404	1	1110	29.55
+NZ_AP027254.1_reverse_complement	MGLELH_31430	wzy	O169/O183 family O-antigen polymerase	wzy	2430	3483	1	1053	25.74
+NZ_AP027254.1_reverse_complement	MGLELH_31435	?	glycosyltransferase family 1 protein	glycosyltransferase	3475	4567	1	1092	28.94
+NZ_AP027254.1_reverse_complement	MGLELH_31460	wzx	O183 family O-antigen flippase	wzx	9693	11106	-1	1413	30.5
+NZ_CP041416.1_reverse_complement	MGLELH_40840	wzy	O22 family O-antigen polymerase	wzy	3061	4297	1	1236	29.94
+NZ_CP041416.1_reverse_complement	MGLELH_40855	wzx	O22 family O-antigen flippase	wzx	5993	7211	1	1218	29.47
+NZ_AP027676.1_reverse_complement	MGLELH_03610	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.37
+NZ_AP027676.1_reverse_complement	MGLELH_03615	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	45.89
+NZ_AP027676.1_reverse_complement	MGLELH_03620	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.69
+NZ_AP027676.1_reverse_complement	MGLELH_03625	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3839	1	543	33.52
+NZ_AP027676.1_reverse_complement	MGLELH_03630	wzx	O107/O117 family O-antigen flippase	wzx	3838	5056	1	1218	26.77
+NZ_AP027676.1_reverse_complement	MGLELH_03635	wzy	O107/O117 family O-antigen polymerase	wzy	5048	6371	1	1323	28.72
+NZ_AP027676.1_reverse_complement	MGLELH_03640	?	Beta1,3-glucosyltransferase WaaV	glycosyltransferase	6363	7164	1	801	30.21
+NZ_AP027676.1_reverse_complement	MGLELH_03645	?	Glycosyltransferase family 2	glycosyltransferase	7150	8095	1	945	27.62
+NZ_CP025840.1_reverse_complement	MGLELH_17315	wzx	O167 family O-antigen flippase	wzx	1011	2274	1	1263	31.91
+NZ_CP025840.1_reverse_complement	MGLELH_17340	wzy	O167 family O-antigen polymerase	wzy	6399	7650	1	1251	28.3
+NZ_CP025840.1_reverse_complement	MGLELH_17345	?	Glycosyltransferase	glycosyltransferase	7649	8741	1	1092	30.04
+NZ_CP025840.1_reverse_complement	MGLELH_17350	?	glycosyltransferase	glycosyltransferase	8737	9697	1	960	31.56
+NC_009801.1_reverse_complement	MGLELH_15695	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.37
+NC_009801.1_reverse_complement	MGLELH_15700	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.33
+NC_009801.1_reverse_complement	MGLELH_15705	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.23
+NC_009801.1_reverse_complement	MGLELH_15710	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	39.71
+NC_009801.1_reverse_complement	MGLELH_15715	?	glycosyltransferase family 2 protein	glycosyltransferase	3913	4882	1	969	29.41
+NC_009801.1_reverse_complement	MGLELH_15725	wzy	EpsG family protein	wzy	5637	6651	1	1014	27.81
+NC_009801.1_reverse_complement	MGLELH_15745	wzx	Lipid II flippase MurJ	wzx	9938	11180	1	1242	29.71
+NZ_CP171874.1_reverse_complement	MGLELH_07275	wzy	O20/O137 family O-antigen polymerase	wzy	3051	4278	1	1227	30.73
+NZ_CP171874.1_reverse_complement	MGLELH_07280	wzx	O20/O137 family O-antigen flippase	wzx	4270	5653	1	1383	29.86
+NZ_AP027818.1_reverse_complement	MGLELH_09590	wzx	O143 family O-antigen flippase	wzx	3898	5104	1	1206	28.77
+NZ_AP027818.1_reverse_complement	MGLELH_09595	?	Glycosyltransferase	glycosyltransferase	5085	5979	1	894	32.1
+NZ_AP027818.1_reverse_complement	MGLELH_09605	wzy	Wzy	wzy	7087	8350	1	1263	28.42
+NZ_CP134370.1_reverse_complement	MGLELH_05625	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	2841	3924	1	1083	41.92
+NZ_CP134370.1_reverse_complement	MGLELH_05630	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3956	4832	1	876	41.44
+NZ_CP134370.1_reverse_complement	MGLELH_05635	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4858	5419	1	561	37.79
+NZ_CP134370.1_reverse_complement	MGLELH_05645	wzx	flippase	wzx	6238	7696	1	1458	35.39
+NZ_CP134370.1_reverse_complement	MGLELH_05650	?	glycosyltransferase family 2 protein	glycosyltransferase	7714	8614	1	900	35.67
+NZ_CP134370.1_reverse_complement	MGLELH_05655	wzy	oligosaccharide repeat unit polymerase	wzy	8623	9898	1	1275	35.29
+NZ_CP134370.1_reverse_complement	MGLELH_05660	?	glycosyltransferase family 1 protein	glycosyltransferase	9894	10950	1	1056	37.41
+NC_011601.1_reverse_complement	MGLELH_11915	wbnH	O-antigen biosynthesis glycosyltransferase WbnH	glycosyltransferase	1348	2365	1	1017	34.41
+NC_011601.1_reverse_complement	MGLELH_11945	wzx	O90/O127 family O-antigen flippase	wzx	7814	9086	1	1272	31.84
+NC_011601.1_reverse_complement	MGLELH_11955	wzy	O90/O127 family O-antigen polymerase	wzy	9743	10910	1	1167	27.76
+NC_011601.1_reverse_complement	MGLELH_11965	?	alpha-1,2-fucosyltransferase	glycosyltransferase	11658	12555	1	897	31.77
+NZ_CP075652.1_reverse_complement	MGLELH_02020	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1449	1	1077	42.53
+NZ_CP075652.1_reverse_complement	MGLELH_02025	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1445	2309	1	864	36.23
+NZ_CP075652.1_reverse_complement	MGLELH_02050	wzx	O91 family O-antigen flippase	wzx	5168	6428	1	1260	29.6
+NZ_CP075652.1_reverse_complement	MGLELH_02055	?	Glycosyltransferase family 1 protein	glycosyltransferase	6420	7590	1	1170	30.94
+NZ_CP075652.1_reverse_complement	MGLELH_02060	?	Glycosyltransferase family 2 protein	glycosyltransferase	7582	8437	1	855	30.76
+NZ_CP075652.1_reverse_complement	MGLELH_02065	?	Glycosyltransferase family 2 protein	glycosyltransferase	8433	9231	1	798	30.7
+NZ_CP075652.1_reverse_complement	MGLELH_02070	wzy	O91 family O-antigen polymerase	wzy	9217	10429	1	1212	30.12
+NZ_CP122588.1_reverse_complement	MGLELH_34885	wzx	O163 family O-antigen flippase	wzx	3583	4837	1	1254	31.9
+NZ_CP122588.1_reverse_complement	MGLELH_34890	wzy	O163 family O-antigen polymerase	wzy	4833	6069	1	1236	27.75
+NZ_CP122588.1_reverse_complement	MGLELH_34895	?	GDP-mannose:glycolipid 4-beta-D-mannosyltransferase	glycosyltransferase	6086	7094	1	1008	30.06
+NZ_AP027512.1_reverse_complement	MGLELH_06015	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	43.46
+NZ_AP027512.1_reverse_complement	MGLELH_06020	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.44
+NZ_AP027512.1_reverse_complement	MGLELH_06025	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3297	1	882	43.65
+NZ_AP027512.1_reverse_complement	MGLELH_06035	wzy	O-antigen polymerase	wzy	4157	5375	1	1218	27.83
+NZ_AP027512.1_reverse_complement	MGLELH_06045	wzx	O-antigen flippase	wzx	6179	7427	1	1248	26.76
+NZ_AP027512.1_reverse_complement	MGLELH_06050	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7398	7932	1	534	32.77
+NZ_AP027512.1_reverse_complement	MGLELH_06055	?	Glycosyltransferase	glycosyltransferase	7933	8707	1	774	30.88
+NZ_CP069453.1_reverse_complement	MGLELH_60160	wzx	O46/O134 family O-antigen flippase	wzx	1155	2457	1	1302	28.49
+NZ_CP069453.1_reverse_complement	MGLELH_60165	?	glycosyltransferase family 2 protein	glycosyltransferase	2458	3364	1	906	29.36
+NZ_CP069453.1_reverse_complement	MGLELH_60170	wzy	O-antigen polymerase	wzy	3500	4499	1	999	28.53
+NZ_CP069453.1_reverse_complement	MGLELH_60180	?	glycosyltransferase family 2 protein	glycosyltransferase	5291	6020	1	729	30.04
+NZ_CP028744.1_reverse_complement	MGLELH_36765	wzx	O-antigen flippase	wzx	965	2285	1	1320	31.97
+NZ_CP028744.1_reverse_complement	MGLELH_36775	wzy	O-antigen polymerase	wzy	2471	3449	1	978	29.04
+NZ_CP028744.1_reverse_complement	MGLELH_36780	?	Glycosyltransferase, 25 family	glycosyltransferase	3435	4221	1	786	32.44
+NZ_CP028744.1_reverse_complement	MGLELH_36810	?	Colanic acid biosynthesis glycosyltransferase	glycosyltransferase	9444	10662	1	1218	34.81
+NZ_CP063467.1_reverse_complement	MGLELH_58785	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.54
+NZ_CP063467.1_reverse_complement	MGLELH_58790	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.44
+NZ_CP063467.1_reverse_complement	MGLELH_58795	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.69
+NZ_CP063467.1_reverse_complement	MGLELH_58800	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3839	1	543	39.23
+NZ_CP063467.1_reverse_complement	MGLELH_58805	wzx	O141 family O-antigen flippase	wzx	3867	5109	1	1242	30.76
+NZ_CP063467.1_reverse_complement	MGLELH_58815	?	Glycosyltransferase	glycosyltransferase	6176	7148	1	972	29.12
+NZ_CP063467.1_reverse_complement	MGLELH_58820	wzy	O141 family O-antigen polymerase	wzy	7158	8262	1	1104	29.08
+NZ_CP063467.1_reverse_complement	MGLELH_58825	?	glycosyltransferase family 1 protein	glycosyltransferase	8236	9325	1	1089	30.58
+NZ_CP041411.1_reverse_complement	MGLELH_118820	wzx	O93 family O-antigen flippase	wzx	1117	2317	1	1200	31.0
+NZ_CP041411.1_reverse_complement	MGLELH_118825	wzy	O93 family O-antigen polymerase	wzy	2338	3850	1	1512	29.37
+NZ_CP024134.1_reverse_complement	MGLELH_31715	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.08
+NZ_CP024134.1_reverse_complement	MGLELH_31720	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1457	2327	1	870	37.24
+NZ_CP024134.1_reverse_complement	MGLELH_31735	wzx	O70 family O-antigen flippase	wzx	3909	5160	1	1251	34.85
+NZ_CP024134.1_reverse_complement	MGLELH_31745	?	Putative glycosyltransferase	glycosyltransferase	5716	6646	1	930	29.89
+NZ_CP024134.1_reverse_complement	MGLELH_31750	wzy	O70 family O-antigen polymerase	wzy	6656	7937	1	1281	30.91
+NZ_CP024134.1_reverse_complement	MGLELH_31755	?	Putative glycosyltransferase	glycosyltransferase	8014	9103	1	1089	30.39
+NZ_CP128958.1_reverse_complement	MGLELH_00775	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.46
+NZ_CP128958.1_reverse_complement	MGLELH_00780	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.33
+NZ_CP128958.1_reverse_complement	MGLELH_00785	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.23
+NZ_CP128958.1_reverse_complement	MGLELH_00790	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	38.98
+NZ_CP128958.1_reverse_complement	MGLELH_00795	wzx	O1 family O-antigen flippase	wzx	3877	5116	1	1239	31.4
+NZ_CP128958.1_reverse_complement	MGLELH_00810	wzy	O1 family O-antigen polymerase	wzy	7383	8388	1	1005	28.16
+NZ_CP128958.1_reverse_complement	MGLELH_00815	?	glycosyltransferase family 2 protein	glycosyltransferase	8389	9349	1	960	33.12
+NZ_CP063473.1_reverse_complement	MGLELH_87310	wzy	O126 family O-antigen polymerase	wzy	338	1352	1	1014	27.32
+NZ_CP063473.1_reverse_complement	MGLELH_87315	?	Glycosyltransferase	glycosyltransferase	1348	2350	1	1002	28.94
+NZ_CP063473.1_reverse_complement	MGLELH_87320	?	Glycosyltransferase	glycosyltransferase	2359	3253	1	894	30.2
+NZ_CP063473.1_reverse_complement	MGLELH_87355	wzx	O126 family O-antigen flippase	wzx	10419	11904	1	1485	27.0
+NZ_CP075374.1_reverse_complement	MGLELH_03885	wzx	O81 family O-antigen flippase	wzx	2502	3804	1	1302	29.57
+NZ_CP075374.1_reverse_complement	MGLELH_03900	wzy	O81 family O-antigen polymerase	wzy	5752	6982	1	1230	27.72
+NZ_CP075374.1_reverse_complement	MGLELH_03905	?	Glycosyltransferase family 2 protein	glycosyltransferase	7284	7992	1	708	30.51
+NZ_CP075374.1_reverse_complement	MGLELH_03910	?	Putative glycosyltransferase WbdM	glycosyltransferase	8036	9083	1	1047	34.19
+NZ_CP075374.1_reverse_complement	MGLELH_03915	?	Glycosyltransferase	glycosyltransferase	9079	9868	1	789	31.81
+NZ_CP024659.1_reverse_complement	MGLELH_07055	wzx	O145 family O-antigen flippase	wzx	4601	5828	1	1227	29.42
+NZ_CP024659.1_reverse_complement	MGLELH_07060	wzy	O145 family O-antigen polymerase	wzy	5835	7023	1	1188	29.38
+NZ_CP024659.1_reverse_complement	MGLELH_07100	?	glycosyltransferase WbuB	glycosyltransferase	14099	15311	1	1212	40.1
+NZ_CP073621.1_reverse_complement	MGLELH_15535	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	43.46
+NZ_CP073621.1_reverse_complement	MGLELH_15540	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_CP073621.1_reverse_complement	MGLELH_15545	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	42.92
+NZ_CP073621.1_reverse_complement	MGLELH_15550	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3853	1	555	32.25
+NZ_CP073621.1_reverse_complement	MGLELH_15555	wzx	O-antigen flippase	wzx	3861	5100	1	1239	34.3
+NZ_CP073621.1_reverse_complement	MGLELH_15580	?	Glycosyltransferase family 2 protein	glycosyltransferase	7712	8606	1	894	32.77
+NZ_CP073621.1_reverse_complement	MGLELH_15585	wzy	EpsG family protein	wzy	8919	9981	1	1062	29.85
+NZ_CP073621.1_reverse_complement	MGLELH_15590	?	Glycosyltransferase	glycosyltransferase	9990	11085	1	1095	29.32
+NZ_CP073621.1_reverse_complement	MGLELH_15595	?	Glycosyltransferase	glycosyltransferase	11081	11990	1	909	31.02
+NZ_CP041304.1_reverse_complement	MGLELH_16170	wzy	O24 family O-antigen polymerase	wzy	9645	10698	1	1053	28.4
+NZ_CP041304.1_reverse_complement	MGLELH_16175	wzx	O24 family O-antigen flippase	wzx	10713	11907	1	1194	29.56
+NZ_CP041304.1_reverse_complement	MGLELH_16195	?	glycosyltransferase family 4 protein	glycosyltransferase	15489	16560	1	1071	30.72
+NZ_CP013663.1_reverse_complement	MGLELH_86840	wzx	O168 family O-antigen flippase	wzx	351	1587	1	1236	28.4
+NZ_CP013663.1_reverse_complement	MGLELH_86850	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	2108	2885	1	777	29.6
+NZ_CP013663.1_reverse_complement	MGLELH_86855	?	Teichuronic acid biosynthesis glycosyltransferase	glycosyltransferase	2872	3988	1	1116	29.84
+NZ_CP013663.1_reverse_complement	MGLELH_86860	wzy	O168 family O-antigen polymerase	wzy	4003	5236	1	1233	27.49
+NZ_CP013663.1_reverse_complement	MGLELH_86865	?	GDP-mannose:cellobiosyl-diphosphopolyprenol alpha-mannosyltransferase	glycosyltransferase	5232	6354	1	1122	30.93
+NZ_CP139125.1_reverse_complement	MGLELH_110110	wzx	putative O-antigen flippase	wzx	5978	7232	1	1254	31.02
+NZ_CP139125.1_reverse_complement	MGLELH_110120	wzy	putative O-antigen polymerase	wzy	8646	9936	1	1290	30.08
+NZ_CP139125.1_reverse_complement	MGLELH_110130	?	Glycosyltransferase family 4 protein	glycosyltransferase	10895	12008	1	1113	32.26
+NZ_CP139125.1_reverse_complement	MGLELH_110135	?	Glycosyltransferase	glycosyltransferase	12000	12915	1	915	30.49
+NZ_CM129890.1_reverse_complement	MGLELH_24255	wzy	O27 family O-antigen polymerase	wzy	949	2182	1	1233	29.44
+NZ_CM129890.1_reverse_complement	MGLELH_24270	wzx	O27 family O-antigen flippase	wzx	3957	5244	1	1287	28.44
+NZ_AP027256.1_reverse_complement	MGLELH_46430	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.91
+NZ_AP027256.1_reverse_complement	MGLELH_46435	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_AP027256.1_reverse_complement	MGLELH_46440	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.46
+NZ_AP027256.1_reverse_complement	MGLELH_46445	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3831	1	534	39.51
+NZ_AP027256.1_reverse_complement	MGLELH_46455	wzx	O-antigen flippase	wzx	4644	5889	1	1245	30.52
+NZ_AP027256.1_reverse_complement	MGLELH_46465	wzy	EpsG family protein	wzy	6661	7729	1	1068	27.15
+NZ_AP027256.1_reverse_complement	MGLELH_46470	?	Glycosyltransferase	glycosyltransferase	7728	8568	1	840	29.52
+NZ_AP027256.1_reverse_complement	MGLELH_46475	?	Glycosyltransferase	glycosyltransferase	8564	9305	1	741	31.71
+NZ_AP027256.1_reverse_complement	MGLELH_46480	?	Glycosyltransferase family 4 protein	glycosyltransferase	9292	10435	1	1143	30.97
+NZ_CP091712.1_reverse_complement	MGLELH_02675	wzy	oligosaccharide repeat unit polymerase	wzy	3774	4953	1	1179	31.38
+NZ_CP091712.1_reverse_complement	MGLELH_02685	wzx	Flippase	wzx	5909	7088	1	1179	29.35
+NZ_AP021963.1_reverse_complement	MGLELH_02240	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	43.12
+NZ_AP021963.1_reverse_complement	MGLELH_02245	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	48.22
+NZ_AP021963.1_reverse_complement	MGLELH_02250	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.46
+NZ_AP021963.1_reverse_complement	MGLELH_02255	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3849	1	552	35.69
+NZ_AP021963.1_reverse_complement	MGLELH_02260	?	Glycosyltransferase	glycosyltransferase	3983	5087	1	1104	30.07
+NZ_AP021963.1_reverse_complement	MGLELH_02265	wzy	O75 family O-antigen polymerase	wzy	5083	6157	1	1074	29.14
+NZ_AP021963.1_reverse_complement	MGLELH_02290	wzx	O75 family O-antigen flippase	wzx	11055	12588	1	1533	29.03
+NZ_CP070229.1_reverse_complement	MGLELH_67195	wzx	O63 family O-antigen flippase	wzx	4789	6052	1	1263	31.35
+NZ_CP070229.1_reverse_complement	MGLELH_67205	?	Glycosyltransferase	glycosyltransferase	6672	7548	1	876	28.42
+NZ_CP070229.1_reverse_complement	MGLELH_67210	wzy	O63 family O-antigen polymerase	wzy	7547	8858	1	1311	27.69
+NZ_CP070229.1_reverse_complement	MGLELH_67220	?	Glycosyltransferase	glycosyltransferase	9641	10454	1	813	28.04
+NZ_CP070229.1_reverse_complement	MGLELH_67225	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	10473	11550	1	1077	33.15
+NZ_CP070229.1_reverse_complement	MGLELH_67230	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	11549	12428	1	879	35.15
+NZ_CP071259.1_reverse_complement	MGLELH_47630	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.28
+NZ_CP071259.1_reverse_complement	MGLELH_47635	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_CP071259.1_reverse_complement	MGLELH_47640	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.46
+NZ_CP071259.1_reverse_complement	MGLELH_47645	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3831	1	534	38.95
+NZ_CP071259.1_reverse_complement	MGLELH_47650	wzx	O-antigen flippase	wzx	3827	5105	1	1278	33.8
+NZ_CP071259.1_reverse_complement	MGLELH_47665	wzy	O-antigen polymerase	wzy	7582	8602	1	1020	27.16
+NZ_CP071259.1_reverse_complement	MGLELH_47675	?	Galactosyltransferase WbgM	glycosyltransferase	9543	10689	1	1146	33.6
+NZ_AP022295.1_reverse_complement	MGLELH_21455	wzx	O-antigen flippase	wzx	316	1588	1	1272	27.83
+NZ_AP022295.1_reverse_complement	MGLELH_21460	wzy	O-antigen polymerase	wzy	1574	2663	1	1089	29.57
+NZ_AP022295.1_reverse_complement	MGLELH_21465	?	Beta1,4-galactosyltransferase	glycosyltransferase	2753	3506	1	753	24.7
+NZ_AP022295.1_reverse_complement	MGLELH_21470	?	glycosyltransferase family 2 protein	glycosyltransferase	3507	4404	1	897	28.65
+NZ_AP022295.1_reverse_complement	MGLELH_21480	?	Amylovoran biosynthesis glycosyltransferase	glycosyltransferase	5680	6499	1	819	33.82
+NZ_CP013025.1_reverse_complement	MGLELH_67710	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.19
+NZ_CP013025.1_reverse_complement	MGLELH_67715	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.0
+NZ_CP013025.1_reverse_complement	MGLELH_67720	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	42.69
+NZ_CP013025.1_reverse_complement	MGLELH_67745	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7521	8064	1	543	33.89
+NZ_CP013025.1_reverse_complement	MGLELH_67750	?	Glycosyltransferase family 2 protein	glycosyltransferase	8065	8827	1	762	28.35
+NZ_CP013025.1_reverse_complement	MGLELH_67770	wzx	O119 family O-antigen flippase	wzx	12707	14195	1	1488	31.79
+NZ_CP013025.1_reverse_complement	MGLELH_67775	?	Glycosyltransferase family 2 protein	glycosyltransferase	14191	15340	1	1149	34.38
+NZ_CP013025.1_reverse_complement	MGLELH_67780	wzy	O119 family O-antigen polymerase	wzy	15336	16539	1	1203	29.84
+NZ_CP013025.1_reverse_complement	MGLELH_67785	?	Glycosyltransferase family 1 protein	glycosyltransferase	16535	17720	1	1185	30.97
+NZ_CP073996.1_reverse_complement	MGLELH_42935	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.0
+NZ_CP073996.1_reverse_complement	MGLELH_42940	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	48.22
+NZ_CP073996.1_reverse_complement	MGLELH_42945	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.46
+NZ_CP073996.1_reverse_complement	MGLELH_42950	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3846	1	549	37.52
+NZ_CP073996.1_reverse_complement	MGLELH_42955	wzx	O-antigen flippase	wzx	3853	5134	1	1281	33.49
+NZ_CP073996.1_reverse_complement	MGLELH_42960	wzy	O-antigen polymerase	wzy	5102	6272	1	1170	30.17
+NZ_CP098227.1_reverse_complement	MGLELH_100630	wzx	O172 family O-antigen flippase	wzx	320	1622	1	1302	29.42
+NZ_CP098227.1_reverse_complement	MGLELH_100635	wzy	O172 family O-antigen polymerase	wzy	1614	2790	1	1176	26.96
+NZ_CP098227.1_reverse_complement	MGLELH_100640	?	Glycosyltransferase family 25 (LPS biosynthesis protein)	glycosyltransferase	2786	3569	1	783	30.27
+NZ_CP098227.1_reverse_complement	MGLELH_100670	?	Glycosyltransferase WbuB	glycosyltransferase	9028	10237	1	1209	38.71
+NZ_CP195454.1_reverse_complement	MGLELH_16025	wzx	O161 family O-antigen flippase	wzx	9254	10496	1	1242	29.87
+NZ_CP195454.1_reverse_complement	MGLELH_16035	wzy	Wzy	wzy	11515	12712	1	1197	28.91
+NZ_CP180600.1_reverse_complement	MGLELH_30570	wzx	O98 family O-antigen flippase	wzx	2753	4055	1	1302	29.72
+NZ_CP180600.1_reverse_complement	MGLELH_30575	wzy	Membrane protein	wzy	4068	5223	1	1155	26.15
+NZ_CP180600.1_reverse_complement	MGLELH_30585	?	glycosyltransferase family 1 protein	glycosyltransferase	6366	7491	1	1125	33.07
+NZ_CP180600.1_reverse_complement	MGLELH_30605	?	glycosyltransferase WbuB	glycosyltransferase	10507	11758	1	1251	41.01
+NZ_AP028869.1_reverse_complement	MGLELH_07430	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1454	1	1083	47.0
+NZ_AP028869.1_reverse_complement	MGLELH_07435	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	1525	2068	1	543	37.02
+NZ_AP028869.1_reverse_complement	MGLELH_07450	wzx	S88 variant O45 family O-antigen flippase	wzx	3938	5195	1	1257	34.29
+NZ_AP028869.1_reverse_complement	MGLELH_07455	?	Glycosyltransferase	glycosyltransferase	5187	6159	1	972	38.68
+NZ_AP028869.1_reverse_complement	MGLELH_07460	wzy	O-antigen polymerase	wzy	6151	7243	1	1092	33.79
+NZ_AP028869.1_reverse_complement	MGLELH_07470	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	7883	8750	1	867	40.83
+NZ_CP157090.1_reverse_complement	MGLELH_01245	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	332	1472	1	1140	47.54
+NZ_CP157090.1_reverse_complement	MGLELH_01265	?	nucleoside-diphosphate sugar epimerase	sugar_biosynthesis	4103	5990	1	1887	41.28
+NZ_CP157090.1_reverse_complement	MGLELH_01270	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	6070	6610	1	540	38.89
+NZ_CP157090.1_reverse_complement	MGLELH_01280	wzx	O45 family O-antigen flippase	wzx	7417	8677	1	1260	35.48
+NZ_CP157090.1_reverse_complement	MGLELH_01290	wzy	O45 family O-antigen polymerase	wzy	9639	10788	1	1149	35.42
+NZ_CP157090.1_reverse_complement	MGLELH_01305	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	12375	13248	1	873	41.58
+NZ_CP025753.1_reverse_complement	MGLELH_87485	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.46
+NZ_CP025753.1_reverse_complement	MGLELH_87490	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2360	1	903	46.4
+NZ_CP025753.1_reverse_complement	MGLELH_87495	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	44.03
+NZ_CP025753.1_reverse_complement	MGLELH_87500	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3855	1	558	37.99
+NZ_CP025753.1_reverse_complement	MGLELH_87505	wzx	O147 family O-antigen flippase	wzx	3851	5084	1	1233	31.55
+NZ_CP025753.1_reverse_complement	MGLELH_87510	wzy	O147 family O-antigen polymerase	wzy	5139	6327	1	1188	26.85
+NZ_CP025753.1_reverse_complement	MGLELH_87515	?	glycosyltransferase family 2 protein	glycosyltransferase	6343	7213	1	870	31.95
+NZ_CP072802.1_reverse_complement	MGLELH_188795	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.92
+NZ_CP072802.1_reverse_complement	MGLELH_188800	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.22
+NZ_CP072802.1_reverse_complement	MGLELH_188805	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	42.43
+NZ_CP072802.1_reverse_complement	MGLELH_188810	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3834	1	537	37.62
+NZ_CP072802.1_reverse_complement	MGLELH_188815	wzx	flippase	wzx	3846	5085	1	1239	34.3
+NZ_CP072802.1_reverse_complement	MGLELH_188820	wzy	O-antigen polymerase	wzy	5092	6313	1	1221	28.99
+NZ_CP072802.1_reverse_complement	MGLELH_188825	?	glycosyltransferase family 2 protein	glycosyltransferase	6281	7304	1	1023	29.03
+NZ_CP072802.1_reverse_complement	MGLELH_188830	?	Glycosyltransferase family 4 protein	glycosyltransferase	7293	8385	1	1092	34.07
+NZ_CP080056.1_reverse_complement	MGLELH_00015	wzx	O173 family O-antigen flippase	wzx	862	2113	1	1251	31.73
+NZ_CP080056.1_reverse_complement	MGLELH_00020	?	glycosyltransferase	glycosyltransferase	2112	2874	1	762	32.55
+NZ_CP080056.1_reverse_complement	MGLELH_00055	wzy	O173 family O-antigen polymerase	wzy	9416	10496	1	1080	30.93
+NZ_AP027576.1_reverse_complement	MGLELH_30515	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.46
+NZ_AP027576.1_reverse_complement	MGLELH_30520	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	48.11
+NZ_AP027576.1_reverse_complement	MGLELH_30525	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	42.78
+NZ_AP027576.1_reverse_complement	MGLELH_30530	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3843	1	546	39.93
+NZ_AP027576.1_reverse_complement	MGLELH_30535	wzx	O149 family O-antigen flippase	wzx	3832	5017	1	1185	27.17
+NZ_AP027576.1_reverse_complement	MGLELH_30545	wzy	O149 family O-antigen polymerase	wzy	5867	6932	1	1065	27.14
+NZ_AP027576.1_reverse_complement	MGLELH_30550	?	Glycosyltransferase family 2 protein	glycosyltransferase	6928	7750	1	822	29.32
+NZ_CP086616.1_reverse_complement	MGLELH_01520	wbnH	O-antigen biosynthesis glycosyltransferase WbnH	glycosyltransferase	1347	2364	1	1017	34.22
+NZ_CP086616.1_reverse_complement	MGLELH_01550	wzx	O86 family O-antigen flippase	wzx	7835	9038	1	1203	27.76
+NZ_CP086616.1_reverse_complement	MGLELH_01555	wbnI	O-antigen biosynthesis glycosyltransferase WbnI	glycosyltransferase	9040	9745	1	705	28.23
+NZ_CP086616.1_reverse_complement	MGLELH_01565	wzy	hypothetical protein	wzy	10410	10995	1	585	29.23
+NZ_CP086616.1_reverse_complement	MGLELH_01570	wbnJ	O-antigen biosynthesis glycosyltransferase WbnJ	glycosyltransferase	11078	11822	1	744	31.32
+NZ_CP086616.1_reverse_complement	MGLELH_01575	wbnK	O-antigen biosynthesis glycosyltransferase WbnK	glycosyltransferase	11833	12742	1	909	32.34
+NZ_CP050044.1_reverse_complement	MGLELH_28210	wzx	O32 family O-antigen flippase	wzx	271	1729	1	1458	30.45
+NZ_CP050044.1_reverse_complement	MGLELH_28215	wzy	O32 family O-antigen polymerase	wzy	1732	2944	1	1212	27.64
+NZ_CP050044.1_reverse_complement	MGLELH_28220	?	glycosyltransferase family 2 protein	glycosyltransferase	2933	3821	1	888	31.08
+NZ_CP050044.1_reverse_complement	MGLELH_28225	?	glycosyltransferase	glycosyltransferase	3805	4534	1	729	28.4
+NZ_CP050044.1_reverse_complement	MGLELH_28235	wfeD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,4-galactosyltransferase	glycosyltransferase	5053	5767	1	714	28.57
+NZ_CP050044.1_reverse_complement	MGLELH_28240	?	colanic acid biosynthesis glycosyltransferase WcaL	glycosyltransferase	5769	6966	1	1197	32.0
+NZ_CP141075.1_reverse_complement	MGLELH_112100	wzx	O37 family O-antigen flippase	wzx	5504	6737	1	1233	29.44
+NZ_CP141075.1_reverse_complement	MGLELH_112110	wzy	O37 family O-antigen polymerase	wzy	7467	8601	1	1134	28.4
+NZ_CP141075.1_reverse_complement	MGLELH_112120	?	Glycosyltransferase	glycosyltransferase	9474	10542	1	1068	29.96
+NZ_CP141075.1_reverse_complement	MGLELH_112125	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	10561	11350	1	789	32.07
+NZ_CP025856.1_reverse_complement	MGLELH_03145	wbnH	O-antigen biosynthesis glycosyltransferase WbnH	glycosyltransferase	1347	2364	1	1017	33.53
+NZ_CP025856.1_reverse_complement	MGLELH_03180	wzx	O128 family O-antigen flippase	wzx	8357	9800	1	1443	28.55
+NZ_CP025856.1_reverse_complement	MGLELH_03185	?	alpha-1,2-fucosyltransferase	glycosyltransferase	9789	10641	1	852	27.58
+NZ_CP025856.1_reverse_complement	MGLELH_03195	?	glycosyltransferase	glycosyltransferase	11488	12388	1	900	29.78
+NZ_CP025856.1_reverse_complement	MGLELH_03200	wzy	O128 family O-antigen polymerase	wzy	12384	13428	1	1044	28.26
+NZ_CP104523.1_reverse_complement	MGLELH_12145	?	UDP-D-galactose--(glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase	glycosyltransferase	6402	7524	1	1122	28.88
+NZ_CP104523.1_reverse_complement	MGLELH_12150	wzy	O78 family O-antigen polymerase	wzy	7525	8647	1	1122	27.18
+NZ_CP104523.1_reverse_complement	MGLELH_12170	wzx	O78 family O-antigen flippase	wzx	11373	12789	1	1416	28.74
+NZ_CP051158.1_reverse_complement	MGLELH_165570	wzx	O130 family O-antigen flippase	wzx	604	1879	1	1275	29.25
+NZ_CP051158.1_reverse_complement	MGLELH_165585	wzy	O130 family O-antigen polymerase	wzy	3856	4972	1	1116	28.49
+NZ_CP051158.1_reverse_complement	MGLELH_165590	?	Glycosyltransferase family 2 protein	glycosyltransferase	4961	5900	1	939	34.08
+NZ_CP051158.1_reverse_complement	MGLELH_165595	?	Glycosyltransferase family 4 protein	glycosyltransferase	5970	7014	1	1044	33.24
+NZ_CP015229.1_reverse_complement	MGLELH_66535	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.28
+NZ_CP015229.1_reverse_complement	MGLELH_66540	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.78
+NZ_CP015229.1_reverse_complement	MGLELH_66545	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	44.03
+NZ_CP015229.1_reverse_complement	MGLELH_66550	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3840	1	543	36.28
+NZ_CP015229.1_reverse_complement	MGLELH_66555	wzx	O36 family O-antigen flippase	wzx	3857	5102	1	1245	32.93
+NZ_CP015229.1_reverse_complement	MGLELH_66565	?	glycosyltransferase	glycosyltransferase	5815	6625	1	810	30.12
+NZ_CP015229.1_reverse_complement	MGLELH_66570	wzy	O36 family O-antigen polymerase	wzy	6635	7892	1	1257	31.03
+NZ_CP015229.1_reverse_complement	MGLELH_66575	?	glycosyltransferase family 1 protein	glycosyltransferase	7894	8920	1	1026	30.8
+NZ_CP034106.1_reverse_complement	MGLELH_00585	wzx	O-antigen flippase	wzx	922	2143	1	1221	28.83
+NZ_CP034106.1_reverse_complement	MGLELH_00590	wzy	O-antigen polymerase	wzy	2135	3323	1	1188	27.86
+NZ_CP034106.1_reverse_complement	MGLELH_00595	?	Glycosyltransferase	glycosyltransferase	3300	4038	1	738	26.69
+NZ_CP034106.1_reverse_complement	MGLELH_00610	?	Glycosyltransferase	glycosyltransferase	5360	6077	1	717	31.1
+NZ_CP019051.1_reverse_complement	MGLELH_14945	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.19
+NZ_CP019051.1_reverse_complement	MGLELH_14950	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.56
+NZ_CP019051.1_reverse_complement	MGLELH_14955	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.12
+NZ_CP019051.1_reverse_complement	MGLELH_14960	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3294	3840	1	546	35.9
+NZ_CP019051.1_reverse_complement	MGLELH_14975	wzx	O35 family O-antigen flippase	wzx	6304	7510	1	1206	29.27
+NZ_CP019051.1_reverse_complement	MGLELH_14995	wzy	O35 family O-antigen polymerase	wzy	10952	11975	1	1023	27.96
+NZ_CP019051.1_reverse_complement	MGLELH_15000	?	Glycosyltransferase	glycosyltransferase	11996	12782	1	786	28.5
+NZ_CM129872.1_reverse_complement	MGLELH_05760	wzx	O21 family O-antigen flippase	wzx	384	1620	1	1236	31.88
+NZ_CM129872.1_reverse_complement	MGLELH_05765	?	Glycosyltransferase	glycosyltransferase	1619	2411	1	792	31.06
+NZ_CM129872.1_reverse_complement	MGLELH_05775	?	Glycosyltransferase family 25 protein	glycosyltransferase	3231	3912	1	681	33.77
+NZ_CM129872.1_reverse_complement	MGLELH_05780	wzy	O21 family O-antigen polymerase	wzy	3908	4991	1	1083	26.96
+NZ_CP040269.1_reverse_complement	MGLELH_79210	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.09
+NZ_CP040269.1_reverse_complement	MGLELH_79215	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.67
+NZ_CP040269.1_reverse_complement	MGLELH_79220	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	43.49
+NZ_CP040269.1_reverse_complement	MGLELH_79225	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3858	1	561	38.5
+NZ_CP040269.1_reverse_complement	MGLELH_79240	?	Putative glycosyltransferase	glycosyltransferase	5810	6593	1	783	28.86
+NZ_CP040269.1_reverse_complement	MGLELH_79245	wzx	O48 family O-antigen flippase	wzx	6558	7782	1	1224	29.82
+NZ_CP040269.1_reverse_complement	MGLELH_79255	wzy	O48 family O-antigen polymerase	wzy	9046	10168	1	1122	30.21
+NZ_CP073929.1_reverse_complement	MGLELH_14495	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.37
+NZ_CP073929.1_reverse_complement	MGLELH_14500	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.33
+NZ_CP073929.1_reverse_complement	MGLELH_14505	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.23
+NZ_CP073929.1_reverse_complement	MGLELH_14510	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3827	1	531	38.79
+NZ_CP073929.1_reverse_complement	MGLELH_14515	wzx	O132 family O-antigen flippase	wzx	3855	5130	1	1275	33.41
+NZ_CP073929.1_reverse_complement	MGLELH_14525	?	Alpha-D-GlcNAc-pyrophosphate polyprenol, alpha-3-L-rhamnosyltransferase	glycosyltransferase	6221	7028	1	807	27.76
+NZ_CP073929.1_reverse_complement	MGLELH_14540	wzy	O132 family O-antigen polymerase	wzy	8787	9987	1	1200	28.42
+NZ_AP027813.1_reverse_complement	MGLELH_15075	?	Glycosyltransferase	glycosyltransferase	179	998	1	819	31.99
+NZ_AP027813.1_reverse_complement	MGLELH_15090	wzy	O185 family O-antigen polymerase	wzy	2371	3742	1	1371	29.76
+NZ_AP027813.1_reverse_complement	MGLELH_15095	?	Glycosyltransferase	glycosyltransferase	3729	4626	1	897	29.32
+NZ_AP027813.1_reverse_complement	MGLELH_15100	wzx	O185 family O-antigen flippase	wzx	4633	6067	1	1434	30.75
+NZ_AP027813.1_reverse_complement	MGLELH_15105	?	Glycosyltransferase family 2 protein	glycosyltransferase	6044	7022	1	978	28.83
+NZ_CP048604.1_reverse_complement	MGLELH_20640	wzx	O170 family O-antigen flippase	wzx	333	1581	1	1248	32.29
+NZ_CP048604.1_reverse_complement	MGLELH_20650	?	Glycosyltransferase	glycosyltransferase	2695	3628	1	933	32.37
+NZ_CP048604.1_reverse_complement	MGLELH_20655	?	Glycosyltransferase family 2	glycosyltransferase	3611	4418	1	807	29.37
+NZ_CP048604.1_reverse_complement	MGLELH_20660	wzy	O170 family O-antigen polymerase	wzy	4417	5590	1	1173	29.5
+NZ_CP038321.1_reverse_complement	MGLELH_03215	wzy	O157 family O-antigen polymerase	wzy	1097	2282	1	1185	29.96
+NZ_CP038321.1_reverse_complement	MGLELH_03225	wzx	O157 family O-antigen flippase	wzx	2989	4375	1	1386	31.39
+NZ_CP038321.1_reverse_complement	MGLELH_03230	rfbE	GDP-perosamine synthase RfbE/PerA	sugar_biosynthesis	4377	5472	1	1095	34.89
+NZ_CP027371.1_reverse_complement	MGLELH_09290	?	Glycosyltransferase	glycosyltransferase	399	1443	1	1044	30.94
+NZ_CP027371.1_reverse_complement	MGLELH_09325	wzy	O181 family O-antigen polymerase	wzy	7197	8448	1	1251	26.46
+NZ_CP027371.1_reverse_complement	MGLELH_09330	wzx	O181 family O-antigen flippase	wzx	8466	9738	1	1272	29.56
+NZ_CP074890.1_reverse_complement	MGLELH_00255	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	44.11
+NZ_CP074890.1_reverse_complement	MGLELH_00260	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.89
+NZ_CP074890.1_reverse_complement	MGLELH_00265	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.12
+NZ_CP074890.1_reverse_complement	MGLELH_00270	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3840	1	543	37.94
+NZ_CP074890.1_reverse_complement	MGLELH_00275	wzx	O26 family O-antigen flippase	wzx	3839	5102	1	1263	31.27
+NZ_CP074890.1_reverse_complement	MGLELH_00280	wzy	O26 family O-antigen polymerase	wzy	5167	6190	1	1023	31.09
+NZ_CP074890.1_reverse_complement	MGLELH_00285	?	Glycosyltransferase	glycosyltransferase	6205	7000	1	795	31.7
+NZ_CM129875.1_reverse_complement	MGLELH_09680	?	Glycosyltransferase	glycosyltransferase	286	1444	1	1158	30.66
+NZ_CM129875.1_reverse_complement	MGLELH_09685	wzy	O30 family O-antigen polymerase	wzy	1427	2654	1	1227	30.89
+NZ_CM129875.1_reverse_complement	MGLELH_09690	wzx	O30 family O-antigen flippase	wzx	2650	3856	1	1206	28.69
+NZ_CM129875.1_reverse_complement	MGLELH_09695	?	Glycosyltransferase	glycosyltransferase	3884	5039	1	1155	29.26
+NZ_CP035312.1_reverse_complement	MGLELH_120475	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	296	1457	1	1161	42.46
+NZ_CP035312.1_reverse_complement	MGLELH_120480	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.11
+NZ_CP035312.1_reverse_complement	MGLELH_120485	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.34
+NZ_CP035312.1_reverse_complement	MGLELH_120505	wzx	O-antigen flippase Wzx	wzx	5276	6548	1	1272	30.82
+NZ_CP035312.1_reverse_complement	MGLELH_120515	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7604	8138	1	534	34.08
+NZ_CP035312.1_reverse_complement	MGLELH_120525	wzy	O-antigen polymerase	wzy	9132	10176	1	1044	27.2
+NZ_CP158441.1_reverse_complement	MGLELH_13510	wzy	O-antigen polymerase	wzy	2574	3963	1	1389	29.73
+NZ_CP158441.1_reverse_complement	MGLELH_13515	wzx	Polysacc-synt-C domain-containing protein	wzx	3922	5167	1	1245	29.32
+NZ_CP158441.1_reverse_complement	MGLELH_13535	?	Glycosyltransferase family 2 protein	glycosyltransferase	8314	9106	1	792	28.41
+NZ_CP081724.1_reverse_complement	MGLELH_14420	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.0
+NZ_CP081724.1_reverse_complement	MGLELH_14425	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.11
+NZ_CP081724.1_reverse_complement	MGLELH_14430	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.0
+NZ_CP081724.1_reverse_complement	MGLELH_14435	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3839	1	543	34.99
+NZ_CP081724.1_reverse_complement	MGLELH_14445	wzx	O10 family O-antigen flippase	wzx	5052	6573	1	1521	30.31
+NZ_CP081724.1_reverse_complement	MGLELH_14455	?	glycosyltransferase family 2 protein	glycosyltransferase	7603	8524	1	921	34.31
+NZ_CP081724.1_reverse_complement	MGLELH_14460	wzy	O10 family O-antigen polymerase	wzy	8593	9637	1	1044	28.26
+NZ_CP135643.1_reverse_complement	MGLELH_15175	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.0
+NZ_CP135643.1_reverse_complement	MGLELH_15180	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.89
+NZ_CP135643.1_reverse_complement	MGLELH_15185	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.0
+NZ_CP135643.1_reverse_complement	MGLELH_15190	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3847	1	549	34.79
+NZ_CP135643.1_reverse_complement	MGLELH_15195	wzx	O4 family O-antigen flippase	wzx	3858	5097	1	1239	36.16
+NZ_CP135643.1_reverse_complement	MGLELH_15200	?	glycosyltransferase family 2 protein	glycosyltransferase	5093	5996	1	903	31.89
+NZ_CP135643.1_reverse_complement	MGLELH_15205	wzy	O4 family O-antigen polymerase	wzy	5992	7180	1	1188	30.98
+NZ_CP135643.1_reverse_complement	MGLELH_15210	?	glycosyltransferase	glycosyltransferase	7292	8396	1	1104	32.52
+NZ_CP135643.1_reverse_complement	MGLELH_15230	?	Glycosyltransferase WbuB	glycosyltransferase	11673	12882	1	1209	39.29
+NZ_CP046009.1_reverse_complement	MGLELH_17155	wzx	O96 family O-antigen flippase	wzx	334	1582	1	1248	32.45
+NZ_CP046009.1_reverse_complement	MGLELH_17165	?	N-glycosyltransferase	glycosyltransferase	2687	3602	1	915	31.8
+NZ_CP046009.1_reverse_complement	MGLELH_17170	wzy	O96 family O-antigen polymerase	wzy	3639	4890	1	1251	29.34
+NZ_CM128543.1_reverse_complement	MGLELH_49120	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.09
+NZ_CM128543.1_reverse_complement	MGLELH_49125	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.0
+NZ_CM128543.1_reverse_complement	MGLELH_49130	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.34
+NZ_CM128543.1_reverse_complement	MGLELH_49135	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3852	1	555	39.1
+NZ_CM128543.1_reverse_complement	MGLELH_49140	wzx	O-antigen flippase	wzx	3848	5105	1	1257	34.53
+NZ_CM128543.1_reverse_complement	MGLELH_49145	wzy	O-antigen polymerase	wzy	5106	6231	1	1125	29.16
+NZ_CM128543.1_reverse_complement	MGLELH_49150	?	Rhamnosyltransferase	glycosyltransferase	6218	7121	1	903	33.0
+NZ_CM128543.1_reverse_complement	MGLELH_49155	?	Glycosyltransferase family 2 protein	glycosyltransferase	7180	8053	1	873	31.84
+NZ_CM128543.1_reverse_complement	MGLELH_49160	?	glycosyltransferase family 1 protein	glycosyltransferase	8560	9664	1	1104	32.43
+NZ_CP071375.1_reverse_complement	MGLELH_49535	wzx	O108 family O-antigen flippase	wzx	10849	12052	1	1203	33.58
+NZ_CP071375.1_reverse_complement	MGLELH_49540	wzy	O108 family O-antigen polymerase	wzy	12071	13310	1	1239	33.74
+NZ_CP019245.1_reverse_complement	MGLELH_04930	wzx	O41 family O-antigen flippase	wzx	435	1668	1	1233	32.77
+NZ_CP019245.1_reverse_complement	MGLELH_04935	?	Putative glycosyltransferase	glycosyltransferase	1667	2597	1	930	30.65
+NZ_CP019245.1_reverse_complement	MGLELH_04940	?	Putative glycosyltransferase	glycosyltransferase	2608	3865	1	1257	32.78
+NZ_CP019245.1_reverse_complement	MGLELH_04945	wzy	O41 family O-antigen polymerase	wzy	3883	5080	1	1197	28.07
+NZ_CP019245.1_reverse_complement	MGLELH_04950	?	Putative glycosyltransferase	glycosyltransferase	5076	5826	1	750	28.53
+NZ_CP012376.1_reverse_complement	MGLELH_01585	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.92
+NZ_CP012376.1_reverse_complement	MGLELH_01590	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.22
+NZ_CP012376.1_reverse_complement	MGLELH_01595	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3287	1	873	41.7
+NZ_CP012376.1_reverse_complement	MGLELH_01605	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4160	4709	1	549	34.43
+NZ_CP012376.1_reverse_complement	MGLELH_01620	wzx	O71 family O-antigen flippase	wzx	6222	7497	1	1275	30.35
+NZ_CP012376.1_reverse_complement	MGLELH_01630	wzy	O71 family O-antigen polymerase	wzy	8901	10191	1	1290	31.09
+NZ_AP027515.1_reverse_complement	MGLELH_00450	wzx	flippase	wzx	519	1887	1	1368	32.75
+NZ_AP027515.1_reverse_complement	MGLELH_00455	wzy	O-antigen polysaccharide polymerase Wzy	wzy	1975	3208	1	1233	29.68
+NZ_AP027515.1_reverse_complement	MGLELH_00460	?	glycosyltransferase	glycosyltransferase	3204	4128	1	924	32.58
+NZ_AP027515.1_reverse_complement	MGLELH_00465	?	glycosyltransferase family 1 protein	glycosyltransferase	4120	5233	1	1113	29.74
+NZ_AP027515.1_reverse_complement	MGLELH_00470	?	Mannosyltransferase	glycosyltransferase	5243	6254	1	1011	35.31
+NZ_CP023386.1_reverse_complement	MGLELH_07600	wzx	O166 family O-antigen flippase	wzx	433	1687	1	1254	27.83
+NZ_CP023386.1_reverse_complement	MGLELH_07605	?	glycosyltransferase family 2 protein	glycosyltransferase	1679	2489	1	810	29.63
+NZ_CP023386.1_reverse_complement	MGLELH_07610	wzy	O166 family O-antigen polymerase	wzy	2577	3651	1	1074	27.56
+NZ_CP023386.1_reverse_complement	MGLELH_07615	?	glycosyltransferase family 4 protein	glycosyltransferase	3661	4744	1	1083	30.84
+NZ_CP055256.1_reverse_complement	MGLELH_125485	wzx	O125 family O-antigen flippase	wzx	353	1625	1	1272	28.54
+NZ_CP055256.1_reverse_complement	MGLELH_125490	?	Glycosyltransferase	glycosyltransferase	1631	2552	1	921	29.64
+NZ_CP055256.1_reverse_complement	MGLELH_125495	?	Glycosyltransferase	glycosyltransferase	2553	3399	1	846	29.43
+NZ_CP055256.1_reverse_complement	MGLELH_125500	wzy	O125 family O-antigen polymerase	wzy	3388	4711	1	1323	27.59
+NZ_CP055256.1_reverse_complement	MGLELH_125510	?	D-inositol 3-phosphate glycosyltransferase	glycosyltransferase	5749	6778	1	1029	30.71
+NZ_CP116106.1_reverse_complement	MGLELH_14215	wzy	O23 family O-antigen polymerase	wzy	436	1462	1	1026	25.73
+NZ_CP116106.1_reverse_complement	MGLELH_14220	?	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	1458	2328	1	870	29.77
+NZ_CP116106.1_reverse_complement	MGLELH_14225	wzx	O23 family O-antigen flippase	wzx	2300	3506	1	1206	29.52
+NZ_CP116106.1_reverse_complement	MGLELH_14240	?	glycosyltransferase family 1 protein	glycosyltransferase	5110	6229	1	1119	31.64
+NZ_AP023205.1_reverse_complement	MGLELH_46905	wzx	O159 family O-antigen flippase	wzx	318	1635	1	1317	27.41
+NZ_AP023205.1_reverse_complement	MGLELH_46910	?	Glycosyltransferase	glycosyltransferase	1631	2369	1	738	29.4
+NZ_AP023205.1_reverse_complement	MGLELH_46920	wzy	O159 family O-antigen polymerase	wzy	3163	4189	1	1026	28.36
+NZ_CP138416.1_reverse_complement	MGLELH_92395	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.63
+NZ_CP138416.1_reverse_complement	MGLELH_92400	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1532	2357	1	825	46.42
+NZ_CP138416.1_reverse_complement	MGLELH_92405	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	42.81
+NZ_CP138416.1_reverse_complement	MGLELH_92410	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3849	1	552	38.41
+NZ_CP138416.1_reverse_complement	MGLELH_92415	wzx	O-antigen flippase	wzx	3862	5269	1	1407	29.78
+NZ_CP138416.1_reverse_complement	MGLELH_92420	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	5293	6016	1	723	28.49
+NZ_CP138416.1_reverse_complement	MGLELH_92425	wzy	O-antigen polymerase	wzy	6012	7335	1	1323	29.4
+NZ_CP138416.1_reverse_complement	MGLELH_92430	?	N-glycosyltransferase	glycosyltransferase	7327	8206	1	879	28.56
+NZ_CP138416.1_reverse_complement	MGLELH_92435	?	D-inositol 3-phosphate glycosyltransferase	glycosyltransferase	8221	9385	1	1164	31.36
+NZ_CP159686.1_reverse_complement	MGLELH_04320	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	304	1459	1	1155	43.12
+NZ_CP159686.1_reverse_complement	MGLELH_04325	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	47.44
+NZ_CP159686.1_reverse_complement	MGLELH_04330	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2416	3295	1	879	43.57
+NZ_CP159686.1_reverse_complement	MGLELH_04335	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3299	3845	1	546	33.7
+NZ_CP159686.1_reverse_complement	MGLELH_04340	wzx	O7 family O-antigen flippase	wzx	3848	5279	1	1431	29.91
+NZ_CP159686.1_reverse_complement	MGLELH_04365	wzy	O7 family O-antigen polymerase	wzy	8534	9710	1	1176	29.51
+NZ_CP159686.1_reverse_complement	MGLELH_04370	?	glycosyltransferase family 1 protein	glycosyltransferase	9706	10819	1	1113	29.92
+NZ_CP159686.1_reverse_complement	MGLELH_04375	wbbD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	10808	11636	1	828	31.64
+NZ_CP027255.1_reverse_complement	MGLELH_00830	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.46
+NZ_CP027255.1_reverse_complement	MGLELH_00835	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.44
+NZ_CP027255.1_reverse_complement	MGLELH_00840	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.23
+NZ_CP027255.1_reverse_complement	MGLELH_00845	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3833	1	537	38.55
+NZ_CP027255.1_reverse_complement	MGLELH_00855	wzx	MATE family efflux transporter	wzx	4802	6257	1	1455	30.72
+NZ_CP027255.1_reverse_complement	MGLELH_00860	?	glycosyltransferase family 2 protein	glycosyltransferase	6279	7179	1	900	29.22
+NZ_CP027255.1_reverse_complement	MGLELH_00865	wzy	EpsG family protein	wzy	7211	8324	1	1113	27.49
+NZ_CP027255.1_reverse_complement	MGLELH_00870	?	glycosyltransferase	glycosyltransferase	8338	9181	1	843	30.72
+NZ_CP027255.1_reverse_complement	MGLELH_00880	?	glycosyltransferase	glycosyltransferase	10311	11202	1	891	32.88
+NZ_CP032989.1_reverse_complement	MGLELH_152125	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1446	1	1074	43.39
+NZ_CP032989.1_reverse_complement	MGLELH_152130	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	45.67
+NZ_CP032989.1_reverse_complement	MGLELH_152135	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3291	1	876	42.92
+NZ_CP032989.1_reverse_complement	MGLELH_152140	?	Putative glycosyltransferase	glycosyltransferase	3344	4136	1	792	32.58
+NZ_CP032989.1_reverse_complement	MGLELH_152145	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4154	4712	1	558	32.26
+NZ_CP032989.1_reverse_complement	MGLELH_152160	wzx	O-antigen translocase	wzx	6222	7473	1	1251	31.49
+NZ_CP032989.1_reverse_complement	MGLELH_152170	wzy	hypothetical protein	wzy	8407	9712	1	1305	33.26
+NZ_CP118681.1_reverse_complement	MGLELH_05685	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.83
+NZ_CP118681.1_reverse_complement	MGLELH_05690	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.33
+NZ_CP118681.1_reverse_complement	MGLELH_05695	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.23
+NZ_CP118681.1_reverse_complement	MGLELH_05700	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3839	1	543	36.83
+NZ_CP118681.1_reverse_complement	MGLELH_05705	wzx	O51 family O-antigen flippase	wzx	3912	5472	1	1560	28.53
+NZ_CP118681.1_reverse_complement	MGLELH_05710	?	Glycosyltransferase	glycosyltransferase	5471	6338	1	867	29.87
+NZ_CP118681.1_reverse_complement	MGLELH_05715	wzy	O51 family O-antigen polymerase	wzy	6347	7385	1	1038	28.23
+NZ_CP118681.1_reverse_complement	MGLELH_05720	?	Putative glycosyltransferase	glycosyltransferase	7384	8212	1	828	26.69
+NZ_CP118681.1_reverse_complement	MGLELH_05725	?	Glycosyltransferase	glycosyltransferase	8213	8966	1	753	30.01
+NZ_CP118681.1_reverse_complement	MGLELH_05730	?	Glycosyltransferase	glycosyltransferase	8962	10075	1	1113	29.83
+NZ_CM127463.1_reverse_complement	MGLELH_12845	wzy	O38 family O-antigen polymerase	wzy	1133	2360	1	1227	27.22
+NZ_CM127463.1_reverse_complement	MGLELH_12850	wzx	O38 family O-antigen flippase	wzx	2414	3671	1	1257	30.23
+NZ_CM127463.1_reverse_complement	MGLELH_12860	?	Glycosyltransferase sugar-binding region containing DXD motif protein	glycosyltransferase	4518	5205	1	687	31.3
+NZ_CM127463.1_reverse_complement	MGLELH_12870	?	Glycosyltransferase family 2 protein	glycosyltransferase	6240	6987	1	747	32.66
+NZ_CM129855.1_reverse_complement	MGLELH_09775	?	Glycosyltransferase family 4 protein	glycosyltransferase	1882	2983	1	1101	32.88
+NZ_CM129855.1_reverse_complement	MGLELH_09780	?	Glycosyltransferase family 4 protein	glycosyltransferase	2969	4025	1	1056	32.29
+NZ_CM129855.1_reverse_complement	MGLELH_09785	wzx	O29 family O-antigen flippase	wzx	4024	5425	1	1401	31.83
+NZ_CM129855.1_reverse_complement	MGLELH_09790	wzy	O29 family O-antigen polymerase	wzy	5427	6585	1	1158	30.05
+NZ_CM129855.1_reverse_complement	MGLELH_09815	?	glycosyltransferase WbuB	glycosyltransferase	10984	12196	1	1212	44.22
+NZ_AP019675.1_reverse_complement	MGLELH_09495	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	296	1448	1	1152	41.67
+NZ_AP019675.1_reverse_complement	MGLELH_09500	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1444	2317	1	873	36.88
+NZ_AP019675.1_reverse_complement	MGLELH_09520	wzx	O184 family O-antigen flippase	wzx	4355	5609	1	1254	34.05
+NZ_AP019675.1_reverse_complement	MGLELH_09525	?	Putative glycosyltransferase	glycosyltransferase	5634	6864	1	1230	28.62
+NZ_AP019675.1_reverse_complement	MGLELH_09530	wzy	O184 family O-antigen polymerase	wzy	6879	8223	1	1344	28.79
+NZ_AP019675.1_reverse_complement	MGLELH_09535	?	Mannosyltransferase	glycosyltransferase	8219	9257	1	1038	31.79
+NZ_AP019675.1_reverse_complement	MGLELH_09560	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	13284	14031	1	747	33.47
+NZ_AP027432.1_reverse_complement	MGLELH_31780	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.82
+NZ_AP027432.1_reverse_complement	MGLELH_31785	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.11
+NZ_AP027432.1_reverse_complement	MGLELH_31790	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3295	1	882	43.88
+NZ_AP027432.1_reverse_complement	MGLELH_31795	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3827	1	531	38.61
+NZ_AP027432.1_reverse_complement	MGLELH_31800	wzy	O139 family O-antigen polymerase	wzy	4152	5391	1	1239	29.38
+NZ_AP027432.1_reverse_complement	MGLELH_31810	wzx	O139 family O-antigen flippase	wzx	6246	7467	1	1221	30.22
+NZ_AP027432.1_reverse_complement	MGLELH_31820	?	Glycosyltransferase	glycosyltransferase	8522	9665	1	1143	33.51
+NZ_CP015912.1_reverse_complement	MGLELH_49575	wzx	O160 family O-antigen flippase	wzx	383	1631	1	1248	30.61
+NZ_CP015912.1_reverse_complement	MGLELH_49580	?	glycosyltransferase family 2 protein	glycosyltransferase	1620	2622	1	1002	30.24
+NZ_CP015912.1_reverse_complement	MGLELH_49585	?	Glycosyltransferase family 2 protein	glycosyltransferase	2621	3554	1	933	28.94
+NZ_CP015912.1_reverse_complement	MGLELH_49590	wzy	O160 family O-antigen polymerase	wzy	3550	4651	1	1101	27.7
+NZ_CM129848.1_reverse_complement	MGLELH_12645	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	43.46
+NZ_CM129848.1_reverse_complement	MGLELH_12650	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	47.67
+NZ_CM129848.1_reverse_complement	MGLELH_12655	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	42.78
+NZ_CM129848.1_reverse_complement	MGLELH_12660	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3295	3832	1	537	37.99
+NZ_CM129848.1_reverse_complement	MGLELH_12665	wzx	O133 family O-antigen flippase	wzx	3871	5113	1	1242	31.8
+NZ_CM129848.1_reverse_complement	MGLELH_12670	?	Glycosyltransferase family 2 protein	glycosyltransferase	5088	5991	1	903	29.46
+NZ_CM129848.1_reverse_complement	MGLELH_12680	wzy	O133 family O-antigen polymerase	wzy	7416	8574	1	1158	29.02
+AB811621.1	?	wfdR	putative glycosyltransferase	glycosyltransferase	290	1136	1	846	31.91
+AB811621.1	?	wzx	O-antigen flippase	wzx	1137	2268	1	1131	28.12
+AB811621.1	?	welQ	putative glycosyltransferase	glycosyltransferase	2438	3344	1	906	29.69
+AB811621.1	?	wzy	O-antigen polymerase	wzy	3340	4480	1	1140	27.63
+AB811621.1	?	welR	putative glycosyltransferase	glycosyltransferase	4442	5270	1	828	31.64
+AB811621.1	?	wbdN	putative glycosyltransferase	glycosyltransferase	5272	6001	1	729	30.32
+DQ000315.1	?	wbaC	WbaC	sugar_biosynthesis	1157	2162	1	1005	31.54
+DQ000315.1	?	wbaD	WbaD	sugar_biosynthesis	2154	3357	1	1203	33.67
+DQ000315.1	?	wzy	Wzy	wzy	6383	7715	1	1332	31.61
+DQ000315.1	?	wzx	Wzx	wzx	7756	8992	1	1236	31.72
+DQ462205.1	?	wzx	Wzx	wzx	614	1685	1	1071	34.55
+DQ462205.1	?	wzy	Wzy	wzy	2856	4236	1	1380	34.13
+DQ462205.1	?	wbeX	WbeX	glycosyltransferase	4228	5239	1	1011	30.17
+DQ462205.1	?	wfdK	WbeY	glycosyltransferase	5235	6153	1	918	36.27
+AB811605.1	?	wzy	O-antigen polymerase	wzy	2853	4080	1	1227	30.73
+AB811605.1	?	wzx	O-antigen flippase	wzx	4072	5455	1	1383	29.86
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	5438	6497	1	1059	30.22
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	6493	7240	1	747	30.12
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	7236	8292	1	1056	30.4
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	8260	8743	1	483	31.88
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	8739	9198	1	459	31.59
+EU296423.1	?	rmlB	RmlB	sugar_biosynthesis	45	1131	1	1086	44.29
+EU296423.1	?	rmlD	RmlD	sugar_biosynthesis	1130	2030	1	900	49.11
+EU296423.1	?	rmlA	RmlA	sugar_biosynthesis	2088	2967	1	879	43.23
+EU296423.1	?	rmlC	RmlC	sugar_biosynthesis	2971	3517	1	546	37.55
+EU296423.1	?	wzx	Wzx	wzx	3532	4789	1	1257	34.37
+EU296423.1	?	rfbF	RfbF	sugar_biosynthesis	4818	5709	1	891	32.66
+EU296423.1	?	rfbG	RfbG	sugar_biosynthesis	5701	6607	1	906	30.46
+EU296423.1	?	wzy	Wzy	wzy	6627	7776	1	1149	27.42
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	1435	3658	1	2223	35.94
+AB812038.1	?	wzm	O-antigen ABC transporter permease	wzm	3654	4434	1	780	34.1
+AB812038.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4440	5193	1	753	38.78
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	5210	6290	1	1080	40.28
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	6299	7445	1	1146	35.78
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	8651	10634	1	1983	31.47
+AB811620.1	?	wbaC	putative glycosyltransferase	glycosyltransferase	96	1101	1	1005	31.54
+AB811620.1	?	wbaD	putative glycosyltransferase	glycosyltransferase	1093	2296	1	1203	33.67
+AB811620.1	?	wzy	O-antigen polymerase	wzy	5322	6654	1	1332	31.53
+AB811620.1	?	wzx	O-antigen flippase	wzx	6695	7931	1	1236	31.96
+DQ069297.1	?	rmlB	dTDP-D-glucose 4,6-dehydratase	sugar_biosynthesis	1136	2213	1	1077	42.71
+DQ069297.1	?	rmlA	glucose-1-phosphate thymidylyl transferase	sugar_biosynthesis	2209	3073	1	864	34.14
+DQ069297.1	?	rmlC	dTDP-6-deoxy-D-glucose-3,5 epimerase	sugar_biosynthesis	3069	3621	1	552	29.71
+DQ069297.1	?	wzx	O-antigen flippase	wzx	4452	5790	1	1338	32.29
+DQ069297.1	?	wfaA	glycosyltransferase	glycosyltransferase	5782	6907	1	1125	30.22
+DQ069297.1	?	wzy	O-antigen polymerase	wzy	6896	8159	1	1263	30.64
+DQ069297.1	?	weiB	glycosyltransferase	glycosyltransferase	8158	9235	1	1077	31.29
+DQ069297.1	?	wbgP	glycosyltransferase	glycosyltransferase	9231	10047	1	816	31.37
+DQ069297.1	?	wfaE	glycosyltransferase	glycosyltransferase	10557	11553	1	996	28.92
+AB812049.1	?	wfnE	putative glycosyltransferase	glycosyltransferase	309	1401	1	1092	31.87
+AB812049.1	?	wdaW	putative glycosyltransferase	glycosyltransferase	1387	2464	1	1077	28.97
+AB812049.1	?	wzx	O-antigen flippase	wzx	3441	4692	1	1251	33.09
+AB812049.1	?	wzy	O-antigen polymerase	wzy	5816	7022	1	1206	30.85
+AB812049.1	?	wfnH	putative glycosyltransferase	glycosyltransferase	6999	8163	1	1164	31.27
+NZ_CP024257.1_reverse_complement	MGLELH_141535	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.91
+NZ_CP024257.1_reverse_complement	MGLELH_141540	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.0
+NZ_CP024257.1_reverse_complement	MGLELH_141545	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	42.09
+NZ_CP024257.1_reverse_complement	MGLELH_141550	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3294	3837	1	543	37.2
+NZ_CP024257.1_reverse_complement	MGLELH_141555	wzx	O25 family O-antigen flippase	wzx	3838	5098	1	1260	33.33
+NZ_CP024257.1_reverse_complement	MGLELH_141560	?	glycosyltransferase family 2 protein	glycosyltransferase	5102	6068	1	966	31.06
+NZ_CP024257.1_reverse_complement	MGLELH_141565	?	glycosyltransferase	glycosyltransferase	6134	7283	1	1149	31.77
+NZ_CP024257.1_reverse_complement	MGLELH_141570	wzy	Wzy	wzy	7254	8472	1	1218	29.72
+NZ_CP024257.1_reverse_complement	MGLELH_141580	?	glycosyltransferase	glycosyltransferase	9343	10447	1	1104	31.7
+NZ_CP024257.1_reverse_complement	MGLELH_141600	?	Glycosyltransferase WbuB	glycosyltransferase	13724	14933	1	1209	39.78
+KJ739600.2	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	127	1204	1	1077	43.18
+KJ739600.2	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	1200	2064	1	864	36.69
+KJ739600.2	?	wbaU	dTDP-6-deoxy-3,4-keto-hexulose isomerase	sugar_biosynthesis	2065	2470	1	405	35.31
+KJ739600.2	?	wbaV	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	sugar_biosynthesis	2459	2918	1	459	34.86
+KJ739600.2	?	wbaW	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	sugar_biosynthesis	2920	4024	1	1104	34.78
+KJ739600.2	?	wzx	O-antigen flippase	wzx	4020	5286	1	1266	33.73
+KJ739600.2	?	wzy	O-antigen polymerase	wzy	6220	7498	1	1278	30.91
+KJ739600.2	?	wbwV	D-inositol 3-phosphate glycosyltransferase	glycosyltransferase	9677	10829	1	1152	30.73
+KJ739600.2	?	wejO	2-deoxystreptamine glucosyltransferase	glycosyltransferase	10806	11922	1	1116	31.9
+EU296420.1	?	wzx	Wzx	wzx	2556	4011	1	1455	29.83
+EU296420.1	?	wfeQ	WfeQ	glycosyltransferase	6560	7565	1	1005	28.66
+EU296420.1	?	wfeR	WfeR	glycosyltransferase	7561	8350	1	789	31.81
+EU296420.1	?	wzy	Wzy	wzy	8423	9527	1	1104	25.63
+EU296420.1	?	wfeS	WfeS	glycosyltransferase	9555	10605	1	1050	28.1
+EU296420.1	?	wfeT	WfeT	glycosyltransferase	11703	12618	1	915	34.21
+KP710590.1	?	wfbZ	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	103	916	1	813	32.72
+KP710590.1	?	wzx	O-antigen flippase	wzx	1349	2609	1	1260	31.11
+KP710590.1	?	wzy	O-antigen polymerase	wzy	3489	4731	1	1242	28.82
+NZ_CP013029.1_reverse_complement	MGLELH_21175	wzx	O165 family O-antigen flippase	wzx	5797	7048	1	1251	30.62
+NZ_CP013029.1_reverse_complement	MGLELH_21185	wzy	O165 family O-antigen polymerase	wzy	8470	9808	1	1338	28.7
+AF078736.1	?	manC	mannose-1-phosphate guanylyltransferase	sugar_biosynthesis	3383	4835	1	1452	37.88
+AF078736.1	?	manB	phosphomannomutase	sugar_biosynthesis	4840	6211	1	1371	35.23
+AF078736.1	?	wzx	putative O unit flippase	wzx	8372	9638	1	1266	30.96
+AF078736.1	?	wzy	putative O antigen polymerase	wzy	9627	10680	1	1053	28.02
+KJ755556.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	116	1205	1	1089	49.22
+KJ755556.1	?	rmlA	glucose-1-phosphate thymidylyltransferase 2	sugar_biosynthesis	1219	2086	1	867	40.6
+KJ755556.1	?	wesC	glycosyltransferase	glycosyltransferase	3216	4863	1	1647	34.18
+KJ755556.1	?	wzm	O-antigen ABC transporter permease	wzm	7892	8711	1	819	35.41
+KJ755556.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	8707	9439	1	732	36.61
+AY654590.1	?	wclA	glycosyltransferase	glycosyltransferase	53	1265	1	1212	32.1
+AY654590.1	?	wzy	Wzy	wzy	1251	2421	1	1170	28.63
+AY654590.1	?	wbaD	mannosyltransferase	glycosyltransferase	2404	3481	1	1077	34.26
+AY654590.1	?	wclC	glycosyltransferase	glycosyltransferase	3618	4662	1	1044	31.23
+AY654590.1	?	wzx	Wzx	wzx	9337	10621	1	1284	30.61
+KJ534585.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	105	1191	1	1086	42.91
+KJ534585.1	?	rmlD	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	1190	2090	1	900	47.56
+KJ534585.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2147	3026	1	879	42.55
+KJ534585.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3030	3573	1	543	38.31
+KJ534585.1	?	wzx	O antigen flippase	wzx	3587	4799	1	1212	29.95
+KJ534585.1	?	wzy	O antigen polymerase	wzy	6815	7934	1	1119	31.46
+KJ534585.1	?	wbaD	glycosyl transferase group 1 family	sugar_biosynthesis	7935	9117	1	1182	30.29
+KJ755546.1	?	wzx	O-antigen flippase	wzx	5579	6818	1	1239	27.76
+KJ755546.1	?	wzy	O-antigen polymerase	wzy	7903	9136	1	1233	30.33
+KJ755546.1	?	wfeD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,4-galactosyltransferase	glycosyltransferase	9122	9863	1	741	30.77
+AB812064.1	?	rmlB	dTDP-glucose 4,6 dehydratase	sugar_biosynthesis	166	1252	1	1086	43.09
+AB812064.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1251	2151	1	900	46.11
+AB812064.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2208	3087	1	879	42.55
+AB812064.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3073	3652	1	579	34.37
+AB812064.1	?	wzx	O-antigen flippase	wzx	3685	4978	1	1293	28.0
+AB812064.1	?	wffU	putative glycosyltransferase	glycosyltransferase	4970	6077	1	1107	30.98
+AB812064.1	?	wfgK	putative glycosyltransferase	glycosyltransferase	7195	8128	1	933	30.55
+AB812064.1	?	wzy	O-antigen polymerase	wzy	8146	9187	1	1041	27.09
+AB812064.1	?	wekN	putative glycosyltransferase	glycosyltransferase	9188	10088	1	900	30.67
+AY657020.1	?	wclE	WclE	glycosyltransferase	331	1348	1	1017	29.99
+AY657020.1	?	wzy	Wzy	wzy	1350	2304	1	954	27.67
+AY657020.1	?	wzx	Wzx	wzx	5945	7232	1	1287	30.46
+AY657020.1	?	gla	Gla	sugar_biosynthesis	9039	10044	-1	1005	41.99
+DQ000314.1	?	wbaC	WbaC	sugar_biosynthesis	1158	2163	1	1005	31.54
+DQ000314.1	?	wbaD	WbaD	sugar_biosynthesis	2155	3358	1	1203	33.67
+DQ000314.1	?	wzy	Wzy	wzy	6384	7716	1	1332	31.53
+DQ000314.1	?	wzx	Wzx	wzx	7757	8993	1	1236	31.88
+KJ755558.1	?	wzx	O-antigen flippase	wzx	1155	2376	1	1221	31.45
+KJ755558.1	?	wzy	O-antigen polymerase	wzy	2388	3492	1	1104	27.81
+KJ755558.1	?	wbwG	D-inositol-3-phosphate glycosyltransferase	glycosyltransferase	3492	4590	1	1098	28.69
+EU296422.1	?	rmlB	RmlB	sugar_biosynthesis	45	1131	1	1086	44.2
+EU296422.1	?	rmlD	RmlD	sugar_biosynthesis	1130	2030	1	900	49.11
+EU296422.1	?	rmlA	RmlA	sugar_biosynthesis	2088	2967	1	879	43.23
+EU296422.1	?	rmlC	RmlC	sugar_biosynthesis	2971	3517	1	546	37.55
+EU296422.1	?	wzx	Wzx	wzx	3532	4789	1	1257	34.37
+EU296422.1	?	wfgK	RfbF	sugar_biosynthesis	4818	5709	1	891	32.55
+EU296422.1	?	wfgl	RfbG	sugar_biosynthesis	5701	6607	1	906	30.46
+EU296422.1	?	wzy	Wzy	wzy	6627	7776	1	1149	27.42
+AB812040.1	?	wejT	putative glycosyltransferase	glycosyltransferase	2788	3496	1	708	34.18
+AB812040.1	?	wzm	O-antigen ABC transporter permease	wzm	3488	4289	1	801	32.58
+AB812040.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4292	5042	1	750	35.2
+AB812040.1	?	wbbM	putative glycosyltransferase	glycosyltransferase	5082	5895	1	813	32.72
+AB812084.1	?	wbaC	putative glycosyltransferase	glycosyltransferase	56	1061	1	1005	31.54
+AB812084.1	?	wbaD	putative glycosyltransferase	glycosyltransferase	1053	2256	1	1203	33.67
+AB812084.1	?	wzy	O-antigen polymerase	wzy	5282	6614	1	1332	31.53
+AB812084.1	?	wzx	O-antigen flippase	wzx	6655	7891	1	1236	31.88
+DQ990685.1	?	wzx	O-antigen flippase	wzx	1505	2726	1	1221	32.1
+DQ990685.1	?	wzy	O-antigen polymerase	wzy	3543	4644	1	1101	27.97
+DQ676934.1	?	rmlB	RmlB	sugar_biosynthesis	107	1181	1	1074	43.02
+DQ676934.1	?	rmlA	RmlA	sugar_biosynthesis	1181	2051	1	870	35.29
+DQ676934.1	?	wzx	Wzx	wzx	2168	3614	1	1446	31.88
+DQ676934.1	?	wfbE	WfbE	glycosyltransferase	7467	8493	1	1026	34.11
+DQ676934.1	?	wzy	Wzy	wzy	8476	9727	1	1251	29.82
+DQ676934.1	?	wfbF	WfbF	glycosyltransferase	9723	10845	1	1122	30.12
+DQ676934.1	?	wbwH	WbwH	glycosyltransferase	13882	15049	1	1167	33.76
+EU296424.1	?	rmlB	RmlB	sugar_biosynthesis	61	1147	1	1086	44.29
+EU296424.1	?	rmlD	RmlD	sugar_biosynthesis	1146	2046	1	900	49.11
+EU296424.1	?	rmlA	RmlA	sugar_biosynthesis	2104	2983	1	879	43.23
+EU296424.1	?	rmlC	RmlC	sugar_biosynthesis	2987	3533	1	546	37.73
+EU296424.1	?	wzx	Wzx	wzx	3548	4805	1	1257	34.45
+EU296424.1	?	wfgI	RfbF	sugar_biosynthesis	4834	5725	1	891	32.55
+EU296424.1	?	wfgK	RfbG	sugar_biosynthesis	5717	6623	1	906	30.46
+EU296424.1	?	wzy	Wzy	wzy	6643	7792	1	1149	27.68
+KP710595.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1181	1	1074	43.02
+KP710595.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	1181	2051	1	870	35.29
+KP710595.1	?	wzx	O-antigen flippase	wzx	2168	3614	1	1446	31.88
+KP710595.1	?	wbaN	WbqC-like protein family protein	sugar_biosynthesis	4745	5453	1	708	29.38
+KP710595.1	?	wbaO	hypothetical protein	sugar_biosynthesis	5456	6431	1	975	31.18
+KP710595.1	?	wbaP	spermidine N(1)-acetyltransferase	sugar_biosynthesis	6430	6997	1	567	31.22
+KP710595.1	?	wbaQ	(R)-specific enoyl-CoA hydratase	sugar_biosynthesis	6993	7395	1	402	35.32
+KP710595.1	?	wzy	O-antigen polymerase	wzy	8760	9729	1	969	29.93
+KP710595.1	?	wbwG	D-inositol-3-phosphate glycosyltransferase	glycosyltransferase	9725	10847	1	1122	30.04
+KP710595.1	?	wbaR	WbuC	sugar_biosynthesis	15096	15594	1	498	37.55
+AB811618.1	?	wzx	O-antigen flippase	wzx	471	1701	1	1230	35.12
+AB811618.1	?	wzy	O-antigen polymerase	wzy	2872	4252	1	1380	34.13
+AB811618.1	?	wbeX	putative glycosyltransferase	glycosyltransferase	4244	5255	1	1011	30.27
+AB811618.1	?	wfdK	putative glycosyltransferase	glycosyltransferase	5251	6169	1	918	36.27
+AY528413.1	?	rmlB	RmlB	sugar_biosynthesis	423	1512	1	1089	40.86
+AY528413.1	?	rmlA	RmlA	sugar_biosynthesis	1524	2394	1	870	39.54
+AY528413.1	?	wbrV	WbrV	glycosyltransferase	4476	5331	1	855	33.1
+AY528413.1	?	wzm	Wzm	wzm	5332	6106	1	774	34.5
+AY528413.1	?	wzt	Wzt	wzt	6102	7077	1	975	35.49
+AY528413.1	?	wbrW	WbrW	glycosyltransferase	11845	13174	1	1329	36.04
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	1471	3688	1	2217	34.87
+AB812046.1	?	wzm	O-antigen ABC transporter permease	wzm	3684	4464	1	780	33.97
+AB812046.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4470	5223	1	753	39.04
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	5239	6319	1	1080	39.63
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	6328	7483	1	1155	36.45
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	8682	10764	1	2082	34.34
+AB812046.1	?	werU	putative glycosyltransferase	glycosyltransferase	14976	15987	1	1011	42.83
+AB812046.1	?	wbxD	putative nucleotide sugar epimerase	sugar_biosynthesis	16001	16784	1	783	42.02
+AB812046.1	?	werV	putative glycosyltransferase	glycosyltransferase	17899	18784	1	885	40.0
+KJ778805.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	114	1197	1	1083	50.05
+KJ778805.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1199	2099	1	900	48.11
+KJ778805.1	?	rmlA	glucose-1-phosphate thymidylyltransferase 1	sugar_biosynthesis	2151	3030	1	879	49.03
+KJ778805.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3582	1	549	40.26
+KJ778805.1	?	wzx	O-antigen flippase	wzx	4000	5242	1	1242	32.69
+KJ778805.1	?	wzy	O-antigen polymerase	wzy	6455	7625	1	1170	31.45
+EU296419.1	?	wzx	Wzx	wzx	93	1608	1	1515	29.64
+EU296419.1	?	wfeQ	WfeQ	glycosyltransferase	4133	5138	1	1005	28.66
+EU296419.1	?	wfeR	WfeR	glycosyltransferase	5134	5923	1	789	31.69
+EU296419.1	?	wzy	Wzy	wzy	5996	7100	1	1104	25.82
+EU296419.1	?	wfeS	WfeS	glycosyltransferase	7128	8178	1	1050	28.1
+EU296419.1	?	wfeT	WfeT	glycosyltransferase	9276	10191	1	915	34.21
+EU694095.1	?	rmlB	RmlB	sugar_biosynthesis	106	1192	1	1086	42.91
+EU694095.1	?	rmlD	RmlD	sugar_biosynthesis	1191	2091	1	900	46.78
+EU694095.1	?	rmlA	RmlA	sugar_biosynthesis	2148	3027	1	879	44.03
+EU694095.1	?	rmlC	RmlC	sugar_biosynthesis	3031	3574	1	543	33.52
+EU694095.1	?	wzx	Wzx	wzx	3573	4791	1	1218	26.6
+EU694095.1	?	wzy	Wzy	wzy	4783	6106	1	1323	28.8
+EU694095.1	?	wclW	WclW	glycosyltransferase	6098	6899	1	801	30.09
+EU694095.1	?	wclX	WclX	glycosyltransferase	6885	7830	1	945	27.62
+EU694095.1	?	wekI	WclY	glycosyltransferase	7826	8888	1	1062	30.13
+EU694095.1	?	wbwC	WclZ	glycosyltransferase	8884	9694	1	810	32.96
+AB812025.1	?	wdbM	putative glycosyltransferase	glycosyltransferase	844	1660	-1	816	32.84
+AB812025.1	?	welR	putative glycosyltransferase	glycosyltransferase	2878	3757	-1	879	28.67
+AB812025.1	?	wbcY	putative glycosyltransferase	glycosyltransferase	3766	4651	-1	885	28.47
+AB812025.1	?	wzy	O-antigen polymerase	wzy	4657	5887	-1	1230	27.89
+AB812025.1	?	wbcZ	putative glycosyltransferase	glycosyltransferase	5853	6984	-1	1131	30.33
+AB812025.1	?	wzx	O-antigen flippase	wzx	6961	8245	-1	1284	26.4
+DQ990684.1	?	wzx	O-antigen flippase	wzx	1505	2726	1	1221	32.1
+DQ990684.1	?	wzy	O-antigen polymerase	wzy	3543	4644	1	1101	27.88
+DQ000313.1	?	wbaC	WbaC	sugar_biosynthesis	1158	2163	1	1005	31.64
+DQ000313.1	?	wbaD	WbaD	sugar_biosynthesis	2155	3358	1	1203	33.75
+DQ000313.1	?	wzy	Wzy	wzy	6384	7716	1	1332	31.46
+DQ000313.1	?	wzx	Wzx	wzx	7757	8975	1	1218	31.94
+D43637.1	?	wzm	putative integral membrane component of ABC-transporter	wzm	3142	3928	1	786	47.71
+D43637.1	?	wzt	putative ATP binding component of ABC-transporter	wzt	3930	5226	1	1296	53.7
+D43637.1	?	wbdA	mannosyltransferase A	glycosyltransferase	7457	9905	1	2448	54.94
+D43637.1	?	wbdB	mannosyltransferase B	glycosyltransferase	9951	11097	1	1146	54.89
+D43637.1	?	wbdC	mannosyltransferase C	glycosyltransferase	11397	12222	1	825	55.76
+EU549863.1	?	rmlB	dTDP-glucose 4,6 dehydratase	sugar_biosynthesis	0	1152	1	1152	43.23
+EU549863.1	?	rmlD	dTDP-6-deoxy-D-glucose-3,5 epimerase	sugar_biosynthesis	1151	2051	1	900	47.89
+EU549863.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2109	2985	1	876	43.84
+EU549863.1	?	wzx	O-antigen flippase	wzx	4965	6228	1	1263	32.7
+EU549863.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7314	7872	1	558	35.66
+EU549863.1	?	wzy	O-antigen polymerase	wzy	7940	8903	1	963	29.91
+AB811624.1	?	rmlB	dTDP-glucose 4,6 dehydratase	sugar_biosynthesis	372	1458	1	1086	43.83
+AB811624.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.89
+AB811624.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2415	3291	1	876	43.84
+AB811624.1	?	wzx	O-antigen flippase	wzx	5271	6534	1	1263	32.7
+AB811624.1	?	wekP	putative glycosyltransferase	glycosyltransferase	6550	7600	1	1050	32.67
+AB811624.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7620	8178	1	558	35.66
+AB811624.1	?	wzy	O-antigen polymerase	wzy	8246	9209	1	963	29.91
+AB811624.1	?	wekQ	putative glycosyltransferase	glycosyltransferase	9201	10089	1	888	32.77
+AB811624.1	?	?	putative glycosyltransferase	glycosyltransferase	10119	11196	1	1077	30.64
+DQ220293.1	?	wzy	Wzy	wzy	7049	8099	1	1050	26.0
+DQ220293.1	?	wzx	Wzx	wzx	8113	9313	1	1200	29.08
+AB811598.1	?	wzm	O-antigen ABC transporter permease	wzm	3036	3831	1	795	45.16
+AB811598.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	3830	5045	1	1215	46.26
+AB811598.1	?	wbdA	putative mannosyltransferase	glycosyltransferase	6324	9966	1	3642	48.3
+AB811598.1	?	wbdB	putative glycosyltransferase	glycosyltransferase	10017	11175	1	1158	51.47
+AB811598.1	?	wbdC	putative glycosyltransferase	glycosyltransferase	11184	12300	1	1116	51.61
+AB812039.1	?	?	putative glycosyltransferase	glycosyltransferase	3577	4594	1	1017	34.41
+AB812039.1	?	wzx	O-antigen flippase	wzx	10043	11315	1	1272	31.76
+AB812039.1	?	wzy	O-antigen polymerase	wzy	11972	13130	1	1158	27.98
+AB812039.1	?	wfbH	putative glycosyltransferase	glycosyltransferase	13130	13868	1	738	29.4
+AB812039.1	?	wbsJ	putative glycosyltransferase	glycosyltransferase	13875	14775	1	900	31.78
+KJ778810.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	126	1215	1	1089	45.0
+KJ778810.1	?	rmlA	glucose-1-phosphate thymidylyltransferase 2	sugar_biosynthesis	1228	2095	1	867	44.64
+KJ778810.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2117	3008	1	891	40.74
+KJ778810.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3025	3571	1	546	38.46
+KJ778810.1	?	wzm	O-antigen ABC transporter permease	wzm	7803	8544	1	741	34.28
+KJ778810.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	8540	9266	1	726	36.5
+KJ778799.1	?	wzx	O-antigen flippase	wzx	3041	4271	1	1230	27.89
+KJ778799.1	?	wzy	O-antigen polymerase	wzy	4251	5349	1	1098	27.78
+KJ778799.1	?	wetP	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	glycosyltransferase	5323	6475	1	1152	30.3
+GU068044.1	?	rmlB	RmlB	sugar_biosynthesis	1255	2341	1	1086	43.46
+GU068044.1	?	rmlD	RmlD	sugar_biosynthesis	2340	3240	1	900	46.56
+GU068044.1	?	rmlA	RmlA	sugar_biosynthesis	3297	4176	1	879	42.09
+GU068044.1	?	rmlC	RmlC	sugar_biosynthesis	4180	4723	1	543	34.99
+GU068044.1	?	wzx	Wzx	wzx	5102	6356	1	1254	28.47
+GU068044.1	?	wzy	Wzy	wzy	6357	7509	1	1152	27.78
+GU068044.1	?	wcmQ	WcmQ	glycosyltransferase	7498	8569	1	1071	28.48
+GU068044.1	?	wcmR	WcmR	glycosyltransferase	8583	9312	1	729	27.57
+GU068044.1	?	wcmS	WcmS	glycosyltransferase	9314	10448	1	1134	28.84
+GU068044.1	?	wcmT	WcmT	glycosyltransferase	11944	13063	1	1119	33.78
+KJ778808.1	?	wzx	O-antigen flippase	wzx	81	1524	1	1443	32.09
+KJ778808.1	?	wzy	O-antigen polymerase	wzy	1520	2756	1	1236	28.96
+KJ778808.1	?	wfgD	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD	glycosyltransferase	2745	3648	1	903	30.34
+KJ778808.1	?	wfeD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,4-galactosyltransferase	glycosyltransferase	4864	5575	1	711	30.8
+KJ778808.1	?	?	glycosyltransferase family 2	glycosyltransferase	5585	6407	1	822	29.44
+NZ_CP130667.1_reverse_complement	MGLELH_116310	wzx	O-antigen flippase	wzx	297	1530	1	1233	28.63
+NZ_CP130667.1_reverse_complement	MGLELH_116320	wzy	putative O-antigen polymerase	wzy	2811	3870	1	1059	26.82
+NZ_CP020543.1_reverse_complement	MGLELH_157960	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.0
+NZ_CP020543.1_reverse_complement	MGLELH_157965	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	45.56
+NZ_CP020543.1_reverse_complement	MGLELH_157970	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	42.69
+NZ_CP020543.1_reverse_complement	MGLELH_157975	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3840	1	543	38.31
+NZ_CP020543.1_reverse_complement	MGLELH_157980	wzx	Flippase	wzx	3842	5129	1	1287	33.26
+NZ_CP020543.1_reverse_complement	MGLELH_157990	wzy	EpsG family protein	wzy	5983	7048	1	1065	27.51
+NZ_CP020543.1_reverse_complement	MGLELH_157995	?	Glycosyltransferase family 2 protein	glycosyltransferase	7053	7830	1	777	30.12
+NZ_CP020543.1_reverse_complement	MGLELH_158005	?	Glycosyltransferase family 1 protein	glycosyltransferase	8700	9813	1	1113	30.19
+NZ_CP049343.1_reverse_complement	MGLELH_106155	?	Glycosyltransferase family 2 protein	glycosyltransferase	1659	2415	1	756	30.56
+NZ_CP049343.1_reverse_complement	MGLELH_106160	?	Glycosyltransferase family 1 protein	glycosyltransferase	2426	3554	1	1128	31.91
+NZ_CP049343.1_reverse_complement	MGLELH_106165	wzy	hypothetical protein	wzy	3544	4765	1	1221	28.17
+NZ_CP049343.1_reverse_complement	MGLELH_106170	wzx	oligosaccharide flippase family protein	wzx	4754	5975	1	1221	31.94
+NZ_AP027865.1_reverse_complement	MGLELH_59400	wzx	MOP flippase family protein	wzx	344	1790	1	1446	28.98
+NZ_AP027865.1_reverse_complement	MGLELH_59410	?	glycosyltransferase family 4 protein	glycosyltransferase	2929	4072	1	1143	31.5
+NZ_AP027865.1_reverse_complement	MGLELH_59415	?	glycosyltransferase	glycosyltransferase	4068	5172	1	1104	28.8
+NZ_AP027865.1_reverse_complement	MGLELH_59420	wzy	hypothetical protein	wzy	5161	6274	1	1113	29.11
+NZ_AP027865.1_reverse_complement	MGLELH_59425	?	glycosyltransferase family 4 protein	glycosyltransferase	6275	7427	1	1152	33.42
+NZ_CM129863.1_reverse_complement	MGLELH_189585	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.09
+NZ_CM129863.1_reverse_complement	MGLELH_189590	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.56
+NZ_CM129863.1_reverse_complement	MGLELH_189595	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.46
+NZ_CM129863.1_reverse_complement	MGLELH_189600	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3854	1	558	36.2
+NZ_CM129863.1_reverse_complement	MGLELH_189610	wzx	Wzx	wzx	4371	5589	1	1218	28.74
+NZ_CM129863.1_reverse_complement	MGLELH_189620	wzy	Wzy	wzy	6737	7883	1	1146	27.05
+NZ_CM129863.1_reverse_complement	MGLELH_189630	?	glycosyltransferase family 1 protein	glycosyltransferase	8786	9896	1	1110	31.89
+NZ_CP053720.1_reverse_complement	MGLELH_84620	wcaL	colanic acid biosynthesis glycosyltransferase WcaL	glycosyltransferase	385	1621	1	1236	38.67
+NZ_CP053720.1_reverse_complement	MGLELH_84630	wzx	MOP flippase family protein	wzx	2329	3778	1	1449	34.16
+NZ_CP053720.1_reverse_complement	MGLELH_84645	?	putative glycosyltransferase	glycosyltransferase	4152	5412	1	1260	28.97
+NZ_CP053720.1_reverse_complement	MGLELH_84650	wzy	EpsG family	wzy	5399	6491	1	1092	27.11
+NZ_CP053720.1_reverse_complement	MGLELH_84655	?	glycosyltransferase family 1 protein	glycosyltransferase	6510	7587	1	1077	36.03
+NZ_CP073936.1_reverse_complement	MGLELH_32165	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.36
+NZ_CP073936.1_reverse_complement	MGLELH_32170	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.89
+NZ_CP073936.1_reverse_complement	MGLELH_32175	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.46
+NZ_CP073936.1_reverse_complement	MGLELH_32180	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3824	1	528	38.83
+NZ_CP073936.1_reverse_complement	MGLELH_32185	?	glycosyltransferase family 2 protein	glycosyltransferase	3898	4849	1	951	29.76
+NZ_CP073936.1_reverse_complement	MGLELH_32190	?	glycosyltransferase family 2 protein	glycosyltransferase	4857	5595	1	738	28.18
+NZ_CP073936.1_reverse_complement	MGLELH_32195	?	glycosyltransferase	glycosyltransferase	5650	6751	1	1101	28.34
+NZ_CP073936.1_reverse_complement	MGLELH_32200	wzy	EpsG family protein	wzy	6750	7902	1	1152	28.82
+NZ_CP073936.1_reverse_complement	MGLELH_32205	?	glycosyltransferase	glycosyltransferase	7920	8667	1	747	32.53
+NZ_CP073936.1_reverse_complement	MGLELH_32210	?	glycosyltransferase family 2 protein	glycosyltransferase	8673	9528	1	855	30.18
+NZ_CP073936.1_reverse_complement	MGLELH_32215	wzx	MOP flippase family protein	wzx	9585	11013	1	1428	31.93
+NZ_AP024518.1_reverse_complement	MGLELH_160840	?	Glycosyltransferase family 2 protein	glycosyltransferase	2008	2923	1	915	31.04
+NZ_AP024518.1_reverse_complement	MGLELH_160860	?	Glycosyltransferase WbuB	glycosyltransferase	6225	7437	1	1212	32.34
+NZ_AP024518.1_reverse_complement	MGLELH_160870	wzx	Polysaccharide biosynthesis protein	wzx	7840	9109	1	1269	31.36
+NZ_AP024518.1_reverse_complement	MGLELH_160875	wzy	O-antigen ligase domain-containing protein	wzy	9121	10345	1	1224	27.86
+NZ_CP116067.1_reverse_complement	MGLELH_135390	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.37
+NZ_CP116067.1_reverse_complement	MGLELH_135395	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.78
+NZ_CP116067.1_reverse_complement	MGLELH_135400	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.23
+NZ_CP116067.1_reverse_complement	MGLELH_135405	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3834	1	537	37.62
+NZ_CP116067.1_reverse_complement	MGLELH_135415	?	glycosyltransferase	glycosyltransferase	5170	6004	1	834	27.94
+NZ_CP116067.1_reverse_complement	MGLELH_135420	wzy	EpsG family protein	wzy	6056	7109	1	1053	28.3
+NZ_CP116067.1_reverse_complement	MGLELH_135425	?	rhamnosyltransferase	glycosyltransferase	7135	8005	1	870	28.39
+NZ_CP116067.1_reverse_complement	MGLELH_135430	?	glycosyltransferase family 2 protein	glycosyltransferase	8029	8812	1	783	28.22
+NZ_CP116067.1_reverse_complement	MGLELH_135435	?	glycosyltransferase	glycosyltransferase	8824	9757	1	933	30.33
+NZ_CP116067.1_reverse_complement	MGLELH_135440	wzx	oligosaccharide flippase family protein	wzx	9778	11041	1	1263	28.58
+NZ_CP100978.1_reverse_complement	MGLELH_99680	wzx	O-antigen flippase	wzx	330	1581	1	1251	29.82
+NZ_CP100978.1_reverse_complement	MGLELH_99695	wzy	EpsG family protein	wzy	3677	4793	1	1116	28.49
+NZ_CP100978.1_reverse_complement	MGLELH_99700	?	Glycosyltransferase family 4 protein	glycosyltransferase	4793	5903	1	1110	30.45
+NZ_CP100978.1_reverse_complement	MGLELH_99720	?	glycosyltransferase WbuB	glycosyltransferase	9175	10384	1	1209	39.37
+NZ_CP101014.1_reverse_complement	MGLELH_141800	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	369	1455	1	1086	42.73
+NZ_CP101014.1_reverse_complement	MGLELH_141805	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1454	2354	1	900	47.22
+NZ_CP101014.1_reverse_complement	MGLELH_141810	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2411	3287	1	876	41.78
+NZ_CP101014.1_reverse_complement	MGLELH_141840	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	8948	9494	1	546	37.36
+NZ_CP101014.1_reverse_complement	MGLELH_141845	wzx	Flippase	wzx	9505	10759	1	1254	36.04
+NZ_CP101014.1_reverse_complement	MGLELH_141855	wzy	EpsG family protein	wzy	11622	12678	1	1056	30.68
+NZ_CP101014.1_reverse_complement	MGLELH_141860	?	Alpha-1,2-fucosyltransferase	glycosyltransferase	12719	13616	1	897	35.67
+NZ_CP101014.1_reverse_complement	MGLELH_141865	?	Glycosyltransferase	glycosyltransferase	13658	14420	1	762	34.38
+NZ_CP101014.1_reverse_complement	MGLELH_141870	?	Glycosyltransferase family 4 protein	glycosyltransferase	14560	15682	1	1122	40.11
+NZ_CP126345.1_reverse_complement	MGLELH_180445	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.0
+NZ_CP126345.1_reverse_complement	MGLELH_180450	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.78
+NZ_CP126345.1_reverse_complement	MGLELH_180455	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3289	1	876	43.04
+NZ_CP126345.1_reverse_complement	MGLELH_180475	wzx	O-antigen translocase	wzx	5267	6539	1	1272	30.97
+NZ_CP126345.1_reverse_complement	MGLELH_180480	?	glycosyltransferase family 4 protein	glycosyltransferase	6556	7609	1	1053	31.05
+NZ_CP126345.1_reverse_complement	MGLELH_180485	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7605	8139	1	534	35.21
+NZ_CP126345.1_reverse_complement	MGLELH_180500	?	glycosyltransferase family 2 protein	glycosyltransferase	9610	10489	1	879	33.45
+NZ_CP126345.1_reverse_complement	MGLELH_180505	wzy	EpsG family protein	wzy	10533	11505	1	972	28.91
+NZ_CP126345.1_reverse_complement	MGLELH_180510	?	glycosyltransferase family 4 protein	glycosyltransferase	11536	12643	1	1107	35.32
+NZ_CP010231.1_reverse_complement	MGLELH_190805	wzx	hypothetical protein	wzx	9216	10473	1	1257	29.59
+NZ_CP010231.1_reverse_complement	MGLELH_190810	wzy	hypothetical protein	wzy	10456	11659	1	1203	32.34
+NZ_CP010231.1_reverse_complement	MGLELH_190840	?	glycosyltransferase family 2 protein	glycosyltransferase	18245	19148	1	903	34.66
+NZ_CP024141.1_reverse_complement	MGLELH_177560	wzy	hypothetical protein	wzy	4541	5675	1	1134	29.28
+NZ_CP024141.1_reverse_complement	MGLELH_177565	wzx	Oligosaccharide flippase family protein	wzx	5671	6919	1	1248	27.72
+NZ_CP046000.1_reverse_complement	MGLELH_188845	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	351	1425	1	1074	49.72
+NZ_CP046000.1_reverse_complement	MGLELH_188850	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	1497	2046	1	549	38.62
+NZ_CP046000.1_reverse_complement	MGLELH_188860	?	glycosyltransferase family 2 protein	glycosyltransferase	2877	3783	1	906	32.45
+NZ_CP046000.1_reverse_complement	MGLELH_188865	wzy	oligosaccharide repeat unit polymerase	wzy	3779	4958	1	1179	33.33
+NZ_CP046000.1_reverse_complement	MGLELH_188870	?	glycosyltransferase	glycosyltransferase	4950	5925	1	975	33.33
+NZ_CP046000.1_reverse_complement	MGLELH_188875	wzx	flippase	wzx	5921	7190	1	1269	34.52
+NZ_CP046000.1_reverse_complement	MGLELH_188900	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	11126	11996	1	870	35.98
+NZ_AP025209.2_reverse_complement	MGLELH_63415	wzx	O-antigen translocase	wzx	334	1597	1	1263	30.09
+NZ_AP025209.2_reverse_complement	MGLELH_63420	?	putative glycosyltransferase family 2	glycosyltransferase	1583	2504	1	921	27.58
+NZ_AP025209.2_reverse_complement	MGLELH_63425	wzy	putative O-antigen polymerase	wzy	2500	3712	1	1212	28.71
+NZ_AP025209.2_reverse_complement	MGLELH_63455	?	putative glycosyltransferase family 1_4	glycosyltransferase	8807	10001	1	1194	35.59
+NZ_CP020509.1_reverse_complement	MGLELH_01705	wzx	flippase	wzx	334	1630	1	1296	30.94
+NZ_CP020509.1_reverse_complement	MGLELH_01715	?	glycosyltransferase	glycosyltransferase	2560	3778	1	1218	32.35
+NZ_CP020509.1_reverse_complement	MGLELH_01720	wzy	DUF1229 domain-containing protein	wzy	3770	4913	1	1143	29.4
+NZ_CP020509.1_reverse_complement	MGLELH_01725	?	glycosyltransferase	glycosyltransferase	4881	5610	1	729	29.36
+NZ_CP020509.1_reverse_complement	MGLELH_01730	?	glycosyltransferase family 4 protein	glycosyltransferase	5614	6649	1	1035	34.78
+NZ_CP020509.1_reverse_complement	MGLELH_01755	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	10691	11438	1	747	33.33
+NZ_CP007392.1_reverse_complement	MGLELH_83345	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1459	1	1086	42.91
+NZ_CP007392.1_reverse_complement	MGLELH_83350	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	47.67
+NZ_CP007392.1_reverse_complement	MGLELH_83355	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.57
+NZ_CP007392.1_reverse_complement	MGLELH_83360	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3844	1	546	40.29
+NZ_CP007392.1_reverse_complement	MGLELH_83365	wzx	Flippase	wzx	3898	5089	1	1191	31.82
+NZ_CP007392.1_reverse_complement	MGLELH_83385	wzy	hypothetical protein	wzy	7960	9259	1	1299	26.79
+NZ_CP138423.1_reverse_complement	MGLELH_103535	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	373	1450	1	1077	43.08
+NZ_CP138423.1_reverse_complement	MGLELH_103540	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1446	2331	1	885	37.85
+NZ_CP138423.1_reverse_complement	MGLELH_103545	?	glycosyltransferase	glycosyltransferase	2335	3109	1	774	32.82
+NZ_CP138423.1_reverse_complement	MGLELH_103565	wzx	O-antigen translocase	wzx	5140	6415	1	1275	34.75
+NZ_CP138423.1_reverse_complement	MGLELH_103570	?	glycosyltransferase	glycosyltransferase	6404	7343	1	939	30.88
+NZ_CP138423.1_reverse_complement	MGLELH_103575	wzy	oligosaccharide repeat unit polymerase	wzy	7370	8624	1	1254	32.22
+NZ_CP079767.1_reverse_complement	MGLELH_84135	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	366	1449	1	1083	49.4
+NZ_CP079767.1_reverse_complement	MGLELH_84140	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1497	2385	1	888	40.77
+NZ_CP079767.1_reverse_complement	MGLELH_84150	wzx	oligosaccharide flippase family protein	wzx	3234	4674	1	1440	35.62
+NZ_CP079767.1_reverse_complement	MGLELH_84155	wzy	EpsG family protein	wzy	4670	5759	1	1089	31.04
+NZ_CP079767.1_reverse_complement	MGLELH_84175	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	8616	9159	1	543	43.65
+NZ_CP148382.1_reverse_complement	MGLELH_146420	?	Glycosyltransferase family 4 protein	glycosyltransferase	699	1779	1	1080	31.02
+NZ_CP148382.1_reverse_complement	MGLELH_146455	wzy	O-antigen polysaccharide polymerase Wzy	wzy	7981	9319	1	1338	32.29
+NZ_CP148382.1_reverse_complement	MGLELH_146460	wzx	Oligosaccharide flippase family protein	wzx	9308	10583	1	1275	30.04
+NZ_CP148382.1_reverse_complement	MGLELH_146475	?	Glycosyltransferase family 4 protein	glycosyltransferase	13261	14335	1	1074	31.28
+NZ_CP132979.1_reverse_complement	MGLELH_01000	wzx	O-antigen flippase	wzx	384	1674	1	1290	32.64
+NZ_CP132979.1_reverse_complement	MGLELH_01015	wzy	O-antigen polymerase	wzy	3279	4443	1	1164	28.69
+NZ_CP132979.1_reverse_complement	MGLELH_01065	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	13331	14144	1	813	31.24
+NZ_AP019856.1_reverse_complement	MGLELH_143600	wzx	polysaccharide biosynthesis family protein	wzx	6311	7541	1	1230	31.22
+NZ_AP019856.1_reverse_complement	MGLELH_143605	?	alpha-1,2-fucosyltransferase	glycosyltransferase	7544	8441	1	897	32.44
+NZ_AP019856.1_reverse_complement	MGLELH_143610	wzy	hypothetical protein	wzy	8433	9609	1	1176	29.51
+NZ_CM129884.1_reverse_complement	MGLELH_180235	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	366	1449	1	1083	51.25
+NZ_CM129884.1_reverse_complement	MGLELH_180240	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1451	2351	1	900	48.11
+NZ_CM129884.1_reverse_complement	MGLELH_180245	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2397	3279	1	882	44.78
+NZ_CM129884.1_reverse_complement	MGLELH_180250	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3282	3825	1	543	34.44
+NZ_CM129884.1_reverse_complement	MGLELH_180265	wzx	LPS biosynthesis protein	wzx	5396	6659	1	1263	33.33
+NZ_CM129884.1_reverse_complement	MGLELH_180275	wzy	EpsG family protein	wzy	7731	8781	1	1050	29.62
+NZ_AP027543.1_reverse_complement	MGLELH_89050	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.74
+NZ_AP027543.1_reverse_complement	MGLELH_89055	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.33
+NZ_AP027543.1_reverse_complement	MGLELH_89060	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3298	1	885	43.62
+NZ_AP027543.1_reverse_complement	MGLELH_89065	wzx	flippase	wzx	3340	4588	1	1248	30.45
+NZ_AP027543.1_reverse_complement	MGLELH_89075	wzy	Wzy	wzy	5361	6549	1	1188	27.02
+NZ_AP027543.1_reverse_complement	MGLELH_89095	?	glycosyltransferase family 1 protein	glycosyltransferase	8820	9990	1	1170	30.51
+NZ_AP027543.1_reverse_complement	MGLELH_89100	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	10004	10535	1	531	32.2
+NZ_CP026755.1_reverse_complement	MGLELH_184180	?	glycosyltransferase	glycosyltransferase	2940	3924	1	984	32.11
+NZ_CP026755.1_reverse_complement	MGLELH_184185	?	LPS biosynthesis protein RfbU	sugar_biosynthesis	3916	5044	1	1128	32.09
+NZ_CP026755.1_reverse_complement	MGLELH_184190	wzx	hypothetical protein	wzx	5030	6281	1	1251	28.3
+NZ_CP026755.1_reverse_complement	MGLELH_184195	wzy	hypothetical protein	wzy	6268	7423	1	1155	27.62
+NZ_CP026755.1_reverse_complement	MGLELH_184200	wzy	acyltransferase	wzy	7538	8591	1	1053	29.44
+NZ_CP026755.1_reverse_complement	MGLELH_184205	?	glycosyltransferase	glycosyltransferase	8611	9784	1	1173	29.5
+NZ_CP026755.1_reverse_complement	MGLELH_184215	?	glycosyltransferase WbuB	glycosyltransferase	11440	12664	1	1224	33.91
+NZ_CP056073.1_reverse_complement	MGLELH_137580	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	42.82
+NZ_CP056073.1_reverse_complement	MGLELH_137585	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	46.33
+NZ_CP056073.1_reverse_complement	MGLELH_137590	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	43.0
+NZ_CP056073.1_reverse_complement	MGLELH_137595	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3293	3842	1	549	35.34
+NZ_CP056073.1_reverse_complement	MGLELH_137615	wzx	O-antigen translocase	wzx	5800	7069	1	1269	32.15
+NZ_CP056073.1_reverse_complement	MGLELH_137625	wzy	O-antigen polymerase	wzy	8481	9825	1	1344	28.57
+NZ_CP056073.1_reverse_complement	MGLELH_137630	?	glycosyltransferase	glycosyltransferase	9805	10864	1	1059	29.93
+NZ_CP056073.1_reverse_complement	MGLELH_137640	?	glycosyltransferase	glycosyltransferase	11735	12497	1	762	34.12
+NZ_AP027470.1_reverse_complement	MGLELH_49050	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	44.48
+NZ_AP027470.1_reverse_complement	MGLELH_49055	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.44
+NZ_AP027470.1_reverse_complement	MGLELH_49060	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3301	1	888	42.68
+NZ_AP027470.1_reverse_complement	MGLELH_49080	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	5536	6082	1	546	32.23
+NZ_AP027470.1_reverse_complement	MGLELH_49090	wzx	oligosaccharide flippase family protein	wzx	7240	8518	1	1278	33.88
+NZ_AP027470.1_reverse_complement	MGLELH_49095	?	glycosyltransferase	glycosyltransferase	8495	9359	1	864	29.86
+NZ_AP027470.1_reverse_complement	MGLELH_49100	wzy	hypothetical protein	wzy	9360	10674	1	1314	31.13
+NZ_AP027470.1_reverse_complement	MGLELH_49105	?	glycosyltransferase family 2 protein	glycosyltransferase	10666	11536	1	870	33.45
+NZ_AP027470.1_reverse_complement	MGLELH_49110	?	glycosyltransferase	glycosyltransferase	11532	12357	1	825	31.27
+NZ_CP090305.1_reverse_complement	MGLELH_39000	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1520	2606	1	1086	43.0
+NZ_CP090305.1_reverse_complement	MGLELH_39005	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2605	3505	1	900	44.22
+NZ_CP090305.1_reverse_complement	MGLELH_39010	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3558	4437	1	879	39.02
+NZ_CP090305.1_reverse_complement	MGLELH_39015	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4433	4988	1	555	38.92
+NZ_CP090305.1_reverse_complement	MGLELH_39020	wzx	hypothetical protein	wzx	4971	6132	1	1161	31.18
+NZ_CP090305.1_reverse_complement	MGLELH_39030	wzy	Wzy	wzy	7198	8620	1	1422	30.52
+NZ_AP024123.1_reverse_complement	MGLELH_11820	wzx	Polysacc-synt-C domain-containing protein	wzx	335	1604	1	1269	27.5
+NZ_AP024123.1_reverse_complement	MGLELH_11830	?	glycosyltransferase	glycosyltransferase	2519	3668	1	1149	28.46
+NZ_AP024123.1_reverse_complement	MGLELH_11835	wzy	hypothetical protein	wzy	3664	4825	1	1161	26.87
+NZ_AP024123.1_reverse_complement	MGLELH_11840	?	glycosyltransferase family 4 protein	glycosyltransferase	4821	5928	1	1107	33.06
+NZ_CP010129.1_reverse_complement	MGLELH_75550	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1520	2606	1	1086	43.37
+NZ_CP010129.1_reverse_complement	MGLELH_75555	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2605	3505	1	900	48.0
+NZ_CP010129.1_reverse_complement	MGLELH_75560	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3562	4441	1	879	41.87
+NZ_CP010129.1_reverse_complement	MGLELH_75565	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4445	4976	1	531	38.61
+NZ_CP010129.1_reverse_complement	MGLELH_75570	wzx	hypothetical protein	wzx	5017	6226	1	1209	28.87
+NZ_CP010129.1_reverse_complement	MGLELH_75595	wzy	oligosaccharide repeat unit polymerase	wzy	10014	10686	1	672	26.49
+NZ_CP021726.1_reverse_complement	MGLELH_191175	wzx	Wzx	wzx	3716	4937	1	1221	29.73
+NZ_CP021726.1_reverse_complement	MGLELH_191180	?	Glycosyltransferase	glycosyltransferase	4951	5821	1	870	31.61
+NZ_CP021726.1_reverse_complement	MGLELH_191185	wzy	Oligosaccharide repeat unit polymerase	wzy	5817	7062	1	1245	30.28
+NZ_CP021726.1_reverse_complement	MGLELH_191190	?	Glycosyltransferase	glycosyltransferase	7048	7960	1	912	31.91
+NZ_CP037910.1_reverse_complement	MGLELH_46645	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.91
+NZ_CP037910.1_reverse_complement	MGLELH_46650	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.56
+NZ_CP037910.1_reverse_complement	MGLELH_46655	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.34
+NZ_CP037910.1_reverse_complement	MGLELH_46660	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3848	1	552	36.41
+NZ_CP037910.1_reverse_complement	MGLELH_46665	wzx	Putative O-antigen transporter	wzx	3877	5083	1	1206	33.33
+NZ_CP037910.1_reverse_complement	MGLELH_46670	?	Glycosyltransferase family 2	glycosyltransferase	5079	5997	1	918	28.54
+NZ_CP037910.1_reverse_complement	MGLELH_46675	wzy	hypothetical protein	wzy	6015	7320	1	1305	27.36
+NZ_CP037910.1_reverse_complement	MGLELH_46685	?	UDP-glc:alpha-D-glcNac-diphosphoundecaprenol beta-1,3-glucosyltransferase wfgD	glycosyltransferase	7888	8818	1	930	29.57
+NZ_CP148440.1_reverse_complement	MGLELH_179565	wzx	Oligosaccharide flippase family protein	wzx	4911	6195	1	1284	32.4
+NZ_CP148440.1_reverse_complement	MGLELH_179570	wzy	Oligosaccharide repeat unit polymerase	wzy	6191	7493	1	1302	29.57
+NZ_CP148440.1_reverse_complement	MGLELH_179575	?	Glycosyltransferase	glycosyltransferase	7485	8601	1	1116	35.93
+NZ_CP148440.1_reverse_complement	MGLELH_179590	?	Glycosyltransferase family 4 protein	glycosyltransferase	11508	12744	1	1236	33.01
+NZ_AP026961.1_reverse_complement	MGLELH_23800	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.09
+NZ_AP026961.1_reverse_complement	MGLELH_23805	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.56
+NZ_AP026961.1_reverse_complement	MGLELH_23810	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.12
+NZ_AP026961.1_reverse_complement	MGLELH_23815	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3836	1	540	40.74
+NZ_AP026961.1_reverse_complement	MGLELH_23825	wzx	Wzx	wzx	4904	6239	1	1335	31.24
+NZ_AP026961.1_reverse_complement	MGLELH_23830	wzy	Wzy	wzy	6219	7359	1	1140	27.89
+NZ_AP027800.1_reverse_complement	MGLELH_176855	?	glycosyltransferase family 2 protein	glycosyltransferase	211	988	1	777	29.34
+NZ_AP027800.1_reverse_complement	MGLELH_176865	wzx	oligosaccharide flippase family protein	wzx	2220	3420	1	1200	30.83
+NZ_AP027800.1_reverse_complement	MGLELH_176870	wzy	EpsG family protein	wzy	3409	4639	1	1230	26.59
+NZ_AP027800.1_reverse_complement	MGLELH_176880	?	glycosyltransferase	glycosyltransferase	5485	6304	1	819	34.19
+NZ_AP027800.1_reverse_complement	MGLELH_176885	wzy	acyltransferase	wzy	6331	7381	1	1050	29.81
+NZ_AP026907.1_reverse_complement	MGLELH_169985	wzy	oligosaccharide repeat unit polymerase	wzy	1731	3027	1	1296	29.01
+NZ_AP026907.1_reverse_complement	MGLELH_169990	wzx	oligosaccharide flippase family protein	wzx	3032	4247	1	1215	28.23
+NZ_AP026907.1_reverse_complement	MGLELH_169995	?	glycosyltransferase	glycosyltransferase	4230	5328	1	1098	30.87
+NZ_AP026907.1_reverse_complement	MGLELH_170000	?	glycosyltransferase	glycosyltransferase	5296	6142	1	846	34.87
+NZ_CP028740.1_reverse_complement	MGLELH_10005	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.27
+NZ_CP028740.1_reverse_complement	MGLELH_10010	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.0
+NZ_CP028740.1_reverse_complement	MGLELH_10015	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	44.29
+NZ_CP028740.1_reverse_complement	MGLELH_10020	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3861	1	564	37.59
+NZ_CP028740.1_reverse_complement	MGLELH_10025	wzx	polysaccharide biosynthesis protein	wzx	3841	5116	1	1275	28.0
+NZ_CP028740.1_reverse_complement	MGLELH_10040	?	glycosyltransferase family 2 protein	glycosyltransferase	6839	7838	1	999	31.23
+NZ_CP028740.1_reverse_complement	MGLELH_10045	?	glycosyltransferase	glycosyltransferase	7837	8962	1	1125	28.62
+NZ_CP028740.1_reverse_complement	MGLELH_10050	?	glycosyltransferase family 2 protein	glycosyltransferase	8945	9728	1	783	32.82
+NZ_CP028740.1_reverse_complement	MGLELH_10055	wzy	Membrane protein	wzy	9732	10938	1	1206	27.86
+NZ_CP080172.1_reverse_complement	MGLELH_44295	wzx	Lipopolysaccharide biosynthesis protein	wzx	1983	3405	1	1422	29.68
+NZ_CP080172.1_reverse_complement	MGLELH_44300	?	glycosyltransferase	glycosyltransferase	4021	4993	1	972	29.84
+NZ_CP080172.1_reverse_complement	MGLELH_44305	?	glycosyltransferase	glycosyltransferase	4967	6149	1	1182	29.36
+NZ_CP080172.1_reverse_complement	MGLELH_44310	wzy	hypothetical protein	wzy	6166	7360	1	1194	29.15
+NZ_CP080172.1_reverse_complement	MGLELH_44315	?	Glycosyltransferase family 4 protein	glycosyltransferase	7546	8671	1	1125	30.4
+NZ_CP080172.1_reverse_complement	MGLELH_44320	?	glycosyltransferase	glycosyltransferase	8651	9773	1	1122	31.11
+NZ_AP027822.1_reverse_complement	MGLELH_144860	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.0
+NZ_AP027822.1_reverse_complement	MGLELH_144865	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.56
+NZ_AP027822.1_reverse_complement	MGLELH_144870	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.23
+NZ_AP027822.1_reverse_complement	MGLELH_144875	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3848	1	552	39.67
+NZ_AP027822.1_reverse_complement	MGLELH_144890	?	Putative glycosyltransferase	glycosyltransferase	5810	6593	1	783	29.5
+NZ_AP027822.1_reverse_complement	MGLELH_144895	wzx	O-antigen flippase	wzx	6558	7788	1	1230	29.43
+NZ_AP027822.1_reverse_complement	MGLELH_144910	wzy	O-antigen polymerase	wzy	9814	10936	1	1122	30.04
+NZ_CM129856.1_reverse_complement	MGLELH_121130	wzx	flippase	wzx	5994	7209	1	1215	31.03
+NZ_CM129856.1_reverse_complement	MGLELH_121140	wzy	O-antigen polymerase	wzy	8169	9465	1	1296	29.09
+NZ_CP028759.1_reverse_complement	MGLELH_59310	?	glycosyltransferase	glycosyltransferase	324	1212	1	888	30.74
+NZ_CP028759.1_reverse_complement	MGLELH_59315	wzy	EpsG family protein	wzy	1300	2449	1	1149	29.5
+NZ_CP028759.1_reverse_complement	MGLELH_59320	?	glycosyltransferase	glycosyltransferase	2453	3488	1	1035	29.66
+NZ_CP028759.1_reverse_complement	MGLELH_59325	?	glycosyltransferase family 2 protein	glycosyltransferase	3490	4291	1	801	29.96
+NZ_CP028759.1_reverse_complement	MGLELH_59330	?	glycosyltransferase	glycosyltransferase	4287	5049	1	762	29.66
+NZ_CP028759.1_reverse_complement	MGLELH_59335	wzx	oligosaccharide flippase family protein	wzx	5041	6343	1	1302	27.88
+NZ_AP026783.1_reverse_complement	MGLELH_27950	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	42.63
+NZ_AP026783.1_reverse_complement	MGLELH_27955	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	48.44
+NZ_AP026783.1_reverse_complement	MGLELH_27960	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	42.89
+NZ_AP026783.1_reverse_complement	MGLELH_27965	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3840	1	543	40.88
+NZ_AP026783.1_reverse_complement	MGLELH_27970	wzx	O-antigen flippase	wzx	3856	5107	1	1251	34.53
+NZ_AP026783.1_reverse_complement	MGLELH_27975	wzy	putative glycosyltransferase	glycosyltransferase	5156	6137	1	981	29.66
+NZ_AP026783.1_reverse_complement	MGLELH_27980	?	putative glycosyltransferase, group II family	glycosyltransferase	6152	7040	1	888	34.23
+NZ_AP026783.1_reverse_complement	MGLELH_27990	?	putative glycosyltransferase, group 2 family	glycosyltransferase	7471	8344	1	873	30.24
+NZ_AP026783.1_reverse_complement	MGLELH_27995	?	putative glycosyltransferase	glycosyltransferase	8340	9528	1	1188	29.97
+NZ_AP026783.1_reverse_complement	MGLELH_28000	?	putative glycosyltransferase, group 2 family	glycosyltransferase	9551	10394	1	843	33.93
+NZ_CP021175.1_reverse_complement	MGLELH_12560	wzx	MOP flippase family protein	wzx	5096	6527	1	1431	31.87
+NZ_AP027769.1_reverse_complement	MGLELH_109990	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	43.37
+NZ_AP027769.1_reverse_complement	MGLELH_109995	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	48.44
+NZ_AP027769.1_reverse_complement	MGLELH_110000	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	43.46
+NZ_AP027769.1_reverse_complement	MGLELH_110005	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3295	3835	1	540	38.89
+NZ_AP027769.1_reverse_complement	MGLELH_110015	wzx	MviN-like protein family protein	wzx	4921	6340	1	1419	28.54
+NZ_AP027769.1_reverse_complement	MGLELH_110030	?	O-antigen polysaccharide polymerase Wzy	wzy	8417	9038	1	621	27.38
+NZ_AP027769.1_reverse_complement	MGLELH_110035	?	O-antigen polysaccharide polymerase Wzy family protein	wzy	9140	9830	1	690	31.3
+NZ_CM132251.1_reverse_complement	MGLELH_137855	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.36
+NZ_CM132251.1_reverse_complement	MGLELH_137860	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.89
+NZ_CM132251.1_reverse_complement	MGLELH_137865	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.46
+NZ_CM132251.1_reverse_complement	MGLELH_137870	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3824	1	528	38.83
+NZ_CM132251.1_reverse_complement	MGLELH_137880	wzx	hypothetical protein	wzx	4374	5058	1	684	30.41
+NZ_CP146250.1_reverse_complement	MGLELH_76670	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	44.11
+NZ_CP146250.1_reverse_complement	MGLELH_76675	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.56
+NZ_CP146250.1_reverse_complement	MGLELH_76705	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	3946	5005	1	1059	37.87
+NZ_CP146250.1_reverse_complement	MGLELH_76710	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	5007	5874	1	867	37.37
+NZ_CP146250.1_reverse_complement	MGLELH_76730	wzx	O-antigen flippase	wzx	7937	9194	1	1257	29.36
+NZ_CP146250.1_reverse_complement	MGLELH_76735	?	Putative glycosyltransferase	glycosyltransferase	9190	10249	1	1059	29.75
+NZ_CP146250.1_reverse_complement	MGLELH_76740	?	glycosyltransferase family 4 protein	glycosyltransferase	10491	11610	1	1119	27.44
+NZ_CP146250.1_reverse_complement	MGLELH_76750	?	glycosyltransferase family 2 protein	glycosyltransferase	12681	13620	1	939	25.67
+NZ_CP146250.1_reverse_complement	MGLELH_76790	?	glycosyltransferase family 2 protein	glycosyltransferase	17236	17758	1	522	33.33
+NZ_CP041628.1_reverse_complement	MGLELH_145820	?	glycosyltransferase	glycosyltransferase	6756	10482	1	3726	36.15
+NZ_CP041628.1_reverse_complement	MGLELH_145835	?	glycosyltransferase family 4 protein	glycosyltransferase	12430	13573	1	1143	39.28
+NZ_CP041628.1_reverse_complement	MGLELH_145840	?	glycosyltransferase	glycosyltransferase	13566	14673	1	1107	31.53
+NZ_CP041628.1_reverse_complement	MGLELH_145845	?	glycosyltransferase family 2 protein	glycosyltransferase	14733	15063	1	330	33.94
+AB812067.1	?	werR	putative glycosyltransferase	glycosyltransferase	1317	3534	1	2217	34.87
+AB812067.1	?	wzm	O-antigen ABC transporter permease	wzm	3530	4310	1	780	33.85
+AB812067.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4316	5069	1	753	39.18
+AB812067.1	?	wekV	putative glycosyltransferase	glycosyltransferase	5085	6165	1	1080	39.63
+AB812067.1	?	werS	putative glycosyltransferase	glycosyltransferase	6174	7329	1	1155	36.45
+AB812067.1	?	werT	putative glycosyltransferase	glycosyltransferase	8528	10610	1	2082	34.34
+AB812067.1	?	werU	putative glycosyltransferase	glycosyltransferase	13383	14394	1	1011	42.83
+AB812067.1	?	wbxD	putative nucleotide sugar epimerase	sugar_biosynthesis	14408	15191	1	783	42.02
+AB812067.1	?	werV	putative glycosyltransferase	glycosyltransferase	16306	17191	1	885	40.0

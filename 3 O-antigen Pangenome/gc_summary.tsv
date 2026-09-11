@@ -1,0 +1,7 @@
+enzyme_class	count	mean_gc	median_gc	std_gc	min_gc	max_gc
+glycosyltransferase	470	31.82	31.06	3.71	24.7	55.76
+sugar_biosynthesis	471	41.79	43.0	4.41	29.38	51.25
+wzm	10	36.72	34.39	5.22	32.58	47.71
+wzt	10	39.91	38.56	5.77	35.2	53.7
+wzx	249	30.92	30.82	2.15	26.26	36.63
+wzy	247	29.09	28.91	1.83	25.63	35.42
