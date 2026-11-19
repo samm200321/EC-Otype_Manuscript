@@ -1,0 +1,8 @@
+Parsing O-antigen_db.fasta_all.gbff ...
+Done. Wrote 4354 records to O-antigen_db.all.transposase_removed.gbff
+  Records with deletions: 1988
+  Transposase/phage CDS excised: 2608
+  Features removed (incl. genes/overlaps): 6455
+  Features kept: 101944
+  Total bp removed: 1268385
+  Report written to removed.tsv
