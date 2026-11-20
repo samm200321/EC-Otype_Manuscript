@@ -1,0 +1,1450 @@
+record	locus_tag	gene	product	enzyme_class	start	end	strand	cds_length_bp	gc_content
+NZ_CP023815.1	CAOCEE_002362	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	125	1208	1	1083	47.0
+NZ_CP023815.1	CAOCEE_002361	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	1279	1822	1	543	37.02
+NZ_CP023815.1	CAOCEE_002358	wzx	S88 variant O45 family O-antigen flippase	wzx	3692	4949	1	1257	34.29
+NZ_CP023815.1	CAOCEE_002357	?	Glycosyltransferase	glycosyltransferase	4941	5913	1	972	38.68
+NZ_CP023815.1	CAOCEE_002356	?	Glycosyltransferase 2-like domain-containing protein	glycosyltransferase	5905	6997	1	1092	33.79
+NZ_CP023815.1	CAOCEE_002354	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	7637	8504	1	867	40.83
+NZ_CP044311.1	CAOCEE_001561	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	312	1452	1	1140	47.54
+NZ_CP044311.1	CAOCEE_001556	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	6050	6590	1	540	38.89
+NZ_CP044311.1	CAOCEE_001554	wzx	O45 family O-antigen flippase	wzx	7397	8657	1	1260	35.79
+NZ_CP044311.1	CAOCEE_001552	wzy	O45 family O-antigen polymerase	wzy	9619	10768	1	1149	35.6
+NZ_CP044311.1	CAOCEE_001549	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	12355	13228	1	873	41.58
+NZ_AP027258.1	CAOCEE_000872	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1186	1	1077	43.08
+NZ_AP027258.1	CAOCEE_000871	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1182	2046	1	864	36.69
+NZ_AP027258.1	CAOCEE_000867	wzx	O74 family O-antigen flippase	wzx	4002	5262	1	1260	31.9
+NZ_AP027258.1	CAOCEE_000866	?	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	5272	6214	1	942	29.3
+NZ_AP027258.1	CAOCEE_000865	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	6229	7051	1	822	30.17
+NZ_AP027258.1	CAOCEE_000864	wzy	O74 family O-antigen polymerase	wzy	7050	8226	1	1176	28.23
+NZ_AP027258.1	CAOCEE_000863	?	UDP-D-galactose:(Glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase	glycosyltransferase	8203	9286	1	1083	29.09
+NZ_CP100876.1	CAOCEE_000492	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.73
+NZ_CP100876.1	CAOCEE_000491	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.11
+NZ_CP100876.1	CAOCEE_000490	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.23
+NZ_CP100876.1	CAOCEE_000489	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3570	1	537	39.66
+NZ_CP100876.1	CAOCEE_000488	wfgD	UDP-glc:alpha-D-glcNac-diphosphoundecaprenol beta-1,3-glucosyltransferase wfgD	glycosyltransferase	3629	4493	1	864	30.21
+NZ_CP100876.1	CAOCEE_000487	?	Glycosyltransferase group 1	glycosyltransferase	4533	5631	1	1098	28.96
+NZ_CP100876.1	CAOCEE_000486	wbbL	Rhamnosyltransferase wbbL	glycosyltransferase	5633	6398	1	765	27.45
+NZ_CP100876.1	CAOCEE_000485	?	GalNac(5)-diNacbac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	6423	7278	1	855	28.89
+NZ_CP100876.1	CAOCEE_000484	?	Wzy	wzy	7323	8526	1	1203	28.18
+NZ_CP100876.1	CAOCEE_000483	?	Glycosyltransferase	glycosyltransferase	8587	9454	1	867	27.91
+NZ_CP100876.1	CAOCEE_000482	?	O-antigen flippase	wzx	9501	10767	1	1266	29.7
+NZ_AP027648.1	CAOCEE_004986	?	Putative glycosyltransferase	glycosyltransferase	346	1108	1	762	32.55
+NZ_AP027648.1	CAOCEE_004985	wzx	O93 family O-antigen flippase	wzx	1118	2318	1	1200	30.83
+NZ_AP027648.1	CAOCEE_004984	wzy	O93 family O-antigen polymerase	wzy	2339	3851	1	1512	29.3
+NZ_AP027648.1	CAOCEE_004983	?	Glycosyltransferase family 1 protein	glycosyltransferase	3857	4862	1	1005	27.06
+NZ_AP027648.1	CAOCEE_004981	?	Glycosyltransferase	glycosyltransferase	5393	6482	1	1089	27.92
+NZ_CP122629.1	CAOCEE_035700	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.19
+NZ_CP122629.1	CAOCEE_035699	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.0
+NZ_CP122629.1	CAOCEE_035698	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	43.84
+NZ_CP122629.1	CAOCEE_035697	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3576	1	543	38.49
+NZ_CP122629.1	CAOCEE_035690	?	O58 family O-antigen polymerase	wzy	8916	10104	1	1188	32.74
+NZ_CP122629.1	CAOCEE_035688	?	glycosyltransferase	glycosyltransferase	11302	12025	1	723	30.57
+NZ_CP122629.1	CAOCEE_035687	?	glycosyltransferase	glycosyltransferase	12053	12410	1	357	33.33
+NZ_CP191567.1	CAOCEE_004025	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	43.46
+NZ_CP191567.1	CAOCEE_004024	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	46.22
+NZ_CP191567.1	CAOCEE_004023	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	43.46
+NZ_CP191567.1	CAOCEE_004022	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3296	3839	1	543	35.17
+NZ_CP191567.1	CAOCEE_004020	wzx	O10 family O-antigen flippase	wzx	5052	6573	1	1521	30.31
+NZ_CP191567.1	CAOCEE_004019	?	Putative glycosyltransferase	glycosyltransferase	6569	7481	1	912	30.92
+NZ_CP191567.1	CAOCEE_004018	?	Putative glycosyltransferase	glycosyltransferase	7603	8524	1	921	34.42
+NZ_CP191567.1	CAOCEE_004017	wzy	O10 family O-antigen polymerase	wzy	8598	9642	1	1044	28.64
+NZ_CP191567.1	CAOCEE_004016	?	Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase	glycosyltransferase	9730	10666	1	936	30.45
+NZ_AP042512.1	CAOCEE_015397	?	Putative glycosyltransferase	glycosyltransferase	399	1443	1	1044	30.94
+NZ_AP042512.1	CAOCEE_015390	wzy	O181 family O-antigen polymerase	wzy	7197	8448	1	1251	26.46
+NZ_AP042512.1	CAOCEE_015389	wzx	O181 family O-antigen flippase	wzx	8466	9738	1	1272	29.56
+NZ_CP076243.1	CAOCEE_000219	wzy	O157 family O-antigen polymerase	wzy	1097	2282	1	1185	29.96
+NZ_CP076243.1	CAOCEE_000217	wzx	O157 family O-antigen flippase	wzx	2989	4375	1	1386	31.39
+NZ_CP076243.1	CAOCEE_000216	rfbE	GDP-perosamine synthase RfbE/PerA	sugar_biosynthesis	4377	5472	1	1095	34.89
+NZ_OY754453.1	CAOCEE_012961	wzx	O61 family O-antigen flippase	wzx	9723	10950	1	1227	30.64
+NZ_OY754453.1	CAOCEE_012959	wzy	O61 family O-antigen polymerase	wzy	11876	13034	1	1158	30.31
+NZ_CM136167.1	CAOCEE_016422	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1195	1	1086	43.55
+NZ_CM136167.1	CAOCEE_016421	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1194	2094	1	900	46.56
+NZ_CM136167.1	CAOCEE_016420	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2151	3030	1	879	43.69
+NZ_CM136167.1	CAOCEE_016419	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3581	1	549	34.97
+NZ_CM136167.1	CAOCEE_016415	?	O-antigen flippase	wzx	5540	6803	1	1263	33.17
+NZ_CM136167.1	CAOCEE_016414	?	Glycosyltransferase	glycosyltransferase	6803	7700	1	897	26.87
+NZ_CM136167.1	CAOCEE_016413	?	putative glycosyltransferase	glycosyltransferase	7707	8943	1	1236	29.21
+NZ_CM136167.1	CAOCEE_016412	?	Glycosyltransferase family 2 protein	glycosyltransferase	8914	9859	1	945	29.63
+NZ_CM136167.1	CAOCEE_016411	?	Glycosyltransferase	glycosyltransferase	9879	10950	1	1071	31.93
+NZ_CM136167.1	CAOCEE_016410	?	Glycosyltransferase family 4 protein	glycosyltransferase	10959	12108	1	1149	31.07
+NZ_CP161809.1	CAOCEE_005956	wzx	O108 family O-antigen flippase	wzx	10849	12052	1	1203	33.5
+NZ_CP161809.1	CAOCEE_005955	wzy	O108 family O-antigen polymerase	wzy	12071	13310	1	1239	33.58
+NZ_CP027452.1	CAOCEE_042430	?	Putative glycosyltransferase	glycosyltransferase	332	1301	1	969	29.93
+NZ_CP027452.1	CAOCEE_042428	wzy	O169/O183 family O-antigen polymerase	wzy	2429	3482	1	1053	25.74
+NZ_CP027452.1	CAOCEE_042422	wzx	O183 family O-antigen flippase	wzx	9692	11105	-1	1413	30.5
+NZ_CP169224.1	CAOCEE_008991	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.65
+NZ_CP169224.1	CAOCEE_008990	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	45.67
+NZ_CP169224.1	CAOCEE_008989	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	42.81
+NZ_CP169224.1	CAOCEE_008988	?	Putative glycosyltransferase	glycosyltransferase	3064	3871	1	807	32.47
+NZ_CP169224.1	CAOCEE_008987	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3889	4447	1	558	32.26
+NZ_CP169224.1	CAOCEE_008983	?	glycosyltransferase family A protein	glycosyltransferase	7231	8146	1	915	29.95
+NZ_CP169224.1	CAOCEE_008982	?	O-antigen polymerase	wzy	8142	9447	1	1305	33.26
+NZ_CP169224.1	CAOCEE_008981	?	glycosyltransferase	glycosyltransferase	9446	10304	1	858	33.33
+NZ_CP019259.1	CAOCEE_002639	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	43.74
+NZ_CP019259.1	CAOCEE_002638	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	45.56
+NZ_CP019259.1	CAOCEE_002637	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	44.03
+NZ_CP019259.1	CAOCEE_002636	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3295	3835	1	540	37.04
+NZ_CP019259.1	CAOCEE_002633	wzx	O39 family O-antigen flippase	wzx	5523	7002	1	1479	31.58
+NZ_CP019259.1	CAOCEE_002632	?	Glycosyltransferase	glycosyltransferase	7007	7943	1	936	31.62
+NZ_CP019259.1	CAOCEE_002631	?	Glycosyltransferase	glycosyltransferase	7949	8993	1	1044	28.16
+NZ_CP019259.1	CAOCEE_002630	wzy	O39 family O-antigen polymerase	wzy	8994	10242	1	1248	28.53
+NZ_CP019259.1	CAOCEE_002628	?	Putative glycosyltransferase	glycosyltransferase	11241	12021	1	780	25.9
+NZ_CP122454.1	CAOCEE_000924	wzx	O6 family O-antigen flippase	wzx	375	1614	1	1239	31.32
+NZ_CP122454.1	CAOCEE_000923	wzy	O6 family O-antigen polymerase	wzy	1613	2957	1	1344	30.65
+NZ_CP122454.1	CAOCEE_000922	?	Glycosyltransferase family 2 protein	glycosyltransferase	2962	3823	1	861	31.24
+NZ_CP122454.1	CAOCEE_000921	?	Glycosyltransferase	glycosyltransferase	3819	4851	1	1032	33.53
+NZ_CP122454.1	CAOCEE_000920	?	Putative glycosyltransferase	glycosyltransferase	4837	5983	1	1146	27.92
+NZ_CP122454.1	CAOCEE_000918	?	Putative glycosyltransferase	glycosyltransferase	7027	8233	1	1206	30.51
+NZ_CP054556.1	CAOCEE_002802	wclR	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol alpha-1,3-galactosyltransferase	glycosyltransferase	721	1885	1	1164	30.84
+NZ_CP054556.1	CAOCEE_002801	wzx	O3 family O-antigen flippase	wzx	2729	4244	1	1515	28.38
+NZ_CP054556.1	CAOCEE_002799	wzy	O3 family O-antigen polymerase	wzy	5391	6477	1	1086	26.24
+NZ_CP046006.1	CAOCEE_006474	wzx	O173 family O-antigen flippase	wzx	1234	2485	1	1251	31.49
+NZ_CP046006.1	CAOCEE_006466	wzy	O173 family O-antigen polymerase	wzy	9789	10869	1	1080	30.46
+NZ_CP028122.1	CAOCEE_000646	wzx	O43 family O-antigen flippase	wzx	318	1632	1	1314	30.97
+NZ_CP028122.1	CAOCEE_000642	wzy	O43 family O-antigen polymerase	wzy	3962	5174	1	1212	26.9
+NZ_CP028122.1	CAOCEE_000641	?	Putative glycosyltransferase	glycosyltransferase	5170	6220	1	1050	29.62
+NZ_CP028122.1	CAOCEE_000636	?	Glycosyltransferase	glycosyltransferase	10242	10989	1	747	32.93
+NZ_CP122823.1	CAOCEE_007289	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	44.48
+NZ_CP122823.1	CAOCEE_007288	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.78
+NZ_CP122823.1	CAOCEE_007287	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	42.89
+NZ_CP122823.1	CAOCEE_007286	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3593	1	561	37.08
+NZ_CP122823.1	CAOCEE_007285	wzx	O120 family O-antigen flippase	wzx	3605	5087	1	1482	30.3
+NZ_CP122823.1	CAOCEE_007284	?	Putative glycosyltransferase	glycosyltransferase	5083	5929	1	846	29.55
+NZ_CP122823.1	CAOCEE_007283	wzy	O120 family O-antigen polymerase	wzy	5912	7172	1	1260	27.06
+NZ_CP122823.1	CAOCEE_007282	?	Putative glycosyltransferase	glycosyltransferase	7173	7965	1	792	33.96
+NZ_CP122823.1	CAOCEE_007281	?	Putative glycosyltransferase	glycosyltransferase	7954	8860	1	906	31.35
+NZ_CP122823.1	CAOCEE_007280	?	Putative glycosyltransferase	glycosyltransferase	8871	9975	1	1104	34.06
+NZ_OY754409.1	CAOCEE_009132	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.28
+NZ_OY754409.1	CAOCEE_009131	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.11
+NZ_OY754409.1	CAOCEE_009130	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.0
+NZ_OY754409.1	CAOCEE_009129	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3587	1	555	37.84
+NZ_OY754409.1	CAOCEE_009128	?	O-antigen polymerase	wzy	3650	4772	1	1122	26.47
+NZ_OY754409.1	CAOCEE_009127	?	Glycosyltransferase family 2 protein	glycosyltransferase	4814	5759	1	945	28.68
+NZ_OY754409.1	CAOCEE_009126	?	Glycosyltransferase family 4 protein	glycosyltransferase	5766	6858	1	1092	29.58
+NZ_OY754409.1	CAOCEE_009124	?	Glycosyltransferase	glycosyltransferase	8152	9001	1	849	28.39
+NZ_OY754409.1	CAOCEE_009123	?	Rhamnosyltransferase	glycosyltransferase	9011	9923	1	912	32.24
+NZ_OY754409.1	CAOCEE_009122	?	Putative glycosyltransferase	glycosyltransferase	9934	11038	1	1104	34.24
+NZ_CP040269.1	CAOCEE_003822	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.09
+NZ_CP040269.1	CAOCEE_003821	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	46.67
+NZ_CP040269.1	CAOCEE_003820	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	43.49
+NZ_CP040269.1	CAOCEE_003819	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3594	1	561	38.5
+NZ_CP040269.1	CAOCEE_003816	?	Putative glycosyltransferase	glycosyltransferase	5546	6329	1	783	28.86
+NZ_CP040269.1	CAOCEE_003815	wzx	O48 family O-antigen flippase	wzx	6294	7518	1	1224	29.82
+NZ_CP040269.1	CAOCEE_003813	wzy	O48 family O-antigen polymerase	wzy	8782	9904	1	1122	30.21
+NZ_AP045043.1	CAOCEE_013256	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.45
+NZ_AP045043.1	CAOCEE_013255	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	46.89
+NZ_AP045043.1	CAOCEE_013254	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.12
+NZ_AP045043.1	CAOCEE_013253	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3591	1	558	35.66
+NZ_AP045043.1	CAOCEE_013252	wzx	O148 family O-antigen flippase	wzx	3587	4778	1	1191	31.49
+NZ_AP045043.1	CAOCEE_013251	wzy	O148 family O-antigen polymerase	wzy	4774	5917	1	1143	31.06
+NZ_AP045043.1	CAOCEE_013249	rfbF	dTDP-rhamnosyl transferase rfbF	sugar_biosynthesis	6782	7694	1	912	30.04
+NZ_CP101274.1	CAOCEE_004615	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1195	1	1086	43.37
+NZ_CP101274.1	CAOCEE_004614	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1194	2094	1	900	47.44
+NZ_CP101274.1	CAOCEE_004613	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2151	3030	1	879	43.46
+NZ_CP101274.1	CAOCEE_004612	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3034	3604	1	570	38.95
+NZ_CP101274.1	CAOCEE_004609	wzx	O53 family O-antigen flippase	wzx	5522	6752	1	1230	28.62
+NZ_CP101274.1	CAOCEE_004607	wzy	O53 family O-antigen polymerase	wzy	7850	9143	1	1293	27.92
+NZ_CP135658.1	CAOCEE_000109	wzx	O11 family O-antigen flippase	wzx	373	1609	1	1236	30.02
+NZ_CP135658.1	CAOCEE_000107	wzy	O11 family O-antigen polymerase	wzy	2339	3575	1	1236	26.21
+NZ_CP135658.1	CAOCEE_000099	?	Glycosyltransferase	glycosyltransferase	10796	11543	1	747	32.26
+NZ_CP075665.1	CAOCEE_002374	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1185	1	1077	42.53
+NZ_CP075665.1	CAOCEE_002373	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1181	2045	1	864	36.34
+NZ_CP075665.1	CAOCEE_002372	?	Glycosyltransferase	glycosyltransferase	2074	2839	1	765	32.16
+NZ_CP075665.1	CAOCEE_002368	wzx	O91 family O-antigen flippase	wzx	4898	6164	1	1266	29.78
+NZ_CP075665.1	CAOCEE_002366	?	Glycosyltransferase	glycosyltransferase	7318	8173	1	855	30.64
+NZ_CP075665.1	CAOCEE_002365	?	Glycosyltransferase	glycosyltransferase	8169	8967	1	798	30.7
+NZ_CP075665.1	CAOCEE_002364	wzy	O91 family O-antigen polymerase	wzy	8953	10165	1	1212	30.12
+NZ_CP139125.1	CAOCEE_019038	?	putative O-antigen polymerase	wzy	8646	9936	1	1290	30.08
+NZ_CP139125.1	CAOCEE_019036	?	Glycosyltransferase family 4 protein	glycosyltransferase	10895	12008	1	1113	32.26
+NZ_CP139125.1	CAOCEE_019035	?	Glycosyltransferase	glycosyltransferase	12000	12915	1	915	30.49
+NZ_CP117971.1	CAOCEE_009864	wzx	O33 family O-antigen flippase	wzx	1864	3109	1	1245	29.72
+NZ_CP117971.1	CAOCEE_009862	wzy	O33 family O-antigen polymerase	wzy	4256	5459	1	1203	28.76
+NZ_CP117971.1	CAOCEE_009861	?	Glycosyltransferase family 25 (LPS biosynthesis protein)	glycosyltransferase	5427	6171	1	744	28.9
+NZ_CP117971.1	CAOCEE_009860	?	Putative glycosyltransferase	glycosyltransferase	6173	7067	1	894	30.43
+NZ_CP117971.1	CAOCEE_009859	?	Putative glycosyltransferase	glycosyltransferase	7173	7920	1	747	32.13
+NZ_CP119740.1	CAOCEE_005109	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	171	1257	1	1086	43.46
+NZ_CP119740.1	CAOCEE_005108	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1256	2156	1	900	47.56
+NZ_CP119740.1	CAOCEE_005107	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2213	3092	1	879	42.55
+NZ_CP119740.1	CAOCEE_005106	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3096	3636	1	540	38.33
+NZ_CP119740.1	CAOCEE_005101	wzx	O180 family O-antigen flippase	wzx	7749	9009	1	1260	34.44
+NZ_CP119740.1	CAOCEE_005100	wzy	O180 family O-antigen polymerase	wzy	9042	10374	1	1332	32.13
+NZ_CP119740.1	CAOCEE_005098	?	Glycosyltransferase	glycosyltransferase	11588	12668	1	1080	31.67
+NZ_CP119740.1	CAOCEE_005097	?	Glycosyltransferase	glycosyltransferase	12689	13526	1	837	32.02
+NZ_CP053211.1	CAOCEE_012982	?	Glycosyltransferase	glycosyltransferase	3283	4303	1	1020	29.8
+NZ_CP053211.1	CAOCEE_012979	wzy	O176 family O-antigen polymerase	wzy	7264	8596	1	1332	29.58
+NZ_CP053211.1	CAOCEE_012978	wzx	O176 family O-antigen flippase	wzx	8598	9831	1	1233	28.39
+NZ_AP042652.1	CAOCEE_000416	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1186	1	1077	41.97
+NZ_AP042652.1	CAOCEE_000415	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1182	2049	1	867	37.25
+NZ_AP042652.1	CAOCEE_000414	wzx	O116 family O-antigen flippase	wzx	2055	3483	1	1428	32.49
+NZ_AP042652.1	CAOCEE_000411	?	Glycosyltransferase	glycosyltransferase	5201	6164	1	963	30.22
+NZ_AP042652.1	CAOCEE_000410	wzy	O116 family O-antigen polymerase	wzy	6171	7332	1	1161	28.85
+NZ_AP042652.1	CAOCEE_000409	?	Glycosyltransferase	glycosyltransferase	7334	8417	1	1083	28.53
+NZ_AP042652.1	CAOCEE_000408	?	Glycosyltransferase	glycosyltransferase	8426	9512	1	1086	33.52
+NZ_AP042652.1	CAOCEE_000407	?	Glycosyltransferase family 1 protein	glycosyltransferase	9518	10637	1	1119	30.74
+NZ_CP116103.1	CAOCEE_001051	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	304	1459	1	1155	43.12
+NZ_CP116103.1	CAOCEE_001050	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	48.22
+NZ_CP116103.1	CAOCEE_001049	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.46
+NZ_CP116103.1	CAOCEE_001048	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3850	1	552	35.69
+NZ_CP116103.1	CAOCEE_001047	?	Glycosyltransferase	glycosyltransferase	3984	5088	1	1104	30.07
+NZ_CP116103.1	CAOCEE_001046	wzy	O75 family O-antigen polymerase	wzy	5084	6158	1	1074	29.14
+NZ_CP116103.1	CAOCEE_001041	wzx	O75 family O-antigen flippase	wzx	11056	12589	1	1533	29.03
+NZ_CP076706.1	CAOCEE_000076	wzx	O170 family O-antigen flippase	wzx	334	1582	1	1248	32.93
+NZ_CP076706.1	CAOCEE_000074	?	N-glycosyltransferase	glycosyltransferase	2696	3629	1	933	32.37
+NZ_CP076706.1	CAOCEE_000073	?	Glycosyltransferase family 2	glycosyltransferase	3612	4419	1	807	29.24
+NZ_CP076706.1	CAOCEE_000072	wzy	O170 family O-antigen polymerase	wzy	4418	5591	1	1173	29.84
+NZ_AP042515.1	CAOCEE_002823	?	Glycosyltransferase	glycosyltransferase	2713	3955	1	1242	34.06
+NZ_AP042515.1	CAOCEE_002822	wzy	O156 family O-antigen polymerase	wzy	3964	5170	1	1206	28.11
+NZ_AP042515.1	CAOCEE_002815	?	Putative glycosyltransferase	glycosyltransferase	10888	11635	1	747	32.66
+NZ_CM129889.1	CAOCEE_013014	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1181	1	1074	41.9
+NZ_CM129889.1	CAOCEE_013013	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1182	2055	1	873	38.6
+NZ_CM129889.1	CAOCEE_013012	wzy	O109 family O-antigen polymerase	wzy	2154	3375	1	1221	32.19
+NZ_CM129889.1	CAOCEE_013006	wzx	O109 family O-antigen flippase	wzx	8711	10076	1	1365	32.89
+NZ_CM129889.1	CAOCEE_013004	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	11128	11674	1	546	37.18
+NZ_CP063499.1	CAOCEE_004371	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.46
+NZ_CP063499.1	CAOCEE_004370	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2096	1	903	46.4
+NZ_CP063499.1	CAOCEE_004369	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	44.03
+NZ_CP063499.1	CAOCEE_004368	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3591	1	558	37.81
+NZ_CP063499.1	CAOCEE_004367	wzx	O147 family O-antigen flippase	wzx	3587	4820	1	1233	31.63
+NZ_CP063499.1	CAOCEE_004366	wzy	O147 family O-antigen polymerase	wzy	4875	6063	1	1188	26.85
+NZ_CP063499.1	CAOCEE_004365	?	Glycosyltransferase	glycosyltransferase	6079	6949	1	870	31.95
+NZ_CP063499.1	CAOCEE_004364	?	Glycosyltransferase	glycosyltransferase	6945	7779	1	834	31.77
+NZ_LR134296.1	CAOCEE_014536	wzx	O41 family O-antigen flippase	wzx	117	1350	1	1233	32.6
+NZ_LR134296.1	CAOCEE_014535	?	Putative glycosyltransferase	glycosyltransferase	1349	2279	1	930	30.65
+NZ_LR134296.1	CAOCEE_014534	?	Putative glycosyltransferase	glycosyltransferase	2290	3547	1	1257	32.78
+NZ_LR134296.1	CAOCEE_014533	wzy	O41 family O-antigen polymerase	wzy	3565	4762	1	1197	28.07
+NZ_LR134296.1	CAOCEE_014532	?	Putative glycosyltransferase	glycosyltransferase	4758	5508	1	750	28.53
+NZ_LR134296.1	CAOCEE_014531	?	Glycosyltransferase	glycosyltransferase	5504	6362	1	858	28.55
+NZ_LR134296.1	CAOCEE_014526	?	Putative glycosyltransferase	glycosyltransferase	10326	11073	1	747	34.0
+NZ_CP015240.1	CAOCEE_002986	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1195	1	1086	43.46
+NZ_CP015240.1	CAOCEE_002985	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1194	2094	1	900	46.67
+NZ_CP015240.1	CAOCEE_002984	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2151	3030	1	879	42.89
+NZ_CP015240.1	CAOCEE_002983	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3034	3580	1	546	40.29
+NZ_CP015240.1	CAOCEE_002981	?	Glycosyltransferase	glycosyltransferase	4831	5773	1	942	32.7
+NZ_CP015240.1	CAOCEE_002980	?	Glycosyltransferase	glycosyltransferase	5776	6859	1	1083	32.87
+NZ_CP015240.1	CAOCEE_002978	?	Glycosyltransferase	glycosyltransferase	8149	9040	1	891	29.07
+NZ_CP015240.1	CAOCEE_002977	?	Rhamnosyltransferase	glycosyltransferase	9101	9995	1	894	31.21
+NZ_CP015240.1	CAOCEE_002976	?	Glycosyltransferase	glycosyltransferase	9991	11086	1	1095	32.6
+NZ_CP159694.1	CAOCEE_016942	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1447	1	1077	42.34
+NZ_CP159694.1	CAOCEE_016941	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1443	2310	1	867	37.37
+NZ_CP159694.1	CAOCEE_016936	?	Glycosyltransferase 2-like domain-containing protein	glycosyltransferase	5829	6801	1	972	30.56
+NZ_CP159694.1	CAOCEE_016934	?	Glycosyltransferase 2-like domain-containing protein	glycosyltransferase	8087	8960	1	873	29.55
+NZ_AP027818.1	CAOCEE_017653	wzx	O143 family O-antigen flippase	wzx	3898	5104	1	1206	28.77
+NZ_AP027818.1	CAOCEE_017650	?	Wzy	wzy	7087	8350	1	1263	28.42
+NZ_CP151045.1	CAOCEE_000848	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	111	1197	1	1086	43.55
+NZ_CP151045.1	CAOCEE_000847	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1196	2096	1	900	47.0
+NZ_CP151045.1	CAOCEE_000846	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2153	3032	1	879	43.34
+NZ_CP151045.1	CAOCEE_000845	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3036	3585	1	549	37.7
+NZ_CP151045.1	CAOCEE_000844	?	Glycosyltransferase	glycosyltransferase	3596	4475	1	879	27.76
+NZ_CP151045.1	CAOCEE_000841	?	Glycosyltransferase family 2 protein	glycosyltransferase	6123	6951	1	828	26.09
+NZ_CP151045.1	CAOCEE_000840	?	O-antigen polymerase	wzy	6964	8281	1	1317	29.16
+NZ_CP151045.1	CAOCEE_000838	?	Glycosyltransferase	glycosyltransferase	9452	10559	1	1107	32.43
+NZ_CP051158.1	CAOCEE_007744	wzx	O130 family O-antigen flippase	wzx	604	1879	1	1275	29.25
+NZ_CP051158.1	CAOCEE_007741	wzy	O130 family O-antigen polymerase	wzy	3856	4972	1	1116	28.49
+NZ_CP027454.1	CAOCEE_003535	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	2770	3859	1	1089	38.29
+NZ_CP027454.1	CAOCEE_003534	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3825	4725	1	900	37.33
+NZ_CP027454.1	CAOCEE_003530	wzx	O121 family O-antigen flippase	wzx	6969	8457	1	1488	36.63
+NZ_CP027454.1	CAOCEE_003527	wzy	O121 family O-antigen polymerase	wzy	9908	11099	1	1191	31.07
+NZ_AP027474.1	CAOCEE_004193	wzx	O81 family O-antigen flippase	wzx	2502	3804	1	1302	29.57
+NZ_AP027474.1	CAOCEE_004190	wzy	O81 family O-antigen polymerase	wzy	5752	6982	1	1230	27.72
+NZ_AP027474.1	CAOCEE_004189	?	Glycosyltransferase 2-like domain-containing protein	glycosyltransferase	7284	7992	1	708	30.51
+NZ_AP027474.1	CAOCEE_004188	wbdM	Putative glycosyltransferase WbdM	glycosyltransferase	8036	9083	1	1047	34.19
+NZ_AP027474.1	CAOCEE_004187	?	Glycosyltransferase	glycosyltransferase	9079	9868	1	789	31.81
+NZ_CM125665.1	CAOCEE_003651	wzy	O85 family O-antigen polymerase	wzy	1501	2620	1	1119	29.31
+NZ_CM125665.1	CAOCEE_003649	wzx	O85 family O-antigen flippase	wzx	3655	4876	1	1221	28.67
+NZ_CP010134.1	CAOCEE_000530	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	110	1187	1	1077	42.8
+NZ_CP010134.1	CAOCEE_000529	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1183	2056	1	873	36.66
+NZ_CP010134.1	CAOCEE_000525	wzx	O103 family O-antigen flippase	wzx	4087	5353	1	1266	33.73
+NZ_CP010134.1	CAOCEE_000524	?	Putative glycosyltransferase	glycosyltransferase	5356	6343	1	987	27.56
+NZ_CP010134.1	CAOCEE_000523	?	Glycosyltransferase	glycosyltransferase	6345	7236	1	891	28.51
+NZ_CP010134.1	CAOCEE_000522	wzy	O103 family O-antigen polymerase	wzy	7235	8384	1	1149	29.33
+NZ_CP010134.1	CAOCEE_000521	?	Glycosyltransferase	glycosyltransferase	8386	9478	1	1092	32.97
+NZ_CP010134.1	CAOCEE_000520	?	Galactosyltransferase	glycosyltransferase	9662	10784	1	1122	31.82
+NZ_CM146020.1	CAOCEE_000331	?	Putative glycosyltransferase	glycosyltransferase	315	1059	1	744	30.65
+NZ_CM146020.1	CAOCEE_000330	wzx	O174 family O-antigen flippase	wzx	1061	2333	1	1272	26.26
+NZ_CM146020.1	CAOCEE_000329	wzy	O174 family O-antigen polymerase	wzy	2379	3453	1	1074	26.63
+NZ_CM146020.1	CAOCEE_000328	?	Putative glycosyltransferase	glycosyltransferase	3455	4340	1	885	27.8
+NZ_CM146020.1	CAOCEE_000326	?	Putative glycosyltransferase	glycosyltransferase	4915	5737	1	822	33.58
+NZ_CP051751.1	CAOCEE_019185	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	43.12
+NZ_CP051751.1	CAOCEE_019184	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.33
+NZ_CP051751.1	CAOCEE_019183	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	42.55
+NZ_CP051751.1	CAOCEE_019182	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3841	1	543	35.73
+NZ_CP051751.1	CAOCEE_019181	wzx	O36 family O-antigen flippase	wzx	3857	5102	1	1245	32.29
+NZ_CP051751.1	CAOCEE_019180	?	Glycosyltransferase family 2 protein	glycosyltransferase	5098	5809	1	711	27.85
+NZ_CP051751.1	CAOCEE_019179	?	Glycosyltransferase	glycosyltransferase	5815	6625	1	810	30.12
+NZ_CP051751.1	CAOCEE_019176	?	Glycosyltransferase family 4 protein	glycosyltransferase	7891	8917	1	1026	31.19
+NZ_CP051751.1	CAOCEE_019171	?	Putative glycosyltransferase	glycosyltransferase	12904	13651	1	747	34.14
+NZ_CP041437.1	CAOCEE_000537	?	Glycosyltransferase	glycosyltransferase	307	1153	1	846	31.91
+NZ_CP041437.1	CAOCEE_000536	wzx	O46/O134 family O-antigen flippase	wzx	1154	2456	1	1302	28.65
+NZ_CP041437.1	CAOCEE_000535	?	Putative glycosyltransferase	glycosyltransferase	2457	3363	1	906	29.69
+NZ_CP041437.1	CAOCEE_000534	wzy	O46/O134 family O-antigen polymerase	wzy	3359	4499	1	1140	27.54
+NZ_CP041437.1	CAOCEE_000532	?	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	5291	6020	1	729	30.32
+NZ_CP075465.1	CAOCEE_020107	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1412	2498	1	1086	43.0
+NZ_CP075465.1	CAOCEE_020106	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2497	3397	1	900	43.11
+NZ_CP075465.1	CAOCEE_020105	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3448	4327	1	879	41.07
+NZ_CP075465.1	CAOCEE_020104	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4331	4889	1	558	36.92
+NZ_CP075465.1	CAOCEE_020103	wzx	O142 family O-antigen flippase	wzx	4885	6130	1	1245	35.02
+NZ_CP075465.1	CAOCEE_020102	wzy	O142 family O-antigen polymerase	wzy	6181	7363	1	1182	32.83
+NZ_CP075465.1	CAOCEE_020101	?	Rhamnosyltransferase	glycosyltransferase	7344	8280	1	936	32.16
+NZ_CP075465.1	CAOCEE_020100	?	Glycosyltransferase	glycosyltransferase	8276	9065	1	789	31.69
+NZ_CP010191.1	CAOCEE_022734	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	110	1187	1	1077	43.55
+NZ_CP010191.1	CAOCEE_022733	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1183	2047	1	864	37.15
+NZ_CP010191.1	CAOCEE_022729	wzx	O65 family O-antigen flippase	wzx	4008	5259	1	1251	27.5
+NZ_CP010191.1	CAOCEE_022726	?	Glycosyltransferase	glycosyltransferase	8057	9185	1	1128	31.91
+NZ_CP010191.1	CAOCEE_022725	wzy	O65 family O-antigen polymerase	wzy	9181	10453	1	1272	32.47
+NZ_CP010191.1	CAOCEE_022724	?	Glycosyltransferase	glycosyltransferase	10454	11579	1	1125	31.64
+NZ_CP010191.1	CAOCEE_022723	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	11575	12385	1	810	34.32
+NZ_CP148483.1	CAOCEE_000699	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	110	1196	1	1086	43.09
+NZ_CP148483.1	CAOCEE_000698	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1195	2095	1	900	46.78
+NZ_CP148483.1	CAOCEE_000697	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2152	3031	1	879	44.48
+NZ_CP148483.1	CAOCEE_000696	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3035	3575	1	540	35.74
+NZ_CP148483.1	CAOCEE_000692	wzx	O49 family O-antigen flippase	wzx	5820	7323	1	1503	31.07
+NZ_CP148483.1	CAOCEE_000691	?	Putative glycosyltransferase	glycosyltransferase	7319	8552	1	1233	30.17
+NZ_CP148483.1	CAOCEE_000690	wzy	O49 family O-antigen polymerase	wzy	8541	9696	1	1155	27.71
+NZ_CP148483.1	CAOCEE_000689	?	Putative glycosyltransferase	glycosyltransferase	9692	10532	1	840	30.83
+NZ_CP148483.1	CAOCEE_000688	?	Putative glycosyltransferase	glycosyltransferase	10528	11428	1	900	30.56
+NZ_CP129263.1	CAOCEE_000431	wzy	O112ac family O-antigen polymerase	wzy	2046	3132	1	1086	27.16
+NZ_CP129263.1	CAOCEE_000427	wzx	O112ac family O-antigen flippase	wzx	5960	7382	1	1422	28.97
+NZ_CP062910.1	CAOCEE_010352	wzx	O112ab family O-antigen flippase	wzx	303	1695	1	1392	28.02
+NZ_CP062910.1	CAOCEE_010351	wzy	O112ab family O-antigen polymerase	wzy	1714	2893	1	1179	25.95
+NZ_CP100944.1	CAOCEE_006715	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1185	1	1077	42.9
+NZ_CP100944.1	CAOCEE_006714	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1181	2048	1	867	37.02
+NZ_CP100944.1	CAOCEE_006713	wzx	O116 family O-antigen flippase	wzx	2054	3482	1	1428	32.28
+NZ_CP100944.1	CAOCEE_006711	?	Glycosyltransferase	glycosyltransferase	4660	5716	1	1056	31.72
+NZ_CP100944.1	CAOCEE_006710	?	O-antigen polymerase	wzy	5737	6946	1	1209	29.28
+NZ_CP100944.1	CAOCEE_006709	?	Glycosyltransferase	glycosyltransferase	6958	8125	1	1167	32.39
+NZ_CP100944.1	CAOCEE_006708	?	Glycosyltransferase	glycosyltransferase	8136	8973	1	837	30.23
+NZ_CP100944.1	CAOCEE_006706	?	Glycosyltransferase	glycosyltransferase	10078	10984	1	906	33.66
+NZ_AP022245.1	CAOCEE_000973	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	296	1448	1	1152	41.67
+NZ_AP022245.1	CAOCEE_000972	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1444	2317	1	873	36.88
+NZ_AP022245.1	CAOCEE_000968	wzx	O184 family O-antigen flippase	wzx	4355	5609	1	1254	34.05
+NZ_AP022245.1	CAOCEE_000966	wzy	O184 family O-antigen polymerase	wzy	6879	8223	1	1344	28.79
+NZ_AP022245.1	CAOCEE_000965	?	putative glycosyltransferase, GT1 family	glycosyltransferase	8219	9257	1	1038	31.79
+NZ_AP022245.1	CAOCEE_000960	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	13284	14031	1	747	33.47
+NZ_CM149577.1	CAOCEE_004740	wzx	O84 family O-antigen flippase	wzx	411	1806	1	1395	31.25
+NZ_CM149577.1	CAOCEE_004736	wzy	O84 family O-antigen polymerase	wzy	4473	5625	1	1152	25.69
+NZ_CM149577.1	CAOCEE_004729	?	Putative glycosyltransferase	glycosyltransferase	11974	12721	1	747	33.33
+NZ_CP035770.1	CAOCEE_000560	wzx	O145 family O-antigen flippase	wzx	4601	5828	1	1227	29.42
+NZ_CP035770.1	CAOCEE_000559	wzy	O145 family O-antigen polymerase	wzy	5835	7023	1	1188	29.38
+NZ_CP123593.1	CAOCEE_000573	?	Glycosyltransferase	glycosyltransferase	1523	2585	1	1062	28.06
+NZ_CP123593.1	CAOCEE_000572	?	O-antigen polymerase	wzy	2574	3963	1	1389	29.73
+NZ_CP123593.1	CAOCEE_000568	?	Glycosyltransferase	glycosyltransferase	7394	8342	1	948	30.91
+NZ_CP159726.1	CAOCEE_033713	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.54
+NZ_CP159726.1	CAOCEE_033712	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	46.67
+NZ_CP159726.1	CAOCEE_033711	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	42.92
+NZ_CP159726.1	CAOCEE_033710	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3585	1	552	38.41
+NZ_CP159726.1	CAOCEE_033709	?	O-antigen flippase	wzx	3598	5005	1	1407	29.78
+NZ_CP159726.1	CAOCEE_033708	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	5029	5752	1	723	28.49
+NZ_CP159726.1	CAOCEE_033707	?	O-antigen polymerase	wzy	5748	7071	1	1323	29.4
+NZ_CP159726.1	CAOCEE_033706	?	N-glycosyltransferase	glycosyltransferase	7063	7942	1	879	28.67
+NZ_CP159726.1	CAOCEE_033705	?	D-inositol 3-phosphate glycosyltransferase	glycosyltransferase	7957	9121	1	1164	31.36
+NZ_CP159726.1	CAOCEE_033699	?	Putative glycosyltransferase	glycosyltransferase	13621	14368	1	747	33.07
+NZ_CP035882.1	CAOCEE_000905	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1185	1	1077	42.62
+NZ_CP035882.1	CAOCEE_000904	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1181	2060	1	879	34.81
+NZ_CP035882.1	CAOCEE_000899	wzx	O114 family O-antigen flippase	wzx	4998	6252	1	1254	31.66
+NZ_CP035882.1	CAOCEE_000897	wzy	O114 family O-antigen polymerase	wzy	7110	8439	1	1329	29.8
+NZ_CP055256.1	CAOCEE_006592	wzx	O125 family O-antigen flippase	wzx	353	1625	1	1272	28.54
+NZ_CP055256.1	CAOCEE_006591	?	Glycosyltransferase family 2 protein	glycosyltransferase	1631	2552	1	921	29.64
+NZ_CP055256.1	CAOCEE_006590	?	Putative glycosyltransferase	glycosyltransferase	2553	3399	1	846	29.43
+NZ_CP055256.1	CAOCEE_006589	wzy	O125 family O-antigen polymerase	wzy	3388	4711	1	1323	27.59
+NZ_CP055256.1	CAOCEE_006587	?	Glycosyltransferase	glycosyltransferase	5749	6778	1	1029	30.71
+NZ_CP055256.1	CAOCEE_006582	?	Glycosyltransferase	glycosyltransferase	10817	11564	1	747	31.86
+NZ_CP176489.1	CAOCEE_007992	wzy	O175 family O-antigen polymerase	wzy	330	1461	1	1131	31.56
+NZ_CP176489.1	CAOCEE_007989	?	Putative glycosyltransferase	glycosyltransferase	3575	4733	1	1158	29.27
+NZ_CP176489.1	CAOCEE_007985	wzx	O175 family O-antigen flippase	wzx	8514	9921	1	1407	30.56
+NZ_CP027445.1	CAOCEE_000723	wzx	O172 family O-antigen flippase	wzx	320	1622	1	1302	29.42
+NZ_CP027445.1	CAOCEE_000722	wzy	O172 family O-antigen polymerase	wzy	1614	2790	1	1176	26.79
+NZ_CP027445.1	CAOCEE_000721	?	Glycosyltransferase family 25 protein	glycosyltransferase	2786	3569	1	783	30.01
+NZ_CP027445.1	CAOCEE_000720	?	Glycosyltransferase	glycosyltransferase	3568	4657	1	1089	26.91
+NZ_CP080139.1	CAOCEE_000940	wzx	O80 family O-antigen flippase	wzx	7111	8332	1	1221	31.04
+NZ_CP080139.1	CAOCEE_000939	?	Alpha-1,2-fucosyltransferase	glycosyltransferase	8318	9155	1	837	30.23
+NZ_CP080139.1	CAOCEE_000938	?	Glycosyltransferase family 2 protein	glycosyltransferase	9151	10114	1	963	29.91
+NZ_CP080139.1	CAOCEE_000937	?	Putative glycosyltransferase	glycosyltransferase	10079	12026	1	1947	30.51
+NZ_CP080139.1	CAOCEE_000936	wzy	O80 family O-antigen polymerase	wzy	12022	13249	1	1227	29.91
+NZ_CP080139.1	CAOCEE_000935	?	Putative glycosyltransferase	glycosyltransferase	13259	14006	1	747	30.79
+NZ_CP020092.1	CAOCEE_004829	wzx	O182 family O-antigen flippase	wzx	3374	4745	1	1371	30.42
+NZ_CP020092.1	CAOCEE_004827	?	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	5869	7024	1	1155	31.69
+NZ_CP020092.1	CAOCEE_004826	wzy	O182 family O-antigen polymerase	wzy	7020	8247	1	1227	30.73
+NZ_CP020092.1	CAOCEE_004825	?	glycosyltransferase	glycosyltransferase	8374	8965	1	591	32.66
+NZ_CP020092.1	CAOCEE_004824	?	Putative glycosyltransferase	glycosyltransferase	8977	9727	1	750	32.93
+NZ_CP104788.1	CAOCEE_009651	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	297	1458	1	1161	42.46
+NZ_CP104788.1	CAOCEE_009650	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.11
+NZ_CP104788.1	CAOCEE_009649	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.34
+NZ_CP104788.1	CAOCEE_009645	?	O-antigen flippase Wzx	wzx	5277	6549	1	1272	30.66
+NZ_CP104788.1	CAOCEE_009643	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7605	8139	1	534	34.08
+NZ_CP104788.1	CAOCEE_009641	?	O-antigen polymerase	wzy	9133	10177	1	1044	27.2
+NZ_CM132948.1	CAOCEE_000461	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.19
+NZ_CM132948.1	CAOCEE_000460	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.11
+NZ_CM132948.1	CAOCEE_000459	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.8
+NZ_CM132948.1	CAOCEE_000458	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3581	1	549	34.79
+NZ_CM132948.1	CAOCEE_000457	wzx	O102 family O-antigen flippase	wzx	3587	4838	1	1251	32.77
+NZ_CM132948.1	CAOCEE_000455	wzy	O102 family O-antigen polymerase	wzy	5840	6971	1	1131	28.03
+NZ_CM132948.1	CAOCEE_000452	?	Galactosyltransferase	glycosyltransferase	8952	9690	1	738	29.67
+NZ_CM129855.1	CAOCEE_002464	wzx	O29 family O-antigen flippase	wzx	4239	5640	1	1401	31.83
+NZ_CM129855.1	CAOCEE_002463	wzy	O29 family O-antigen polymerase	wzy	5642	6800	1	1158	30.05
+NZ_AP043621.1	CAOCEE_003175	?	Putative glycosyltransferase	glycosyltransferase	294	1302	1	1008	28.97
+NZ_AP043621.1	CAOCEE_003173	wzy	O169/O183 family O-antigen polymerase	wzy	2430	3483	1	1053	26.5
+NZ_AP043621.1	CAOCEE_003164	wzx	O169 family O-antigen flippase	wzx	10549	11833	1	1284	29.21
+NZ_AP027676.1	CAOCEE_011079	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.37
+NZ_AP027676.1	CAOCEE_011078	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	45.89
+NZ_AP027676.1	CAOCEE_011077	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.69
+NZ_AP027676.1	CAOCEE_011076	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3575	1	543	33.52
+NZ_AP027676.1	CAOCEE_011075	wzx	O107/O117 family O-antigen flippase	wzx	3574	4792	1	1218	26.77
+NZ_AP027676.1	CAOCEE_011074	wzy	O107/O117 family O-antigen polymerase	wzy	4784	6107	1	1323	28.72
+NZ_AP027676.1	CAOCEE_011073	waaV	Beta1,3-glucosyltransferase WaaV	glycosyltransferase	6099	6900	1	801	30.21
+NZ_AP027676.1	CAOCEE_011072	?	Glycosyltransferase family 2	glycosyltransferase	6886	7831	1	945	27.62
+NZ_AP027676.1	CAOCEE_011071	wclY	O-antigen biosynthesis glycosyltransferase WclY	glycosyltransferase	7827	8889	1	1062	30.13
+NZ_CP097198.1	CAOCEE_001092	wzy	O23 family O-antigen polymerase	wzy	436	1462	1	1026	25.73
+NZ_CP097198.1	CAOCEE_001091	?	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	glycosyltransferase	1458	2328	1	870	29.77
+NZ_CP097198.1	CAOCEE_001090	wzx	O23 family O-antigen flippase	wzx	2300	3506	1	1206	29.52
+NZ_CP097198.1	CAOCEE_001089	?	Mannosyltransferase OCH1	glycosyltransferase	3495	4152	1	657	33.03
+NZ_CP169755.1	CAOCEE_001379	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	126	1212	1	1086	43.46
+NZ_CP169755.1	CAOCEE_001378	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1211	2111	1	900	46.33
+NZ_CP169755.1	CAOCEE_001377	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2168	3047	1	879	43.23
+NZ_CP169755.1	CAOCEE_001376	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3051	3600	1	549	38.98
+NZ_CP169755.1	CAOCEE_001375	wzx	O1 family O-antigen flippase	wzx	3631	4870	1	1239	31.48
+NZ_CP169755.1	CAOCEE_001372	wzy	O1 family O-antigen polymerase	wzy	7137	8142	1	1005	28.16
+NZ_CP169755.1	CAOCEE_001371	?	Glycosyltransferase	glycosyltransferase	8143	9103	1	960	33.12
+NZ_CP178662.1	CAOCEE_004660	?	Glycosyltransferase	glycosyltransferase	179	998	1	819	31.99
+NZ_CP178662.1	CAOCEE_004657	wzy	O185 family O-antigen polymerase	wzy	2371	3742	1	1371	29.76
+NZ_CP178662.1	CAOCEE_004656	?	Glycosyltransferase	glycosyltransferase	3729	4626	1	897	29.32
+NZ_CP178662.1	CAOCEE_004655	wzx	O185 family O-antigen flippase	wzx	4633	6067	1	1434	30.75
+NZ_CP178662.1	CAOCEE_004654	?	Glycosyltransferase family 2 protein	glycosyltransferase	6044	7022	1	978	28.73
+NZ_CP022164.1	CAOCEE_000633	wzx	O15 family O-antigen flippase	wzx	526	1771	1	1245	33.57
+NZ_CP022164.1	CAOCEE_000631	wzy	O15 family O-antigen polymerase	wzy	2803	3982	1	1179	29.26
+NZ_CM166346.1	CAOCEE_000190	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	106	1192	1	1086	43.28
+NZ_CM166346.1	CAOCEE_000189	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1191	2091	1	900	48.44
+NZ_CM166346.1	CAOCEE_000188	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2148	3027	1	879	43.57
+NZ_CM166346.1	CAOCEE_000187	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3031	3565	1	534	39.33
+NZ_CM166346.1	CAOCEE_000182	?	Glycosyltransferase	glycosyltransferase	7462	8302	1	840	29.52
+NZ_CM166346.1	CAOCEE_000181	?	Glycosyltransferase	glycosyltransferase	8298	9039	1	741	31.58
+NZ_CM166346.1	CAOCEE_000180	?	Glycosyltransferase family 4 protein	glycosyltransferase	9026	10121	1	1095	31.05
+NZ_CP018948.1	CAOCEE_002105	wzx	O131 family O-antigen flippase	wzx	4460	5729	1	1269	33.1
+NZ_CP018948.1	CAOCEE_002104	?	Glycosyltransferase family 52	glycosyltransferase	5768	6710	1	942	28.24
+NZ_CP018948.1	CAOCEE_002103	wzy	O131 family O-antigen polymerase	wzy	6731	8036	1	1305	29.73
+NZ_CP116169.1	CAOCEE_015360	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.19
+NZ_CP116169.1	CAOCEE_015359	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	46.89
+NZ_CP116169.1	CAOCEE_015358	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.0
+NZ_CP116169.1	CAOCEE_015357	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3031	3577	1	546	35.9
+NZ_CP116169.1	CAOCEE_015354	wzx	O35 family O-antigen flippase	wzx	6041	7247	1	1206	29.44
+NZ_CP116169.1	CAOCEE_015350	wzy	O35 family O-antigen polymerase	wzy	10689	11712	1	1023	28.15
+NZ_CP116169.1	CAOCEE_015349	?	dTDP-Rha:alpha-D-GlcNAc-pyrophosphate polyprenol, alpha-3-L-rhamnosyltransferase	glycosyltransferase	11733	12519	1	786	28.63
+NZ_CP025856.1	CAOCEE_000673	wbnH	O-antigen biosynthesis glycosyltransferase WbnH	glycosyltransferase	1347	2364	1	1017	33.53
+NZ_CP025856.1	CAOCEE_000666	wzx	O128 family O-antigen flippase	wzx	8357	9800	1	1443	28.55
+NZ_CP025856.1	CAOCEE_000665	?	Putative fucosyltransferase	glycosyltransferase	9789	10641	1	852	27.58
+NZ_CP025856.1	CAOCEE_000664	?	Glycosyltransferase	glycosyltransferase	10637	11504	1	867	28.95
+NZ_CP025856.1	CAOCEE_000663	?	Glycosyltransferase	glycosyltransferase	11488	12388	1	900	29.78
+NZ_CP025856.1	CAOCEE_000662	wzy	O128 family O-antigen polymerase	wzy	12384	13428	1	1044	28.26
+NZ_CM148343.1	CAOCEE_000464	wzx	O22 family O-antigen flippase	wzx	5992	7210	1	1218	28.98
+NZ_CP103544.1	CAOCEE_026928	?	O-antigen polymerase	wzy	5844	7188	1	1344	29.17
+NZ_CP103544.1	CAOCEE_026924	?	putative glycosyltransferase family 2	glycosyltransferase	10205	11012	1	807	35.07
+NZ_CP027255.1	CAOCEE_003445	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.46
+NZ_CP027255.1	CAOCEE_003444	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.44
+NZ_CP027255.1	CAOCEE_003443	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.23
+NZ_CP027255.1	CAOCEE_003442	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3569	1	537	38.55
+NZ_CP027255.1	CAOCEE_003439	?	glycosyltransferase family A protein	glycosyltransferase	6015	6915	1	900	29.22
+NZ_CP027255.1	CAOCEE_003437	?	glycosyltransferase	glycosyltransferase	8074	8917	1	843	30.72
+NZ_CP027255.1	CAOCEE_003435	?	glycosyltransferase	glycosyltransferase	10047	10938	1	891	32.88
+NZ_CP029242.1	CAOCEE_000771	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.37
+NZ_CP029242.1	CAOCEE_000770	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.22
+NZ_CP029242.1	CAOCEE_000769	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.12
+NZ_CP029242.1	CAOCEE_000768	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3582	1	549	39.53
+NZ_CP029242.1	CAOCEE_000763	?	glycosyltransferase	glycosyltransferase	6804	7710	1	906	30.24
+NZ_CP029242.1	CAOCEE_000762	?	O-antigen polymerase	wzy	7752	9051	1	1299	31.41
+NZ_CP029242.1	CAOCEE_000761	?	glycosyltransferase	glycosyltransferase	9051	9981	1	930	31.4
+NZ_CP029242.1	CAOCEE_000760	?	glycosyltransferase family 2 protein	glycosyltransferase	9988	10783	1	795	31.45
+NZ_CP029242.1	CAOCEE_000759	?	glycosyltransferase	glycosyltransferase	10806	11568	1	762	32.41
+NZ_CM128675.1	CAOCEE_001490	?	O-antigen polymerase	wzy	2135	3323	1	1188	27.86
+NZ_CM128675.1	CAOCEE_001488	?	Glycosyltransferase	glycosyltransferase	4047	4932	1	885	27.01
+NZ_CM128675.1	CAOCEE_001481	?	glycosyltransferase	glycosyltransferase	10592	10955	1	363	32.51
+NZ_CM128675.1	CAOCEE_001480	?	glycosyltransferase family 2 protein	glycosyltransferase	11012	11339	1	327	33.03
+NZ_CP080133.1	CAOCEE_010600	wzy	O27 family O-antigen polymerase	wzy	949	2182	1	1233	29.2
+NZ_CP080133.1	CAOCEE_010597	wzx	O27 family O-antigen flippase	wzx	3957	5244	1	1287	28.44
+NZ_LR778153.1	CAOCEE_017312	wzx	O168 family O-antigen flippase	wzx	350	1586	1	1236	28.4
+NZ_LR778153.1	CAOCEE_017310	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	2107	2884	1	777	29.6
+NZ_LR778153.1	CAOCEE_017308	wzy	O168 family O-antigen polymerase	wzy	4002	5235	1	1233	27.49
+NZ_LR778153.1	CAOCEE_017307	?	GDP-mannose:cellobiosyl-diphosphopolyprenol alpha-mannosyltransferase	glycosyltransferase	5231	6353	1	1122	30.93
+NZ_LR778153.1	CAOCEE_017302	?	Putative glycosyltransferase	glycosyltransferase	10327	11074	1	747	32.8
+NZ_CP023849.1	CAOCEE_000120	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	304	1459	1	1155	42.6
+NZ_CP023849.1	CAOCEE_000119	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	47.78
+NZ_CP023849.1	CAOCEE_000118	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.91
+NZ_CP023849.1	CAOCEE_000117	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3841	1	543	37.94
+NZ_CP023849.1	CAOCEE_000116	wzx	O25 family O-antigen flippase	wzx	3842	5102	1	1260	33.65
+NZ_CP023849.1	CAOCEE_000115	?	Glycosyltransferase	glycosyltransferase	5106	6072	1	966	31.37
+NZ_CP023849.1	CAOCEE_000113	?	O-antigen polymerase	wzy	7254	8472	1	1218	29.72
+NZ_CP023849.1	CAOCEE_000111	?	Glycosyltransferase	glycosyltransferase	9132	10233	1	1101	31.34
+NZ_CP023849.1	CAOCEE_000110	?	Glycosyltransferase	glycosyltransferase	10234	11026	1	792	28.16
+NZ_AP027844.1	CAOCEE_000817	wzx	O21 family O-antigen flippase	wzx	380	1616	1	1236	31.88
+NZ_AP027844.1	CAOCEE_000816	?	Glycosyltransferase	glycosyltransferase	1615	2407	1	792	31.06
+NZ_AP027844.1	CAOCEE_000814	?	Glycosyltransferase family 25 protein	glycosyltransferase	3227	3908	1	681	33.77
+NZ_AP027844.1	CAOCEE_000813	wzy	O21 family O-antigen polymerase	wzy	3904	4987	1	1083	26.96
+NZ_CP155555.1	CAOCEE_003251	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	377	1463	1	1086	42.91
+NZ_CP155555.1	CAOCEE_003250	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1462	2362	1	900	46.44
+NZ_CP155555.1	CAOCEE_003249	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2420	3299	1	879	42.09
+NZ_CP155555.1	CAOCEE_003248	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3303	3849	1	546	37.55
+NZ_CP155555.1	CAOCEE_003246	wzx	O69 family O-antigen flippase	wzx	5226	6741	1	1515	31.35
+NZ_CP155555.1	CAOCEE_003243	wzy	O69 family O-antigen polymerase	wzy	8788	9904	1	1116	28.41
+NZ_CP134380.1	CAOCEE_017748	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.0
+NZ_CP134380.1	CAOCEE_017747	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.56
+NZ_CP134380.1	CAOCEE_017746	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.0
+NZ_CP134380.1	CAOCEE_017745	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3569	1	537	37.06
+NZ_CP134380.1	CAOCEE_017743	wzy	O79 family O-antigen polymerase	wzy	4348	5440	1	1092	29.03
+NZ_CP134380.1	CAOCEE_017741	wzx	O79 family O-antigen flippase	wzx	6232	7393	1	1161	31.61
+NZ_LR134080.1	CAOCEE_001017	wzy	O82 family O-antigen polymerase	wzy	4920	6003	1	1083	28.99
+NZ_LR134080.1	CAOCEE_001016	?	Mannosyltransferase	glycosyltransferase	6026	6716	1	690	29.28
+NZ_LR134080.1	CAOCEE_001015	?	Glycosyltransferase family 2 protein	glycosyltransferase	6900	7791	1	891	27.61
+NZ_LR134080.1	CAOCEE_001014	?	Glycosyltransferase family 2 protein	glycosyltransferase	8135	8855	1	720	29.86
+NZ_CP027457.1	CAOCEE_032957	?	O20/O137 family O-antigen polymerase	wzy	3221	4277	1	1056	31.34
+NZ_CP027457.1	CAOCEE_032956	wzx	O20/O137 family O-antigen flippase	wzx	4269	5652	1	1383	29.65
+NZ_CP027457.1	CAOCEE_032952	pssD	PssD/Cps14F family polysaccharide biosynthesis glycosyltransferase	glycosyltransferase	8457	8940	1	483	31.68
+NZ_CP027457.1	CAOCEE_032951	pssE	PssE/Cps14G family polysaccharide biosynthesis glycosyltransferase	glycosyltransferase	8936	9395	1	459	31.81
+NZ_CP086627.1	CAOCEE_000055	wbnH	O-antigen biosynthesis glycosyltransferase WbnH	glycosyltransferase	1347	2364	1	1017	34.22
+NZ_CP086627.1	CAOCEE_000049	wzx	O86 family O-antigen flippase	wzx	7835	9038	1	1203	27.76
+NZ_CP086627.1	CAOCEE_000048	wbnI	O-antigen biosynthesis glycosyltransferase WbnI	glycosyltransferase	9040	9745	1	705	28.23
+NZ_CP086627.1	CAOCEE_000045	wbnJ	O-antigen biosynthesis glycosyltransferase WbnJ	glycosyltransferase	11078	11822	1	744	31.32
+NZ_CP086627.1	CAOCEE_000044	wbnK	O-antigen biosynthesis glycosyltransferase WbnK	glycosyltransferase	11833	12742	1	909	32.34
+NZ_CP039404.1	CAOCEE_016381	wzx	O63 family O-antigen flippase	wzx	5169	6432	1	1263	31.35
+NZ_CP039404.1	CAOCEE_016378	wzy	O63 family O-antigen polymerase	wzy	7970	9236	1	1266	27.96
+NZ_CP039404.1	CAOCEE_016376	?	Glycosyltransferase	glycosyltransferase	10158	10830	1	672	29.02
+NZ_CP039404.1	CAOCEE_016375	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	10849	11926	1	1077	33.15
+NZ_CP039404.1	CAOCEE_016374	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	11925	12804	1	879	35.15
+NZ_CM142798.1	CAOCEE_010297	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.28
+NZ_CM142798.1	CAOCEE_010296	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.0
+NZ_CM142798.1	CAOCEE_010295	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3290	1	876	42.69
+NZ_CM142798.1	CAOCEE_010290	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7521	8064	1	543	33.89
+NZ_CM142798.1	CAOCEE_010289	?	Glycosyltransferase family 2 protein	glycosyltransferase	8065	8827	1	762	28.35
+NZ_CM142798.1	CAOCEE_010285	wzx	O119 family O-antigen flippase	wzx	12707	14195	1	1488	31.79
+NZ_CM142798.1	CAOCEE_010284	?	Glycosyltransferase family 2 protein	glycosyltransferase	14191	15340	1	1149	34.38
+NZ_CM142798.1	CAOCEE_010283	wzy	O119 family O-antigen polymerase	wzy	15336	16539	1	1203	29.84
+NZ_CM129847.1	CAOCEE_005989	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.92
+NZ_CM129847.1	CAOCEE_005988	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.33
+NZ_CM129847.1	CAOCEE_005987	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3022	1	873	41.7
+NZ_CM129847.1	CAOCEE_005986	?	Glycosyltransferase	glycosyltransferase	3048	3858	1	810	30.74
+NZ_CM129847.1	CAOCEE_005985	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3895	4444	1	549	34.43
+NZ_CM129847.1	CAOCEE_005982	wzx	O71 family O-antigen flippase	wzx	5957	7232	1	1275	30.27
+NZ_CM129847.1	CAOCEE_005980	wzy	O71 family O-antigen polymerase	wzy	8636	9926	1	1290	31.01
+NZ_CP016404.1	CAOCEE_013548	?	flippase	wzx	348	1665	1	1317	31.81
+NZ_CP016404.1	CAOCEE_013546	?	glycosyltransferase	glycosyltransferase	2611	3871	1	1260	33.1
+NZ_CP016404.1	CAOCEE_013544	?	glycosyltransferase family 2 protein	glycosyltransferase	5079	5829	1	750	28.53
+NZ_CP016404.1	CAOCEE_013543	?	Glycosyltransferase	glycosyltransferase	5825	6683	1	858	30.19
+NZ_CP016404.1	CAOCEE_013538	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	10712	11459	1	747	34.14
+NZ_CP028772.1	CAOCEE_001690	wzx	O87 family O-antigen flippase	wzx	326	1574	1	1248	31.33
+NZ_CP028772.1	CAOCEE_001687	wzy	O87 family O-antigen polymerase	wzy	3456	4611	1	1155	27.53
+NZ_CP145513.1	CAOCEE_000230	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.37
+NZ_CP145513.1	CAOCEE_000229	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.11
+NZ_CP145513.1	CAOCEE_000228	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3293	1	879	43.34
+NZ_CP145513.1	CAOCEE_000227	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3297	3831	1	534	39.33
+NZ_CP145513.1	CAOCEE_000224	?	Glycosyltransferase	glycosyltransferase	6317	7391	1	1074	28.58
+NZ_CP145513.1	CAOCEE_000223	?	O-antigen polymerase	wzy	7582	8602	1	1020	27.16
+NZ_CP145513.1	CAOCEE_000221	?	glycosyltransferase family 4 protein	glycosyltransferase	9543	10689	1	1146	33.68
+NZ_AP022107.1	CAOCEE_009401	wzx	O179 family O-antigen flippase	wzx	335	1796	1	1461	28.75
+NZ_AP022107.1	CAOCEE_009399	wzy	O179 family O-antigen polymerase	wzy	2931	4035	1	1104	28.8
+NZ_CM135183.1	CAOCEE_001194	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.45
+NZ_CM135183.1	CAOCEE_001193	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.44
+NZ_CM135183.1	CAOCEE_001192	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.69
+NZ_CM135183.1	CAOCEE_001191	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3567	1	534	39.14
+NZ_CM135183.1	CAOCEE_001190	wzx	O141 family O-antigen flippase	wzx	3595	4837	1	1242	30.84
+NZ_CM135183.1	CAOCEE_001188	?	Glycosyltransferase	glycosyltransferase	5904	6876	1	972	29.01
+NZ_CM135183.1	CAOCEE_001187	wzy	O141 family O-antigen polymerase	wzy	6886	7990	1	1104	28.99
+NZ_CM151386.1	CAOCEE_008578	wzx	O160 family O-antigen flippase	wzx	382	1630	1	1248	30.61
+NZ_CM151386.1	CAOCEE_008577	?	Glycosyltransferase family 2 protein	glycosyltransferase	1619	2621	1	1002	30.24
+NZ_CM151386.1	CAOCEE_008575	wzy	O160 family O-antigen polymerase	wzy	3549	4650	1	1101	27.7
+NZ_CM151386.1	CAOCEE_008573	?	Glycosyltransferase	glycosyltransferase	5672	6491	1	819	33.33
+NZ_CP010183.1	CAOCEE_002692	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.37
+NZ_CP010183.1	CAOCEE_002691	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.33
+NZ_CP010183.1	CAOCEE_002690	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.23
+NZ_CP010183.1	CAOCEE_002689	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3563	1	531	38.79
+NZ_CP010183.1	CAOCEE_002688	wzx	O132 family O-antigen flippase	wzx	3591	4866	1	1275	33.33
+NZ_CP010183.1	CAOCEE_002686	?	Glycosyltransferase family 2 protein	glycosyltransferase	5957	6764	1	807	27.63
+NZ_CP010183.1	CAOCEE_002683	wzy	O132 family O-antigen polymerase	wzy	8523	9723	1	1200	28.42
+NZ_CP010183.1	CAOCEE_002681	?	Glycosyltransferase	glycosyltransferase	10568	11561	1	993	29.71
+NZ_CP172111.1	CAOCEE_002725	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.83
+NZ_CP172111.1	CAOCEE_002724	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.33
+NZ_CP172111.1	CAOCEE_002723	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.23
+NZ_CP172111.1	CAOCEE_002722	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3575	1	543	36.83
+NZ_CP172111.1	CAOCEE_002721	wzx	O51 family O-antigen flippase	wzx	3648	5208	1	1560	28.53
+NZ_CP172111.1	CAOCEE_002720	?	Glycosyltransferase	glycosyltransferase	5207	6074	1	867	29.87
+NZ_CP172111.1	CAOCEE_002719	wzy	O51 family O-antigen polymerase	wzy	6083	7121	1	1038	28.23
+NZ_CP172111.1	CAOCEE_002718	?	Putative glycosyltransferase	glycosyltransferase	7120	7948	1	828	26.69
+NZ_CP172111.1	CAOCEE_002717	?	Putative glycosyltransferase	glycosyltransferase	7949	8702	1	753	30.01
+NZ_CP172111.1	CAOCEE_002716	?	Glycosyltransferase	glycosyltransferase	8698	9811	1	1113	29.83
+NZ_CP141075.1	CAOCEE_031735	wzx	O37 family O-antigen flippase	wzx	5504	6737	1	1233	29.44
+NZ_CP141075.1	CAOCEE_031733	wzy	O37 family O-antigen polymerase	wzy	7467	8601	1	1134	28.4
+NZ_CP141075.1	CAOCEE_031731	?	Glycosyltransferase	glycosyltransferase	9474	10542	1	1068	29.96
+NZ_CP141075.1	CAOCEE_031730	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	10534	11350	1	816	31.99
+NZ_CP074012.1	CAOCEE_002900	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	110	1196	1	1086	43.65
+NZ_CP074012.1	CAOCEE_002899	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1195	2095	1	900	48.33
+NZ_CP074012.1	CAOCEE_002898	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2152	3031	1	879	43.23
+NZ_CP074012.1	CAOCEE_002897	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3035	3587	1	552	38.04
+NZ_CP074012.1	CAOCEE_002895	wzx	O150 family O-antigen flippase	wzx	4604	6107	1	1503	29.67
+NZ_CP074012.1	CAOCEE_002893	?	Glycosyltransferase	glycosyltransferase	7261	8170	1	909	32.67
+NZ_CP074012.1	CAOCEE_002890	wzy	O150 family O-antigen polymerase	wzy	9984	11082	1	1098	30.78
+NZ_CP091026.1	CAOCEE_002712	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.09
+NZ_CP091026.1	CAOCEE_002711	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.44
+NZ_CP091026.1	CAOCEE_002710	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3031	1	882	42.4
+NZ_CP091026.1	CAOCEE_002709	?	Glycosyltransferase	glycosyltransferase	3038	3812	1	774	31.78
+NZ_CP091026.1	CAOCEE_002706	?	O-antigen flippase	wzx	5912	7160	1	1248	26.52
+NZ_CP091026.1	CAOCEE_002705	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7131	7665	1	534	32.96
+NZ_CP188163.1	CAOCEE_000069	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.65
+NZ_CP188163.1	CAOCEE_000068	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2315	1	858	47.32
+NZ_CP188163.1	CAOCEE_000067	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3295	1	882	42.74
+NZ_CP188163.1	CAOCEE_000066	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3294	3852	1	558	38.71
+NZ_CP188163.1	CAOCEE_000065	wzx	O16 family O-antigen flippase	wzx	3848	5096	1	1248	35.42
+NZ_CP188163.1	CAOCEE_000063	wzy	O16 family O-antigen polymerase	wzy	6206	7373	1	1167	32.31
+NZ_CP188163.1	CAOCEE_000060	wbbK	Putative glycosyltransferase WbbK	glycosyltransferase	8923	10042	1	1119	31.81
+NZ_CP188163.1	CAOCEE_000059	?	glycosyltransferase	glycosyltransferase	10043	10517	1	474	35.44
+NZ_CP188163.1	CAOCEE_000057	?	galactosyltransferase-related protein	glycosyltransferase	10774	11056	1	282	37.23
+NZ_CP062838.1	CAOCEE_001030	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	44.29
+NZ_CP062838.1	CAOCEE_001029	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.89
+NZ_CP062838.1	CAOCEE_001028	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.12
+NZ_CP062838.1	CAOCEE_001027	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3581	1	549	39.16
+NZ_CP062838.1	CAOCEE_001024	?	Glycosyltransferase family 2 protein	glycosyltransferase	5991	6810	1	819	30.4
+NZ_CP062838.1	CAOCEE_001023	?	Glycosyltransferase subfamily 4-like N-terminal domain-containing protein	glycosyltransferase	6815	7976	1	1161	29.11
+NZ_CP148331.1	CAOCEE_018083	?	flippase	wzx	519	1887	1	1368	32.75
+NZ_CP148331.1	CAOCEE_018081	?	glycosyltransferase	glycosyltransferase	3205	4129	1	924	32.79
+NZ_CP148331.1	CAOCEE_018080	?	glycosyltransferase family 1 protein	glycosyltransferase	4121	5234	1	1113	29.83
+NZ_CP148331.1	CAOCEE_018079	?	glycosyltransferase family 1 protein	glycosyltransferase	5244	6255	1	1011	35.51
+NZ_CP148331.1	CAOCEE_018074	?	Putative glycosyltransferase	glycosyltransferase	10241	10988	1	747	33.33
+NZ_CP080066.1	CAOCEE_000797	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1798	2881	1	1083	41.09
+NZ_CP080066.1	CAOCEE_000796	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2913	3789	1	876	41.55
+NZ_CP080066.1	CAOCEE_000795	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3815	4376	1	561	38.86
+NZ_CP080066.1	CAOCEE_000793	wzx	O88 family O-antigen flippase	wzx	5195	6653	1	1458	34.84
+NZ_CP080066.1	CAOCEE_000791	wzy	O88 family O-antigen polymerase	wzy	7581	8856	1	1275	34.12
+NZ_CP080066.1	CAOCEE_000789	?	Glycosyltransferase	glycosyltransferase	9908	11018	1	1110	37.12
+NZ_CP074726.1	CAOCEE_000142	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	44.11
+NZ_CP074726.1	CAOCEE_000141	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	46.89
+NZ_CP074726.1	CAOCEE_000140	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.23
+NZ_CP074726.1	CAOCEE_000139	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3576	1	543	37.94
+NZ_CP074726.1	CAOCEE_000138	wzx	O26 family O-antigen flippase	wzx	3575	4838	1	1263	31.35
+NZ_CP074726.1	CAOCEE_000137	wzy	O26 family O-antigen polymerase	wzy	4903	5926	1	1023	31.18
+NZ_CP074726.1	CAOCEE_000136	?	Glycosyltransferase family 2 protein	glycosyltransferase	5941	6736	1	795	31.7
+NZ_CP032066.1	CAOCEE_000505	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.37
+NZ_CP032066.1	CAOCEE_000504	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.56
+NZ_CP032066.1	CAOCEE_000503	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.12
+NZ_CP032066.1	CAOCEE_000502	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3581	1	549	38.8
+NZ_CP032066.1	CAOCEE_000499	?	O-antigen polymerase	wzy	5375	6389	1	1014	27.91
+NZ_CP032066.1	CAOCEE_000496	?	glycosyltransferase	glycosyltransferase	8924	9677	1	753	26.69
+NZ_CP032066.1	CAOCEE_000495	?	O-antigen flippase	wzx	9676	10918	1	1242	29.63
+NZ_CM128604.1	CAOCEE_000910	wzy	O104 family O-antigen polymerase	wzy	5489	6602	1	1113	27.31
+NZ_CM128604.1	CAOCEE_000908	wzx	O104 family O-antigen flippase	wzx	7830	9108	1	1278	30.13
+NZ_CM132249.1	CAOCEE_001934	wbnH	O-antigen biosynthesis glycosyltransferase WbnH	glycosyltransferase	1347	2364	1	1017	33.73
+NZ_CM132249.1	CAOCEE_001928	wzx	O90/O127 family O-antigen flippase	wzx	7813	9085	1	1272	31.84
+NZ_CM132249.1	CAOCEE_001926	wzy	O90/O127 family O-antigen polymerase	wzy	9742	10909	1	1167	27.85
+NZ_CM132249.1	CAOCEE_001925	?	Glycosyltransferase	glycosyltransferase	10909	11647	1	738	29.54
+NZ_CM132249.1	CAOCEE_001924	?	Alpha-1,2-fucosyltransferase	glycosyltransferase	11657	12554	1	897	31.77
+NZ_CP062824.1	CAOCEE_016128	wzx	O167 family O-antigen flippase	wzx	672	1935	1	1263	31.99
+NZ_CP062824.1	CAOCEE_016126	?	Glycosyltransferase	glycosyltransferase	3048	4251	1	1203	28.84
+NZ_CP062824.1	CAOCEE_016123	wzy	O167 family O-antigen polymerase	wzy	6060	7311	1	1251	28.22
+NZ_CP115343.1	CAOCEE_000325	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	304	1459	1	1155	43.12
+NZ_CP115343.1	CAOCEE_000324	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1458	2358	1	900	48.22
+NZ_CP115343.1	CAOCEE_000323	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3291	1	876	43.95
+NZ_CP115343.1	CAOCEE_000322	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3856	1	558	36.38
+NZ_CP115343.1	CAOCEE_000321	wzx	O18 family O-antigen flippase	wzx	3852	5100	1	1248	33.97
+NZ_CP115343.1	CAOCEE_000320	?	Wzy	wzy	5156	6347	1	1191	30.39
+NZ_CP132983.1	CAOCEE_000303	wbgM	Galactosyltransferase WbgM	glycosyltransferase	423	1530	1	1107	32.7
+NZ_CP132983.1	CAOCEE_000297	wzy	O55 family O-antigen polymerase	wzy	7020	7998	1	978	29.45
+NZ_CP132983.1	CAOCEE_000296	wzx	O55 family O-antigen flippase	wzx	8015	9293	1	1278	31.46
+NZ_CP132983.1	CAOCEE_000295	wbgO	Glycosyltransferase WbgO	glycosyltransferase	9289	10087	1	798	30.08
+NZ_CP132983.1	CAOCEE_000294	wbgP	Putative glycosyltransferase WbgP	glycosyltransferase	10097	10847	1	750	32.4
+NZ_AP039429.1	CAOCEE_000156	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.54
+NZ_AP039429.1	CAOCEE_000155	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.44
+NZ_AP039429.1	CAOCEE_000154	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	43.26
+NZ_AP039429.1	CAOCEE_000153	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3034	3589	1	555	32.43
+NZ_AP039429.1	CAOCEE_000150	?	Glycosyltransferase family 1 protein	glycosyltransferase	5932	6922	1	990	31.92
+NZ_AP039429.1	CAOCEE_000147	?	Glycosyltransferase family 2 protein	glycosyltransferase	7464	8358	1	894	32.77
+NZ_AP039429.1	CAOCEE_000145	?	Glycosyltransferase	glycosyltransferase	9742	10837	1	1095	29.32
+NZ_AP039429.1	CAOCEE_000144	?	Glycosyltransferase	glycosyltransferase	10833	11742	1	909	31.02
+NZ_LT883142.1	CAOCEE_001500	?	Glycosyltransferase family 25 protein	glycosyltransferase	3242	3995	1	753	31.47
+NZ_LT883142.1	CAOCEE_001499	wzy	O40 family O-antigen polymerase	wzy	4015	5197	1	1182	29.19
+NZ_LT883142.1	CAOCEE_001498	?	Glycosyltransferase	glycosyltransferase	5193	6312	1	1119	33.42
+NZ_LT883142.1	CAOCEE_001497	wzx	O40 family O-antigen flippase	wzx	6393	7674	1	1281	30.68
+NZ_CP156034.1	CAOCEE_002179	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1149	2235	1	1086	41.9
+NZ_CP156034.1	CAOCEE_002178	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2234	3098	1	864	38.43
+NZ_CP156034.1	CAOCEE_002174	wzx	O5 family O-antigen flippase	wzx	5063	6320	1	1257	31.9
+NZ_CP156034.1	CAOCEE_002173	wzy	O5 family O-antigen polymerase	wzy	6320	7637	1	1317	31.66
+NZ_CP156034.1	CAOCEE_002172	?	Glycosyltransferase, group 2 family protein	glycosyltransferase	7620	8499	1	879	31.4
+NZ_CP024127.1	CAOCEE_005027	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.28
+NZ_CP024127.1	CAOCEE_005026	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.78
+NZ_CP024127.1	CAOCEE_005025	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.57
+NZ_CP024127.1	CAOCEE_005024	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3582	1	549	40.8
+NZ_CP024127.1	CAOCEE_005021	wzx	O115 family O-antigen flippase	wzx	5378	6866	1	1488	32.33
+NZ_CP024127.1	CAOCEE_005019	wzy	O115 family O-antigen polymerase	wzy	7400	8468	1	1068	29.21
+NZ_CP024127.1	CAOCEE_005018	?	Glycosyltransferase	glycosyltransferase	8464	9391	1	927	32.04
+NZ_CP024127.1	CAOCEE_005016	?	Glycosyltransferase	glycosyltransferase	9939	11133	1	1194	30.4
+NZ_CP024127.1	CAOCEE_005015	?	Glycosyltransferase	glycosyltransferase	11107	12223	1	1116	30.29
+NZ_CP072802.1	CAOCEE_017221	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.92
+NZ_CP072802.1	CAOCEE_017220	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.22
+NZ_CP072802.1	CAOCEE_017219	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	42.43
+NZ_CP072802.1	CAOCEE_017218	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3570	1	537	37.62
+NZ_CP072802.1	CAOCEE_017217	?	O-antigen flippase	wzx	3582	4821	1	1239	34.3
+NZ_CP072802.1	CAOCEE_017216	?	O-antigen polymerase	wzy	4828	6049	1	1221	28.99
+NZ_CP072802.1	CAOCEE_017215	?	Glycosyltransferase family 2 protein	glycosyltransferase	6017	7040	1	1023	29.03
+NZ_CP072802.1	CAOCEE_017214	?	Glycosyltransferase family 4 protein	glycosyltransferase	7029	8121	1	1092	34.07
+NZ_CP072802.1	CAOCEE_017213	?	Glycosyltransferase	glycosyltransferase	8130	9273	1	1143	28.0
+NZ_CP079772.1	CAOCEE_000040	?	O-antigen polymerase	wzy	2086	3136	1	1050	27.52
+NZ_CP079772.1	CAOCEE_000039	wzx	O38 family O-antigen flippase	wzx	3190	4447	1	1257	30.23
+NZ_CP079772.1	CAOCEE_000037	?	Glycosyltransferase sugar-binding region containing DXD motif protein	glycosyltransferase	5294	5981	1	687	31.3
+NZ_CP029328.1	CAOCEE_016850	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1195	1	1086	43.37
+NZ_CP029328.1	CAOCEE_016849	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1194	2094	1	900	46.78
+NZ_CP029328.1	CAOCEE_016848	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2151	3030	1	879	43.23
+NZ_CP029328.1	CAOCEE_016847	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3034	3565	1	531	36.35
+NZ_CP029328.1	CAOCEE_016845	wbsX	Glycosyltransferase WbsX family protein	glycosyltransferase	4994	6074	1	1080	30.46
+NZ_CP029328.1	CAOCEE_016844	?	Wzy	wzy	6135	7170	1	1035	27.63
+NZ_CP029328.1	CAOCEE_016843	?	Glycosyltransferase	glycosyltransferase	7228	8263	1	1035	31.21
+NZ_CP029328.1	CAOCEE_016842	?	Glycosyltransferase	glycosyltransferase	8279	9089	1	810	32.22
+NZ_CP029328.1	CAOCEE_016841	?	Glycosyltransferase	glycosyltransferase	9089	9980	1	891	31.31
+NZ_CP102853.1	CAOCEE_008820	wzx	O32 family O-antigen flippase	wzx	271	1729	1	1458	30.45
+NZ_CP102853.1	CAOCEE_008819	wzy	O32 family O-antigen polymerase	wzy	1732	2944	1	1212	27.72
+NZ_CP102853.1	CAOCEE_008815	wfeD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,4-galactosyltransferase	glycosyltransferase	5053	5767	1	714	28.57
+NZ_CP102853.1	CAOCEE_008814	?	Glycosyltransferase	glycosyltransferase	5769	6966	1	1197	32.0
+NZ_AP027156.1	CAOCEE_001870	?	O-antigen polymerase	wzy	1575	2766	1	1191	28.88
+NZ_AP027156.1	CAOCEE_001869	?	Beta1,4-galactosyltransferase	glycosyltransferase	2755	3508	1	753	24.7
+NZ_AP027156.1	CAOCEE_001868	?	Glycosyltransferase	glycosyltransferase	3509	4406	1	897	28.65
+NZ_AP027156.1	CAOCEE_001866	?	Amylovoran biosynthesis glycosyltransferase	glycosyltransferase	5682	6501	1	819	33.82
+NZ_CP024134.1	CAOCEE_001671	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.08
+NZ_CP024134.1	CAOCEE_001670	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1193	2063	1	870	37.24
+NZ_CP024134.1	CAOCEE_001667	wzx	O70 family O-antigen flippase	wzx	3645	4896	1	1251	34.85
+NZ_CP024134.1	CAOCEE_001665	?	Putative glycosyltransferase	glycosyltransferase	5452	6382	1	930	29.89
+NZ_CP024134.1	CAOCEE_001664	wzy	O70 family O-antigen polymerase	wzy	6392	7673	1	1281	30.91
+NZ_CP024134.1	CAOCEE_001663	?	Putative glycosyltransferase	glycosyltransferase	7750	8839	1	1089	30.39
+NZ_CP122604.1	CAOCEE_007754	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	106	1192	1	1086	42.82
+NZ_CP122604.1	CAOCEE_007753	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1191	2091	1	900	46.11
+NZ_CP122604.1	CAOCEE_007752	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2148	3030	1	882	43.88
+NZ_CP122604.1	CAOCEE_007751	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3031	3562	1	531	38.61
+NZ_CP122604.1	CAOCEE_007750	wzy	O139 family O-antigen polymerase	wzy	3888	5127	1	1239	29.38
+NZ_CP122604.1	CAOCEE_007748	wzx	O139 family O-antigen flippase	wzx	5982	7203	1	1221	30.22
+NZ_CP122604.1	CAOCEE_007746	?	Glycosyltransferase	glycosyltransferase	8258	9401	1	1143	33.51
+NZ_CP122604.1	CAOCEE_007745	?	glycosyltransferase family 2 protein	glycosyltransferase	9390	10032	1	642	28.97
+NZ_AP042574.1	CAOCEE_007396	wzx	O171 family O-antigen flippase	wzx	5246	6443	1	1197	28.74
+NZ_AP042574.1	CAOCEE_007394	wzy	O171 family O-antigen polymerase	wzy	7389	8541	1	1152	27.43
+NZ_AP042574.1	CAOCEE_007393	epsJ	Putative glycosyltransferase EpsJ	glycosyltransferase	8537	9500	1	963	31.05
+NZ_AP042574.1	CAOCEE_007392	?	Putative glycosyltransferase	glycosyltransferase	9496	10372	1	876	30.94
+NZ_CM129848.1	CAOCEE_009035	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	43.46
+NZ_CM129848.1	CAOCEE_009034	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	47.67
+NZ_CM129848.1	CAOCEE_009033	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	42.78
+NZ_CM129848.1	CAOCEE_009032	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3295	3832	1	537	37.99
+NZ_CM129848.1	CAOCEE_009031	wzx	O133 family O-antigen flippase	wzx	3871	5113	1	1242	31.8
+NZ_CM129848.1	CAOCEE_009028	wzy	O133 family O-antigen polymerase	wzy	7416	8574	1	1158	29.02
+NZ_CP180600.1	CAOCEE_014611	wzx	O98 family O-antigen flippase	wzx	2753	4055	1	1302	29.72
+NZ_CP180600.1	CAOCEE_014610	?	O-antigen polymerase	wzy	4068	5223	1	1155	26.15
+NZ_CP180600.1	CAOCEE_014609	?	Glycosyltransferase family 4 protein	glycosyltransferase	5164	6364	1	1200	32.33
+NZ_CP180600.1	CAOCEE_014608	?	Mannosyltransferase B	glycosyltransferase	6366	7491	1	1125	33.07
+NZ_CP137737.1	CAOCEE_022928	?	flippase	wzx	317	1634	1	1317	30.6
+NZ_CP137737.1	CAOCEE_022925	?	glycosyltransferase	glycosyltransferase	3859	5092	1	1233	31.79
+NZ_CP137737.1	CAOCEE_022923	?	glycosyltransferase	glycosyltransferase	6256	7060	1	804	31.22
+NZ_CP137737.1	CAOCEE_022922	?	glycosyltransferase family 1 protein	glycosyltransferase	7062	8097	1	1035	32.56
+NZ_CP137737.1	CAOCEE_022917	?	Putative glycosyltransferase	glycosyltransferase	12063	12810	1	747	33.33
+NZ_AP044767.1	CAOCEE_000177	wzx	O163 family O-antigen flippase	wzx	3583	4837	1	1254	31.82
+NZ_AP044767.1	CAOCEE_000176	wzy	O163 family O-antigen polymerase	wzy	4833	6069	1	1236	27.99
+NZ_AP044767.1	CAOCEE_000175	?	GDP-mannose:glycolipid 4-beta-D-mannosyltransferase	glycosyltransferase	6086	7094	1	1008	30.06
+NZ_CP007594.1	CAOCEE_000810	?	GDP-mannose-dependent alpha-(1-2)-phosphatidylinositol mannosyltransferase	glycosyltransferase	1476	2586	1	1110	33.51
+NZ_CP007594.1	CAOCEE_000805	wzy	O78 family O-antigen polymerase	wzy	7530	8652	1	1122	27.36
+NZ_CP007594.1	CAOCEE_000801	wzx	O78 family O-antigen flippase	wzx	11378	12794	1	1416	28.67
+NZ_CP024138.1	CAOCEE_012354	?	Glycosyltransferase	glycosyltransferase	330	1110	1	780	29.62
+NZ_CP024138.1	CAOCEE_012348	wzy	O24 family O-antigen polymerase	wzy	9645	10698	1	1053	28.4
+NZ_CP024138.1	CAOCEE_012347	wzx	O24 family O-antigen flippase	wzx	10713	11907	1	1194	29.56
+NZ_AP021944.1	CAOCEE_004174	wzx	O140 family O-antigen flippase	wzx	255	1569	1	1314	32.34
+NZ_AP021944.1	CAOCEE_004171	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	3715	4801	1	1086	42.63
+NZ_AP021944.1	CAOCEE_004170	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	4800	5700	1	900	47.56
+NZ_AP021944.1	CAOCEE_004169	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	5757	6633	1	876	42.81
+NZ_AP021944.1	CAOCEE_004168	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	6640	7174	1	534	38.58
+NZ_AP021944.1	CAOCEE_004166	wzy	O140 family O-antigen polymerase	wzy	8231	9422	1	1191	26.03
+NZ_AP021944.1	CAOCEE_004165	?	Glycosyltransferase	glycosyltransferase	9432	10209	1	777	32.69
+NZ_AP021944.1	CAOCEE_004164	?	Glycosyltransferase	glycosyltransferase	10189	11056	1	867	30.1
+NZ_CP128590.1	CAOCEE_000480	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.17
+NZ_CP128590.1	CAOCEE_000479	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	48.11
+NZ_CP128590.1	CAOCEE_000478	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.57
+NZ_CP128590.1	CAOCEE_000477	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3567	1	534	32.77
+NZ_CP128590.1	CAOCEE_000475	wzx	O146 family O-antigen flippase	wzx	4582	6109	1	1527	29.47
+NZ_CP128590.1	CAOCEE_000473	?	Glycosyltransferase family 4 protein	glycosyltransferase	7210	8353	1	1143	29.4
+NZ_CP128590.1	CAOCEE_000472	wzy	O146 family O-antigen polymerase	wzy	8415	9651	1	1236	27.27
+NZ_CP128590.1	CAOCEE_000471	?	Glycosyltransferase	glycosyltransferase	9613	10501	1	888	30.63
+NZ_CP128590.1	CAOCEE_000470	?	Glycosyltransferase	glycosyltransferase	10550	11363	1	813	32.6
+NZ_AP027576.1	CAOCEE_011236	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.46
+NZ_AP027576.1	CAOCEE_011235	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	48.11
+NZ_AP027576.1	CAOCEE_011234	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	42.78
+NZ_AP027576.1	CAOCEE_011233	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3579	1	546	39.93
+NZ_AP027576.1	CAOCEE_011232	wzx	O149 family O-antigen flippase	wzx	3568	4753	1	1185	27.17
+NZ_AP027576.1	CAOCEE_011230	wzy	O149 family O-antigen polymerase	wzy	5603	6668	1	1065	27.14
+NZ_CP023673.1	CAOCEE_008591	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	372	1458	1	1086	43.19
+NZ_CP023673.1	CAOCEE_008590	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	46.22
+NZ_CP023673.1	CAOCEE_008589	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2414	3305	1	891	41.98
+NZ_CP023673.1	CAOCEE_008588	wzx	O177 family O-antigen flippase	wzx	3294	4560	1	1266	31.83
+NZ_CP023673.1	CAOCEE_008587	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4572	5139	1	567	32.45
+NZ_CP023673.1	CAOCEE_008586	wzy	O177 family O-antigen polymerase	wzy	5140	6406	1	1266	30.96
+NZ_CP100525.1	CAOCEE_006840	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.0
+NZ_CP100525.1	CAOCEE_006839	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	48.0
+NZ_CP100525.1	CAOCEE_006838	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.0
+NZ_CP100525.1	CAOCEE_006837	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3582	1	549	38.07
+NZ_CP100525.1	CAOCEE_006835	wzx	O152 family O-antigen flippase	wzx	4634	5846	1	1212	31.27
+NZ_CP100525.1	CAOCEE_006833	wzy	O152 family O-antigen polymerase	wzy	6853	7927	1	1074	29.89
+NZ_CP100525.1	CAOCEE_006832	wfgD	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD	glycosyltransferase	7889	8693	1	804	30.22
+NZ_CP061764.1	CAOCEE_016807	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	106	1192	1	1086	44.29
+NZ_CP061764.1	CAOCEE_016806	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1191	2091	1	900	45.67
+NZ_CP061764.1	CAOCEE_016805	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2148	3027	1	879	43.23
+NZ_CP061764.1	CAOCEE_016804	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3031	3586	1	555	38.74
+NZ_CP061764.1	CAOCEE_016803	wzx	O19 family O-antigen flippase	wzx	3582	4839	1	1257	34.69
+NZ_CP061764.1	CAOCEE_016802	wzy	O19 family O-antigen polymerase	wzy	4840	5965	1	1125	29.42
+NZ_CP061764.1	CAOCEE_016801	?	Glycosyltransferase family 2	glycosyltransferase	5952	6855	1	903	32.56
+NZ_CP061764.1	CAOCEE_016800	?	Putative glycosyltransferase	glycosyltransferase	6914	7784	1	870	30.8
+NZ_AP043639.1	CAOCEE_000597	wzm	O99 family O-antigen export ABC transporter permease subunit	wzm	3237	4032	1	795	35.35
+NZ_AP043639.1	CAOCEE_000596	wzt	O99 family O-antigen export ABC transporter ATP-binding subunit	wzt	4033	5335	1	1302	38.25
+NZ_CP010229.1	CAOCEE_003486	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	242	1328	1	1086	43.46
+NZ_CP010229.1	CAOCEE_003485	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1327	2227	1	900	46.33
+NZ_CP010229.1	CAOCEE_003484	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2284	3163	1	879	42.89
+NZ_CP010229.1	CAOCEE_003483	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3167	3701	1	534	39.7
+NZ_CP010229.1	CAOCEE_003481	wzy	O105 family O-antigen polymerase	wzy	4564	5593	1	1029	29.06
+NZ_CP010229.1	CAOCEE_003476	wzx	O105 family O-antigen flippase	wzx	9501	10929	-1	1428	30.25
+NZ_CP049936.1	CAOCEE_008241	?	Wzy	wzy	162	1086	1	924	28.03
+NZ_CP049936.1	CAOCEE_008239	?	Glycosyltransferase	glycosyltransferase	1297	2083	1	786	29.77
+NZ_CP049936.1	CAOCEE_008238	?	Glycosyltransferase	glycosyltransferase	2092	2986	1	894	30.2
+NZ_CP049936.1	CAOCEE_008235	?	glycosyltransferase	glycosyltransferase	4220	4868	1	648	34.88
+NZ_CP049936.1	CAOCEE_008229	?	Wzx	wzx	10086	11478	1	1392	28.16
+NZ_CP139182.1	CAOCEE_006642	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	836	1922	1	1086	43.28
+NZ_CP139182.1	CAOCEE_006641	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1921	2821	1	900	48.11
+NZ_CP139182.1	CAOCEE_006640	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2878	3757	1	879	43.46
+NZ_CP139182.1	CAOCEE_006639	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3761	4310	1	549	37.52
+NZ_CP139182.1	CAOCEE_006638	?	O-antigen flippase	wzx	4317	5598	1	1281	33.41
+NZ_CP139182.1	CAOCEE_006637	?	O-antigen polymerase	wzy	5566	6736	1	1170	30.17
+NZ_CP168984.1	CAOCEE_001442	?	O-antigen flippase	wzx	963	2283	1	1320	32.2
+NZ_CP168984.1	CAOCEE_001441	?	O-antigen polymerase	wzy	2275	3448	1	1173	28.47
+NZ_CP168984.1	CAOCEE_001440	?	Glycosyltransferase family 25 protein	glycosyltransferase	3434	4220	1	786	32.32
+NZ_CP168984.1	CAOCEE_001434	?	Colanic acid biosynthesis glycosyltransferase	glycosyltransferase	9443	10661	1	1218	34.81
+NZ_CP011416.1	CAOCEE_010539	wzx	O96 family O-antigen flippase	wzx	335	1583	1	1248	32.45
+NZ_CP011416.1	CAOCEE_010537	?	N-glycosyltransferase	glycosyltransferase	2688	3603	1	915	31.8
+NZ_CP011416.1	CAOCEE_010536	wzy	O96 family O-antigen polymerase	wzy	3640	4891	1	1251	29.66
+NZ_CP122634.1	CAOCEE_004696	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.19
+NZ_CP122634.1	CAOCEE_004695	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.33
+NZ_CP122634.1	CAOCEE_004694	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	42.66
+NZ_CP122634.1	CAOCEE_004693	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3569	1	537	38.18
+NZ_CP122634.1	CAOCEE_004692	?	oligosaccharide flippase family protein	wzx	3602	3899	1	297	37.37
+NZ_CP122634.1	CAOCEE_004691	?	O138 family O-antigen flippase	wzx	3949	4879	1	930	33.01
+NZ_CP122634.1	CAOCEE_004690	?	Glycosyltransferase	glycosyltransferase	4880	5825	1	945	31.22
+NZ_CP122634.1	CAOCEE_004689	?	Glycosyltransferase	glycosyltransferase	5817	6894	1	1077	32.68
+NZ_CP122634.1	CAOCEE_004686	?	Glycosyltransferase family 4 protein	glycosyltransferase	9302	10433	1	1131	34.22
+NZ_CP122634.1	CAOCEE_004685	wzy	O138 family O-antigen polymerase	wzy	10449	11649	1	1200	31.08
+NZ_CP182174.1	CAOCEE_001621	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	106	1192	1	1086	44.2
+NZ_CP182174.1	CAOCEE_001620	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1191	2091	1	900	46.22
+NZ_CP182174.1	CAOCEE_001619	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2148	3027	1	879	42.78
+NZ_CP182174.1	CAOCEE_001618	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3031	3580	1	549	34.61
+NZ_CP182174.1	CAOCEE_001617	wzx	O4 family O-antigen flippase	wzx	3591	4830	1	1239	36.0
+NZ_CP182174.1	CAOCEE_001614	?	Glycosyltransferase	glycosyltransferase	7025	8129	1	1104	32.43
+NZ_CP069571.1	CAOCEE_000281	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	303	1458	1	1155	43.12
+NZ_CP069571.1	CAOCEE_000280	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.44
+NZ_CP069571.1	CAOCEE_000279	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2415	3294	1	879	43.57
+NZ_CP069571.1	CAOCEE_000278	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3298	3844	1	546	33.33
+NZ_CP069571.1	CAOCEE_000277	wzx	O7 family O-antigen flippase	wzx	3847	5272	1	1425	29.61
+NZ_CP069571.1	CAOCEE_000272	wzy	O7 family O-antigen polymerase	wzy	8534	9710	1	1176	29.42
+NZ_CP069571.1	CAOCEE_000270	wbbD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	10808	11636	1	828	31.76
+NZ_CM148320.1	CAOCEE_002570	?	Putative glycosyltransferase	glycosyltransferase	286	1444	1	1158	30.66
+NZ_CM148320.1	CAOCEE_002569	wzy	O30 family O-antigen polymerase	wzy	1427	2654	1	1227	31.05
+NZ_CM148320.1	CAOCEE_002568	wzx	O30 family O-antigen flippase	wzx	2650	3856	1	1206	28.69
+NZ_CM148320.1	CAOCEE_002567	?	Putative glycosyltransferase	glycosyltransferase	3884	5039	1	1155	29.26
+NZ_CM148320.1	CAOCEE_002566	?	Putative glycosyltransferase	glycosyltransferase	5035	5791	1	756	32.67
+NZ_CM129871.1	CAOCEE_009872	wzx	O166 family O-antigen flippase	wzx	457	1711	1	1254	27.83
+NZ_CM129871.1	CAOCEE_009871	?	Glycosyltransferase family 2 protein	glycosyltransferase	1703	2513	1	810	29.63
+NZ_CM129871.1	CAOCEE_009870	wzy	O166 family O-antigen polymerase	wzy	2601	3675	1	1074	27.56
+NZ_CM129871.1	CAOCEE_009869	?	Glycosyltransferase family 4 protein	glycosyltransferase	3685	4768	1	1083	30.84
+NZ_CM129871.1	CAOCEE_009868	?	Glycosyltransferase	glycosyltransferase	4778	5870	1	1092	33.52
+NZ_CM129871.1	CAOCEE_009867	?	Glycosyltransferase	glycosyltransferase	5856	6933	1	1077	33.05
+NZ_CP127034.1	CAOCEE_003338	wzx	O159 family O-antigen flippase	wzx	318	1635	1	1317	27.87
+NZ_CP127034.1	CAOCEE_003337	?	Glycosyltransferase	glycosyltransferase	1631	2369	1	738	29.67
+NZ_CP127034.1	CAOCEE_003335	wzy	O159 family O-antigen polymerase	wzy	3163	4189	1	1026	28.36
+NZ_CP127034.1	CAOCEE_003329	?	Putative glycosyltransferase	glycosyltransferase	9275	10022	1	747	32.66
+NZ_CM142806.1	CAOCEE_009591	wzx	O161 family O-antigen flippase	wzx	9254	10496	1	1242	29.95
+NZ_CM142806.1	CAOCEE_009589	wzy	O161 family O-antigen polymerase	wzy	11515	12703	1	1188	28.7
+NZ_CP030331.1	CAOCEE_003500	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	42.91
+NZ_CP030331.1	CAOCEE_003499	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.67
+NZ_CP030331.1	CAOCEE_003498	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3025	1	876	43.49
+NZ_CP030331.1	CAOCEE_003497	wzy	O54 family O-antigen polymerase	wzy	3028	4087	1	1059	28.05
+NZ_CP030331.1	CAOCEE_003496	?	Putative glycosyltransferase	glycosyltransferase	4089	4908	1	819	31.38
+NZ_CP030331.1	CAOCEE_003495	?	Putative glycosyltransferase	glycosyltransferase	4862	5681	1	819	29.3
+NZ_CP030331.1	CAOCEE_003492	?	Glycosyltransferase family 2 protein	glycosyltransferase	7076	7934	1	858	31.47
+NZ_CP030331.1	CAOCEE_003491	wzx	O54 family O-antigen flippase	wzx	7930	9181	1	1251	27.5
+NZ_CP030331.1	CAOCEE_003488	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	11007	11550	1	543	34.44
+NZ_CP054940.1	CAOCEE_003563	?	Glycosyltransferase 2-like domain-containing protein	glycosyltransferase	317	1271	1	954	30.82
+NZ_CP054940.1	CAOCEE_003561	?	O-antigen flippase	wzx	2330	3731	1	1401	28.84
+NZ_CP054940.1	CAOCEE_003560	?	O-antigen polymerase	wzy	3741	4899	1	1158	28.93
+NZ_CP054940.1	CAOCEE_003559	?	Glycosyltransferase	glycosyltransferase	4901	6011	1	1110	30.99
+NZ_CP073926.1	CAOCEE_004339	?	Glycosyltransferase	glycosyltransferase	134	1124	1	990	30.0
+NZ_CP073926.1	CAOCEE_004338	wzx	O76 family O-antigen flippase	wzx	1110	2349	1	1239	30.19
+NZ_CP073926.1	CAOCEE_004336	wzy	O76 family O-antigen polymerase	wzy	2914	4147	1	1233	28.55
+NZ_CP073926.1	CAOCEE_004335	?	Glycosyltransferase family 2 protein	glycosyltransferase	4106	5006	1	900	31.56
+NZ_CP073926.1	CAOCEE_004334	?	Putative glycosyltransferase	glycosyltransferase	5031	6069	1	1038	32.76
+AB811621.1	?	wfdR	putative glycosyltransferase	glycosyltransferase	290	1136	1	846	31.91
+AB811621.1	?	wzx	O-antigen flippase	wzx	1137	2268	1	1131	28.12
+AB811621.1	?	welQ	putative glycosyltransferase	glycosyltransferase	2438	3344	1	906	29.69
+AB811621.1	?	wzy	O-antigen polymerase	wzy	3340	4480	1	1140	27.63
+AB811621.1	?	welR	putative glycosyltransferase	glycosyltransferase	4442	5270	1	828	31.64
+AB811621.1	?	wbdN	putative glycosyltransferase	glycosyltransferase	5272	6001	1	729	30.32
+AB812067.1	?	werR	putative glycosyltransferase	glycosyltransferase	1317	3534	1	2217	34.87
+AB812067.1	?	wzm	O-antigen ABC transporter permease	wzm	3530	4310	1	780	33.85
+AB812067.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4316	5069	1	753	39.18
+AB812067.1	?	wekV	putative glycosyltransferase	glycosyltransferase	5085	6165	1	1080	39.63
+AB812067.1	?	werS	putative glycosyltransferase	glycosyltransferase	6174	7329	1	1155	36.45
+AB812067.1	?	werT	putative glycosyltransferase	glycosyltransferase	8528	10610	1	2082	34.34
+AB812067.1	?	werU	putative glycosyltransferase	glycosyltransferase	13383	14394	1	1011	42.83
+AB812067.1	?	wbxD	putative nucleotide sugar epimerase	sugar_biosynthesis	14408	15191	1	783	42.02
+AB812067.1	?	werV	putative glycosyltransferase	glycosyltransferase	16306	17191	1	885	40.0
+DQ000315.1	?	wbaC	WbaC	sugar_biosynthesis	1157	2162	1	1005	31.54
+DQ000315.1	?	wbaD	WbaD	sugar_biosynthesis	2154	3357	1	1203	33.67
+DQ000315.1	?	wzy	Wzy	wzy	6383	7715	1	1332	31.61
+DQ000315.1	?	wzx	Wzx	wzx	7756	8992	1	1236	31.72
+DQ462205.1	?	wzx	Wzx	wzx	614	1685	1	1071	34.55
+DQ462205.1	?	wzy	Wzy	wzy	2856	4236	1	1380	34.13
+DQ462205.1	?	wbeX	WbeX	glycosyltransferase	4228	5239	1	1011	30.17
+DQ462205.1	?	wfdK	WbeY	glycosyltransferase	5235	6153	1	918	36.27
+AB811605.1	?	wzy	O-antigen polymerase	wzy	2853	4080	1	1227	30.73
+AB811605.1	?	wzx	O-antigen flippase	wzx	4072	5455	1	1383	29.86
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	5438	6497	1	1059	30.22
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	6493	7240	1	747	30.12
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	7236	8292	1	1056	30.4
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	8260	8743	1	483	31.88
+AB811605.1	?	?	putative glycosyltransferase	glycosyltransferase	8739	9198	1	459	31.59
+EU296423.1	?	rmlB	RmlB	sugar_biosynthesis	45	1131	1	1086	44.29
+EU296423.1	?	rmlD	RmlD	sugar_biosynthesis	1130	2030	1	900	49.11
+EU296423.1	?	rmlA	RmlA	sugar_biosynthesis	2088	2967	1	879	43.23
+EU296423.1	?	rmlC	RmlC	sugar_biosynthesis	2971	3517	1	546	37.55
+EU296423.1	?	wzx	Wzx	wzx	3532	4789	1	1257	34.37
+EU296423.1	?	rfbF	RfbF	sugar_biosynthesis	4818	5709	1	891	32.66
+EU296423.1	?	rfbG	RfbG	sugar_biosynthesis	5701	6607	1	906	30.46
+EU296423.1	?	wzy	Wzy	wzy	6627	7776	1	1149	27.42
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	1435	3658	1	2223	35.94
+AB812038.1	?	wzm	O-antigen ABC transporter permease	wzm	3654	4434	1	780	34.1
+AB812038.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4440	5193	1	753	38.78
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	5210	6290	1	1080	40.28
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	6299	7445	1	1146	35.78
+AB812038.1	?	?	putative glycosyltransferase	glycosyltransferase	8651	10634	1	1983	31.47
+AB811620.1	?	wbaC	putative glycosyltransferase	glycosyltransferase	96	1101	1	1005	31.54
+AB811620.1	?	wbaD	putative glycosyltransferase	glycosyltransferase	1093	2296	1	1203	33.67
+AB811620.1	?	wzy	O-antigen polymerase	wzy	5322	6654	1	1332	31.53
+AB811620.1	?	wzx	O-antigen flippase	wzx	6695	7931	1	1236	31.96
+DQ069297.1	?	rmlB	dTDP-D-glucose 4,6-dehydratase	sugar_biosynthesis	1136	2213	1	1077	42.71
+DQ069297.1	?	rmlA	glucose-1-phosphate thymidylyl transferase	sugar_biosynthesis	2209	3073	1	864	34.14
+DQ069297.1	?	rmlC	dTDP-6-deoxy-D-glucose-3,5 epimerase	sugar_biosynthesis	3069	3621	1	552	29.71
+DQ069297.1	?	wzx	O-antigen flippase	wzx	4452	5790	1	1338	32.29
+DQ069297.1	?	wfaA	glycosyltransferase	glycosyltransferase	5782	6907	1	1125	30.22
+DQ069297.1	?	wzy	O-antigen polymerase	wzy	6896	8159	1	1263	30.64
+DQ069297.1	?	weiB	glycosyltransferase	glycosyltransferase	8158	9235	1	1077	31.29
+DQ069297.1	?	wbgP	glycosyltransferase	glycosyltransferase	9231	10047	1	816	31.37
+DQ069297.1	?	wfaE	glycosyltransferase	glycosyltransferase	10557	11553	1	996	28.92
+AB812049.1	?	wfnE	putative glycosyltransferase	glycosyltransferase	309	1401	1	1092	31.87
+AB812049.1	?	wdaW	putative glycosyltransferase	glycosyltransferase	1387	2464	1	1077	28.97
+AB812049.1	?	wzx	O-antigen flippase	wzx	3441	4692	1	1251	33.09
+AB812049.1	?	wzy	O-antigen polymerase	wzy	5816	7022	1	1206	30.85
+AB812049.1	?	wfnH	putative glycosyltransferase	glycosyltransferase	6999	8163	1	1164	31.27
+NZ_CP024257.1_reverse_complement	MGLELH_141535	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	371	1457	1	1086	42.91
+NZ_CP024257.1_reverse_complement	MGLELH_141540	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1456	2356	1	900	47.0
+NZ_CP024257.1_reverse_complement	MGLELH_141545	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2413	3292	1	879	42.09
+NZ_CP024257.1_reverse_complement	MGLELH_141550	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3294	3837	1	543	37.2
+NZ_CP024257.1_reverse_complement	MGLELH_141555	wzx	O25 family O-antigen flippase	wzx	3838	5098	1	1260	33.33
+NZ_CP024257.1_reverse_complement	MGLELH_141560	?	glycosyltransferase family 2 protein	glycosyltransferase	5102	6068	1	966	31.06
+NZ_CP024257.1_reverse_complement	MGLELH_141565	?	glycosyltransferase	glycosyltransferase	6134	7283	1	1149	31.77
+NZ_CP024257.1_reverse_complement	MGLELH_141570	?	Wzy	wzy	7254	8472	1	1218	29.72
+NZ_CP024257.1_reverse_complement	MGLELH_141580	?	glycosyltransferase	glycosyltransferase	9343	10447	1	1104	31.7
+NZ_CP024257.1_reverse_complement	MGLELH_141600	?	Glycosyltransferase WbuB	glycosyltransferase	13724	14933	1	1209	39.78
+KJ739600.2	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	127	1204	1	1077	43.18
+KJ739600.2	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	1200	2064	1	864	36.69
+KJ739600.2	?	wbaU	dTDP-6-deoxy-3,4-keto-hexulose isomerase	sugar_biosynthesis	2065	2470	1	405	35.31
+KJ739600.2	?	wbaV	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase	sugar_biosynthesis	2459	2918	1	459	34.86
+KJ739600.2	?	wbaW	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase	sugar_biosynthesis	2920	4024	1	1104	34.78
+KJ739600.2	?	wzx	O-antigen flippase	wzx	4020	5286	1	1266	33.73
+KJ739600.2	?	wzy	O-antigen polymerase	wzy	6220	7498	1	1278	30.91
+KJ739600.2	?	wbwV	D-inositol 3-phosphate glycosyltransferase	glycosyltransferase	9677	10829	1	1152	30.73
+KJ739600.2	?	wejO	2-deoxystreptamine glucosyltransferase	glycosyltransferase	10806	11922	1	1116	31.9
+EU296420.1	?	wzx	Wzx	wzx	2556	4011	1	1455	29.83
+EU296420.1	?	wfeQ	WfeQ	glycosyltransferase	6560	7565	1	1005	28.66
+EU296420.1	?	wfeR	WfeR	glycosyltransferase	7561	8350	1	789	31.81
+EU296420.1	?	wzy	Wzy	wzy	8423	9527	1	1104	25.63
+EU296420.1	?	wfeS	WfeS	glycosyltransferase	9555	10605	1	1050	28.1
+EU296420.1	?	wfeT	WfeT	glycosyltransferase	11703	12618	1	915	34.21
+GU068044.1	?	rmlB	RmlB	sugar_biosynthesis	1255	2341	1	1086	43.46
+GU068044.1	?	rmlD	RmlD	sugar_biosynthesis	2340	3240	1	900	46.56
+GU068044.1	?	rmlA	RmlA	sugar_biosynthesis	3297	4176	1	879	42.09
+GU068044.1	?	rmlC	RmlC	sugar_biosynthesis	4180	4723	1	543	34.99
+GU068044.1	?	wzx	Wzx	wzx	5102	6356	1	1254	28.47
+GU068044.1	?	wzy	Wzy	wzy	6357	7509	1	1152	27.78
+GU068044.1	?	wcmQ	WcmQ	glycosyltransferase	7498	8569	1	1071	28.48
+GU068044.1	?	wcmR	WcmR	glycosyltransferase	8583	9312	1	729	27.57
+GU068044.1	?	wcmS	WcmS	glycosyltransferase	9314	10448	1	1134	28.84
+GU068044.1	?	wcmT	WcmT	glycosyltransferase	11944	13063	1	1119	33.78
+KP710590.1	?	wfbZ	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	103	916	1	813	32.72
+KP710590.1	?	wzx	O-antigen flippase	wzx	1349	2609	1	1260	31.11
+KP710590.1	?	wzy	O-antigen polymerase	wzy	3489	4731	1	1242	28.82
+NZ_CP013029.1_reverse_complement	MGLELH_21175	wzx	O165 family O-antigen flippase	wzx	5797	7048	1	1251	30.62
+NZ_CP013029.1_reverse_complement	MGLELH_21185	wzy	O165 family O-antigen polymerase	wzy	8470	9808	1	1338	28.7
+AF078736.1	?	manC	mannose-1-phosphate guanylyltransferase	sugar_biosynthesis	3383	4835	1	1452	37.88
+AF078736.1	?	manB	phosphomannomutase	sugar_biosynthesis	4840	6211	1	1371	35.23
+AF078736.1	?	wzx	putative O unit flippase	wzx	8372	9638	1	1266	30.96
+AF078736.1	?	wzy	putative O antigen polymerase	wzy	9627	10680	1	1053	28.02
+KJ755556.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	116	1205	1	1089	49.22
+KJ755556.1	?	rmlA	glucose-1-phosphate thymidylyltransferase 2	sugar_biosynthesis	1219	2086	1	867	40.6
+KJ755556.1	?	wesC	glycosyltransferase	glycosyltransferase	3216	4863	1	1647	34.18
+KJ755556.1	?	wzm	O-antigen ABC transporter permease	wzm	7892	8711	1	819	35.41
+KJ755556.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	8707	9439	1	732	36.61
+AY654590.1	?	wclA	glycosyltransferase	glycosyltransferase	53	1265	1	1212	32.1
+AY654590.1	?	wzy	Wzy	wzy	1251	2421	1	1170	28.63
+AY654590.1	?	wbaD	mannosyltransferase	glycosyltransferase	2404	3481	1	1077	34.26
+AY654590.1	?	wclC	glycosyltransferase	glycosyltransferase	3618	4662	1	1044	31.23
+AY654590.1	?	wzx	Wzx	wzx	9337	10621	1	1284	30.61
+KJ534585.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	105	1191	1	1086	42.91
+KJ534585.1	?	rmlD	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	1190	2090	1	900	47.56
+KJ534585.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2147	3026	1	879	42.55
+KJ534585.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3030	3573	1	543	38.31
+KJ534585.1	?	wzx	O antigen flippase	wzx	3587	4799	1	1212	29.95
+KJ534585.1	?	wzy	O antigen polymerase	wzy	6815	7934	1	1119	31.46
+KJ534585.1	?	wbaD	glycosyl transferase group 1 family	sugar_biosynthesis	7935	9117	1	1182	30.29
+KJ755546.1	?	wzx	O-antigen flippase	wzx	5579	6818	1	1239	27.76
+KJ755546.1	?	wzy	O-antigen polymerase	wzy	7903	9136	1	1233	30.33
+KJ755546.1	?	wfeD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,4-galactosyltransferase	glycosyltransferase	9122	9863	1	741	30.77
+AB812064.1	?	rmlB	dTDP-glucose 4,6 dehydratase	sugar_biosynthesis	166	1252	1	1086	43.09
+AB812064.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1251	2151	1	900	46.11
+AB812064.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2208	3087	1	879	42.55
+AB812064.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3073	3652	1	579	34.37
+AB812064.1	?	wzx	O-antigen flippase	wzx	3685	4978	1	1293	28.0
+AB812064.1	?	wffU	putative glycosyltransferase	glycosyltransferase	4970	6077	1	1107	30.98
+AB812064.1	?	wfgK	putative glycosyltransferase	glycosyltransferase	7195	8128	1	933	30.55
+AB812064.1	?	wzy	O-antigen polymerase	wzy	8146	9187	1	1041	27.09
+AB812064.1	?	wekN	putative glycosyltransferase	glycosyltransferase	9188	10088	1	900	30.67
+AY657020.1	?	wclE	WclE	glycosyltransferase	331	1348	1	1017	29.99
+AY657020.1	?	wzy	Wzy	wzy	1350	2304	1	954	27.67
+AY657020.1	?	wzx	Wzx	wzx	5945	7232	1	1287	30.46
+AY657020.1	?	gla	Gla	sugar_biosynthesis	9039	10044	-1	1005	41.99
+DQ000314.1	?	wbaC	WbaC	sugar_biosynthesis	1158	2163	1	1005	31.54
+DQ000314.1	?	wbaD	WbaD	sugar_biosynthesis	2155	3358	1	1203	33.67
+DQ000314.1	?	wzy	Wzy	wzy	6384	7716	1	1332	31.53
+DQ000314.1	?	wzx	Wzx	wzx	7757	8993	1	1236	31.88
+KJ755558.1	?	wzx	O-antigen flippase	wzx	1155	2376	1	1221	31.45
+KJ755558.1	?	wzy	O-antigen polymerase	wzy	2388	3492	1	1104	27.81
+KJ755558.1	?	wbwG	D-inositol-3-phosphate glycosyltransferase	glycosyltransferase	3492	4590	1	1098	28.69
+EU296422.1	?	rmlB	RmlB	sugar_biosynthesis	45	1131	1	1086	44.2
+EU296422.1	?	rmlD	RmlD	sugar_biosynthesis	1130	2030	1	900	49.11
+EU296422.1	?	rmlA	RmlA	sugar_biosynthesis	2088	2967	1	879	43.23
+EU296422.1	?	rmlC	RmlC	sugar_biosynthesis	2971	3517	1	546	37.55
+EU296422.1	?	wzx	Wzx	wzx	3532	4789	1	1257	34.37
+EU296422.1	?	wfgK	RfbF	sugar_biosynthesis	4818	5709	1	891	32.55
+EU296422.1	?	wfgl	RfbG	sugar_biosynthesis	5701	6607	1	906	30.46
+EU296422.1	?	wzy	Wzy	wzy	6627	7776	1	1149	27.42
+AB812040.1	?	wejT	putative glycosyltransferase	glycosyltransferase	2788	3496	1	708	34.18
+AB812040.1	?	wzm	O-antigen ABC transporter permease	wzm	3488	4289	1	801	32.58
+AB812040.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4292	5042	1	750	35.2
+AB812040.1	?	wbbM	putative glycosyltransferase	glycosyltransferase	5082	5895	1	813	32.72
+AB812084.1	?	wbaC	putative glycosyltransferase	glycosyltransferase	56	1061	1	1005	31.54
+AB812084.1	?	wbaD	putative glycosyltransferase	glycosyltransferase	1053	2256	1	1203	33.67
+AB812084.1	?	wzy	O-antigen polymerase	wzy	5282	6614	1	1332	31.53
+AB812084.1	?	wzx	O-antigen flippase	wzx	6655	7891	1	1236	31.88
+DQ990685.1	?	wzx	O-antigen flippase	wzx	1505	2726	1	1221	32.1
+DQ990685.1	?	wzy	O-antigen polymerase	wzy	3543	4644	1	1101	27.97
+DQ676934.1	?	rmlB	RmlB	sugar_biosynthesis	107	1181	1	1074	43.02
+DQ676934.1	?	rmlA	RmlA	sugar_biosynthesis	1181	2051	1	870	35.29
+DQ676934.1	?	wzx	Wzx	wzx	2168	3614	1	1446	31.88
+DQ676934.1	?	wfbE	WfbE	glycosyltransferase	7467	8493	1	1026	34.11
+DQ676934.1	?	wzy	Wzy	wzy	8476	9727	1	1251	29.82
+DQ676934.1	?	wfbF	WfbF	glycosyltransferase	9723	10845	1	1122	30.12
+DQ676934.1	?	wbwH	WbwH	glycosyltransferase	13882	15049	1	1167	33.76
+EU296424.1	?	rmlB	RmlB	sugar_biosynthesis	61	1147	1	1086	44.29
+EU296424.1	?	rmlD	RmlD	sugar_biosynthesis	1146	2046	1	900	49.11
+EU296424.1	?	rmlA	RmlA	sugar_biosynthesis	2104	2983	1	879	43.23
+EU296424.1	?	rmlC	RmlC	sugar_biosynthesis	2987	3533	1	546	37.73
+EU296424.1	?	wzx	Wzx	wzx	3548	4805	1	1257	34.45
+EU296424.1	?	wfgI	RfbF	sugar_biosynthesis	4834	5725	1	891	32.55
+EU296424.1	?	wfgK	RfbG	sugar_biosynthesis	5717	6623	1	906	30.46
+EU296424.1	?	wzy	Wzy	wzy	6643	7792	1	1149	27.68
+KP710595.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1181	1	1074	43.02
+KP710595.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	1181	2051	1	870	35.29
+KP710595.1	?	wzx	O-antigen flippase	wzx	2168	3614	1	1446	31.88
+KP710595.1	?	wbaN	WbqC-like protein family protein	sugar_biosynthesis	4745	5453	1	708	29.38
+KP710595.1	?	wbaO	hypothetical protein	sugar_biosynthesis	5456	6431	1	975	31.18
+KP710595.1	?	wbaP	spermidine N(1)-acetyltransferase	sugar_biosynthesis	6430	6997	1	567	31.22
+KP710595.1	?	wbaQ	(R)-specific enoyl-CoA hydratase	sugar_biosynthesis	6993	7395	1	402	35.32
+KP710595.1	?	wzy	O-antigen polymerase	wzy	8760	9729	1	969	29.93
+KP710595.1	?	wbwG	D-inositol-3-phosphate glycosyltransferase	glycosyltransferase	9725	10847	1	1122	30.04
+KP710595.1	?	wbaR	WbuC	sugar_biosynthesis	15096	15594	1	498	37.55
+AB811618.1	?	wzx	O-antigen flippase	wzx	471	1701	1	1230	35.12
+AB811618.1	?	wzy	O-antigen polymerase	wzy	2872	4252	1	1380	34.13
+AB811618.1	?	wbeX	putative glycosyltransferase	glycosyltransferase	4244	5255	1	1011	30.27
+AB811618.1	?	wfdK	putative glycosyltransferase	glycosyltransferase	5251	6169	1	918	36.27
+AY528413.1	?	rmlB	RmlB	sugar_biosynthesis	423	1512	1	1089	40.86
+AY528413.1	?	rmlA	RmlA	sugar_biosynthesis	1524	2394	1	870	39.54
+AY528413.1	?	wbrV	WbrV	glycosyltransferase	4476	5331	1	855	33.1
+AY528413.1	?	wzm	Wzm	wzm	5332	6106	1	774	34.5
+AY528413.1	?	wzt	Wzt	wzt	6102	7077	1	975	35.49
+AY528413.1	?	wbrW	WbrW	glycosyltransferase	11845	13174	1	1329	36.04
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	1471	3688	1	2217	34.87
+AB812046.1	?	wzm	O-antigen ABC transporter permease	wzm	3684	4464	1	780	33.97
+AB812046.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	4470	5223	1	753	39.04
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	5239	6319	1	1080	39.63
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	6328	7483	1	1155	36.45
+AB812046.1	?	?	putative glycosyltransferase	glycosyltransferase	8682	10764	1	2082	34.34
+AB812046.1	?	werU	putative glycosyltransferase	glycosyltransferase	14976	15987	1	1011	42.83
+AB812046.1	?	wbxD	putative nucleotide sugar epimerase	sugar_biosynthesis	16001	16784	1	783	42.02
+AB812046.1	?	werV	putative glycosyltransferase	glycosyltransferase	17899	18784	1	885	40.0
+KJ778805.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	114	1197	1	1083	50.05
+KJ778805.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1199	2099	1	900	48.11
+KJ778805.1	?	rmlA	glucose-1-phosphate thymidylyltransferase 1	sugar_biosynthesis	2151	3030	1	879	49.03
+KJ778805.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3582	1	549	40.26
+KJ778805.1	?	wzx	O-antigen flippase	wzx	4000	5242	1	1242	32.69
+KJ778805.1	?	wzy	O-antigen polymerase	wzy	6455	7625	1	1170	31.45
+EU296419.1	?	wzx	Wzx	wzx	93	1608	1	1515	29.64
+EU296419.1	?	wfeQ	WfeQ	glycosyltransferase	4133	5138	1	1005	28.66
+EU296419.1	?	wfeR	WfeR	glycosyltransferase	5134	5923	1	789	31.69
+EU296419.1	?	wzy	Wzy	wzy	5996	7100	1	1104	25.82
+EU296419.1	?	wfeS	WfeS	glycosyltransferase	7128	8178	1	1050	28.1
+EU296419.1	?	wfeT	WfeT	glycosyltransferase	9276	10191	1	915	34.21
+EU694095.1	?	rmlB	RmlB	sugar_biosynthesis	106	1192	1	1086	42.91
+EU694095.1	?	rmlD	RmlD	sugar_biosynthesis	1191	2091	1	900	46.78
+EU694095.1	?	rmlA	RmlA	sugar_biosynthesis	2148	3027	1	879	44.03
+EU694095.1	?	rmlC	RmlC	sugar_biosynthesis	3031	3574	1	543	33.52
+EU694095.1	?	wzx	Wzx	wzx	3573	4791	1	1218	26.6
+EU694095.1	?	wzy	Wzy	wzy	4783	6106	1	1323	28.8
+EU694095.1	?	wclW	WclW	glycosyltransferase	6098	6899	1	801	30.09
+EU694095.1	?	wclX	WclX	glycosyltransferase	6885	7830	1	945	27.62
+EU694095.1	?	wekI	WclY	glycosyltransferase	7826	8888	1	1062	30.13
+EU694095.1	?	wbwC	WclZ	glycosyltransferase	8884	9694	1	810	32.96
+KJ778808.1	?	wzx	O-antigen flippase	wzx	81	1524	1	1443	32.09
+KJ778808.1	?	wzy	O-antigen polymerase	wzy	1520	2756	1	1236	28.96
+KJ778808.1	?	wfgD	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD	glycosyltransferase	2745	3648	1	903	30.34
+KJ778808.1	?	wfeD	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,4-galactosyltransferase	glycosyltransferase	4864	5575	1	711	30.8
+KJ778808.1	?	?	glycosyltransferase family 2	glycosyltransferase	5585	6407	1	822	29.44
+AB812025.1	?	wdbM	putative glycosyltransferase	glycosyltransferase	844	1660	-1	816	32.84
+AB812025.1	?	welR	putative glycosyltransferase	glycosyltransferase	2878	3757	-1	879	28.67
+AB812025.1	?	wbcY	putative glycosyltransferase	glycosyltransferase	3766	4651	-1	885	28.47
+AB812025.1	?	wzy	O-antigen polymerase	wzy	4657	5887	-1	1230	27.89
+AB812025.1	?	wbcZ	putative glycosyltransferase	glycosyltransferase	5853	6984	-1	1131	30.33
+AB812025.1	?	wzx	O-antigen flippase	wzx	6961	8245	-1	1284	26.4
+DQ990684.1	?	wzx	O-antigen flippase	wzx	1505	2726	1	1221	32.1
+DQ990684.1	?	wzy	O-antigen polymerase	wzy	3543	4644	1	1101	27.88
+DQ000313.1	?	wbaC	WbaC	sugar_biosynthesis	1158	2163	1	1005	31.64
+DQ000313.1	?	wbaD	WbaD	sugar_biosynthesis	2155	3358	1	1203	33.75
+DQ000313.1	?	wzy	Wzy	wzy	6384	7716	1	1332	31.46
+DQ000313.1	?	wzx	Wzx	wzx	7757	8975	1	1218	31.94
+D43637.1	?	wzm	putative integral membrane component of ABC-transporter	wzm	3142	3928	1	786	47.71
+D43637.1	?	wzt	putative ATP binding component of ABC-transporter	wzt	3930	5226	1	1296	53.7
+D43637.1	?	wbdA	mannosyltransferase A	glycosyltransferase	7457	9905	1	2448	54.94
+D43637.1	?	wbdB	mannosyltransferase B	glycosyltransferase	9951	11097	1	1146	54.89
+D43637.1	?	wbdC	mannosyltransferase C	glycosyltransferase	11397	12222	1	825	55.76
+EU549863.1	?	rmlB	dTDP-glucose 4,6 dehydratase	sugar_biosynthesis	0	1152	1	1152	43.23
+EU549863.1	?	rmlD	dTDP-6-deoxy-D-glucose-3,5 epimerase	sugar_biosynthesis	1151	2051	1	900	47.89
+EU549863.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2109	2985	1	876	43.84
+EU549863.1	?	wzx	O-antigen flippase	wzx	4965	6228	1	1263	32.7
+EU549863.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7314	7872	1	558	35.66
+EU549863.1	?	wzy	O-antigen polymerase	wzy	7940	8903	1	963	29.91
+AB811624.1	?	rmlB	dTDP-glucose 4,6 dehydratase	sugar_biosynthesis	372	1458	1	1086	43.83
+AB811624.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1457	2357	1	900	47.89
+AB811624.1	?	rmlA	glucose-1-phosphate thymidylyltransferase	sugar_biosynthesis	2415	3291	1	876	43.84
+AB811624.1	?	wzx	O-antigen flippase	wzx	5271	6534	1	1263	32.7
+AB811624.1	?	wekP	putative glycosyltransferase	glycosyltransferase	6550	7600	1	1050	32.67
+AB811624.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7620	8178	1	558	35.66
+AB811624.1	?	wzy	O-antigen polymerase	wzy	8246	9209	1	963	29.91
+AB811624.1	?	wekQ	putative glycosyltransferase	glycosyltransferase	9201	10089	1	888	32.77
+AB811624.1	?	?	putative glycosyltransferase	glycosyltransferase	10119	11196	1	1077	30.64
+DQ220293.1	?	wzy	Wzy	wzy	7049	8099	1	1050	26.0
+DQ220293.1	?	wzx	Wzx	wzx	8113	9313	1	1200	29.08
+AB811598.1	?	wzm	O-antigen ABC transporter permease	wzm	3036	3831	1	795	45.16
+AB811598.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	3830	5045	1	1215	46.26
+AB811598.1	?	wbdA	putative mannosyltransferase	glycosyltransferase	6324	9966	1	3642	48.3
+AB811598.1	?	wbdB	putative glycosyltransferase	glycosyltransferase	10017	11175	1	1158	51.47
+AB811598.1	?	wbdC	putative glycosyltransferase	glycosyltransferase	11184	12300	1	1116	51.61
+AB812039.1	?	?	putative glycosyltransferase	glycosyltransferase	3577	4594	1	1017	34.41
+AB812039.1	?	wzx	O-antigen flippase	wzx	10043	11315	1	1272	31.76
+AB812039.1	?	wzy	O-antigen polymerase	wzy	11972	13130	1	1158	27.98
+AB812039.1	?	wfbH	putative glycosyltransferase	glycosyltransferase	13130	13868	1	738	29.4
+AB812039.1	?	wbsJ	putative glycosyltransferase	glycosyltransferase	13875	14775	1	900	31.78
+KJ778810.1	?	rmlB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	126	1215	1	1089	45.0
+KJ778810.1	?	rmlA	glucose-1-phosphate thymidylyltransferase 2	sugar_biosynthesis	1228	2095	1	867	44.64
+KJ778810.1	?	rmlD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2117	3008	1	891	40.74
+KJ778810.1	?	rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3025	3571	1	546	38.46
+KJ778810.1	?	wzm	O-antigen ABC transporter permease	wzm	7803	8544	1	741	34.28
+KJ778810.1	?	wzt	O-antigen export system, ATP-binding protein	wzt	8540	9266	1	726	36.5
+KJ778799.1	?	wzx	O-antigen flippase	wzx	3041	4271	1	1230	27.89
+KJ778799.1	?	wzy	O-antigen polymerase	wzy	4251	5349	1	1098	27.78
+KJ778799.1	?	wetP	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	glycosyltransferase	5323	6475	1	1152	30.3
+NZ_CP020543.1	CAOCEE_043544	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.0
+NZ_CP020543.1	CAOCEE_043543	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	45.56
+NZ_CP020543.1	CAOCEE_043542	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	42.69
+NZ_CP020543.1	CAOCEE_043541	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3576	1	543	38.31
+NZ_CP020543.1	CAOCEE_043540	wzx	flippase	wzx	3578	4865	1	1287	33.26
+NZ_CP020543.1	CAOCEE_043539	?	glycosyltransferase family 2 protein	glycosyltransferase	4875	5712	1	837	29.51
+NZ_CP020543.1	CAOCEE_043538	wzy	EpsG family protein	wzy	5719	6784	1	1065	27.51
+NZ_CP020543.1	CAOCEE_043537	?	glycosyltransferase family 2 protein	glycosyltransferase	6789	7566	1	777	30.12
+NZ_CP020543.1	CAOCEE_043535	?	glycosyltransferase family 4 protein	glycosyltransferase	8436	9549	1	1113	30.19
+NZ_CM129863.1	CAOCEE_030929	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.09
+NZ_CM129863.1	CAOCEE_030928	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.56
+NZ_CM129863.1	CAOCEE_030927	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.46
+NZ_CM129863.1	CAOCEE_030926	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3590	1	558	36.2
+NZ_CM129863.1	CAOCEE_030924	wzx	Putative O-antigen transporter	wzx	4107	5325	1	1218	28.74
+NZ_CM129863.1	CAOCEE_030922	wzy	Wzy	wzy	6473	7619	1	1146	27.05
+NZ_CM129863.1	CAOCEE_030921	?	Glycosyltransferase 2-like domain-containing protein	glycosyltransferase	7629	8526	1	897	30.66
+NZ_CP116067.1	CAOCEE_024022	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	43.37
+NZ_CP116067.1	CAOCEE_024021	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.78
+NZ_CP116067.1	CAOCEE_024020	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	43.23
+NZ_CP116067.1	CAOCEE_024019	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3570	1	537	37.62
+NZ_CP116067.1	CAOCEE_024018	?	glycosyltransferase family 2 protein	glycosyltransferase	3580	4417	1	837	29.03
+NZ_CP116067.1	CAOCEE_024015	?	glycosyltransferase	glycosyltransferase	5067	5901	1	834	27.94
+NZ_CP116067.1	CAOCEE_024014	wzy	EpsG family protein	wzy	5953	7006	1	1053	28.3
+NZ_CP116067.1	CAOCEE_024013	?	rhamnosyltransferase	glycosyltransferase	7032	7902	1	870	28.39
+NZ_CP116067.1	CAOCEE_024012	?	glycosyltransferase family 2 protein	glycosyltransferase	7926	8709	1	783	28.22
+NZ_CP116067.1	CAOCEE_024011	?	glycosyltransferase	glycosyltransferase	8721	9654	1	933	30.33
+NZ_CP116067.1	CAOCEE_024010	wzx	oligosaccharide flippase family protein	wzx	9675	10938	1	1263	28.58
+NZ_CM129884.1	CAOCEE_048440	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	366	1449	1	1083	51.25
+NZ_CM129884.1	CAOCEE_048439	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1451	2351	1	900	48.11
+NZ_CM129884.1	CAOCEE_048438	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2397	3279	1	882	44.78
+NZ_CM129884.1	CAOCEE_048437	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3282	3825	1	543	34.44
+NZ_CM129884.1	CAOCEE_048434	wzx	O-antigen translocase	wzx	5396	6659	1	1263	33.33
+NZ_CM129884.1	CAOCEE_048433	?	glycosyltransferase	glycosyltransferase	6655	7747	1	1092	30.95
+NZ_CM129884.1	CAOCEE_048432	wzy	EpsG family protein	wzy	7731	8781	1	1050	29.62
+NZ_CM129884.1	CAOCEE_048431	?	glycosyltransferase	glycosyltransferase	8767	9580	1	813	33.21
+NZ_CM129884.1	CAOCEE_048430	?	glycosyltransferase	glycosyltransferase	9585	10491	1	906	35.21
+NZ_CP053720.1	CAOCEE_048966	wcaL	colanic acid biosynthesis glycosyltransferase WcaL	glycosyltransferase	837	2073	1	1236	38.67
+NZ_CP053720.1	CAOCEE_048964	wzx	MOP flippase family protein	wzx	2781	4230	1	1449	34.16
+NZ_CP053720.1	CAOCEE_048960	?	putative glycosyltransferase	glycosyltransferase	5248	6508	1	1260	28.97
+NZ_CP053720.1	CAOCEE_048959	wzy	putative O-antigen polymerase	wzy	6495	7587	1	1092	27.11
+NZ_CP053720.1	CAOCEE_048958	?	putative glycosyltransferase	glycosyltransferase	7606	8683	1	1077	36.03
+NZ_CP053720.1	CAOCEE_048957	?	putative glycosyltransferase	glycosyltransferase	8679	9861	1	1182	32.4
+NZ_CP101014.1	CAOCEE_035657	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	369	1455	1	1086	42.73
+NZ_CP101014.1	CAOCEE_035656	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1454	2354	1	900	47.22
+NZ_CP101014.1	CAOCEE_035655	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2411	3287	1	876	41.78
+NZ_CP101014.1	CAOCEE_035649	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	8948	9494	1	546	37.36
+NZ_CP101014.1	CAOCEE_035648	wzx	Putative O-antigen transporter	wzx	9505	10759	1	1254	36.04
+NZ_CP101014.1	CAOCEE_035647	?	Glycosyltransferase family 2 protein	glycosyltransferase	10760	11471	1	711	33.76
+NZ_CP101014.1	CAOCEE_035646	wzy	EpsG family protein	wzy	11622	12678	1	1056	30.68
+NZ_CP101014.1	CAOCEE_035645	?	Alpha-1,2-fucosyltransferase	glycosyltransferase	12719	13616	1	897	35.67
+NZ_CP101014.1	CAOCEE_035644	?	Glycosyltransferase	glycosyltransferase	13658	14420	1	762	34.38
+NZ_CP101014.1	CAOCEE_035643	?	Glycosyltransferase	glycosyltransferase	14560	15682	1	1122	40.11
+NZ_CP126345.1	CAOCEE_044973	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.0
+NZ_CP126345.1	CAOCEE_044972	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.78
+NZ_CP126345.1	CAOCEE_044971	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3025	1	876	43.04
+NZ_CP126345.1	CAOCEE_044967	wzx	O-antigen translocase	wzx	5003	6275	1	1272	30.97
+NZ_CP126345.1	CAOCEE_044966	?	Glycosyltransferase family 4 protein	glycosyltransferase	6292	7345	1	1053	31.05
+NZ_CP126345.1	CAOCEE_044965	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7341	7875	1	534	35.21
+NZ_CP126345.1	CAOCEE_044962	?	glycosyltransferase family 2 protein	glycosyltransferase	9346	10225	1	879	33.45
+NZ_CP126345.1	CAOCEE_044961	wzy	EpsG family protein	wzy	10269	11241	1	972	28.91
+NZ_CP126345.1	CAOCEE_044960	?	Glycosyltransferase	glycosyltransferase	11272	12379	1	1107	35.32
+NZ_CP010231.1	CAOCEE_048367	wzx	hypothetical protein	wzx	9216	10473	1	1257	29.59
+NZ_CP010231.1	CAOCEE_048366	wzy	hypothetical protein	wzy	10456	11659	1	1203	32.34
+NZ_CP010231.1	CAOCEE_048360	?	glycosyltransferase family 2 protein	glycosyltransferase	18245	19148	1	903	34.66
+NZ_AP022409.1	CAOCEE_008604	?	glycosyltransferase	glycosyltransferase	340	1471	1	1131	31.21
+NZ_AP022409.1	CAOCEE_008602	?	glycosyltransferase family 2 protein	glycosyltransferase	2007	2922	1	915	31.04
+NZ_AP022409.1	CAOCEE_008596	?	glycosyltransferase family 4 protein	glycosyltransferase	6952	8164	1	1212	32.34
+NZ_AP022409.1	CAOCEE_008594	wzx	oligosaccharide flippase family protein	wzx	8567	9836	1	1269	31.36
+NZ_AP022409.1	CAOCEE_008593	wzy	O-antigen ligase	wzy	9848	11072	1	1224	27.86
+NZ_AP022409.1	CAOCEE_008592	?	glycosyltransferase family 4 protein	glycosyltransferase	11037	12231	1	1194	30.74
+NZ_CP007392.1	CAOCEE_037303	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1195	1	1086	42.91
+NZ_CP007392.1	CAOCEE_037302	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1194	2094	1	900	47.67
+NZ_CP007392.1	CAOCEE_037301	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2151	3030	1	879	43.57
+NZ_CP007392.1	CAOCEE_037300	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3034	3580	1	546	40.29
+NZ_CP007392.1	CAOCEE_037299	wzx	Putative O-antigen transporter	wzx	3634	4825	1	1191	31.82
+NZ_CP007392.1	CAOCEE_037297	?	Glycosyltransferase	glycosyltransferase	5628	6585	1	957	29.36
+NZ_CP007392.1	CAOCEE_037295	wzy	O-antigen polymerase	wzy	7696	8995	1	1299	26.79
+NZ_CP007392.1	CAOCEE_037289	?	Putative glycosyltransferase	glycosyltransferase	13272	14019	1	747	32.8
+NZ_AP045036.1	CAOCEE_006680	wzy	O-antigen ligase family protein	wzy	4541	5675	1	1134	29.37
+NZ_AP045036.1	CAOCEE_006679	wzx	Putative O-antigen transporter	wzx	5671	6919	1	1248	27.8
+NZ_AP045036.1	CAOCEE_006678	?	Glycosyltransferase	glycosyltransferase	6905	7967	1	1062	28.91
+NZ_AP025209.2	CAOCEE_033411	wzx	O-antigen translocase	wzx	334	1597	1	1263	30.09
+NZ_AP025209.2	CAOCEE_033410	?	putative glycosyltransferase family 2	glycosyltransferase	1583	2504	1	921	27.58
+NZ_AP025209.2	CAOCEE_033409	wzy	putative O-antigen polymerase	wzy	2500	3712	1	1212	28.71
+NZ_AP025209.2	CAOCEE_033403	?	putative glycosyltransferase family 1_4	glycosyltransferase	8807	10001	1	1194	35.59
+NZ_CP046000.1	CAOCEE_021165	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	351	1425	1	1074	49.72
+NZ_CP046000.1	CAOCEE_021164	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	1497	2046	1	549	38.62
+NZ_CP046000.1	CAOCEE_021162	?	glycosyltransferase family 2 protein	glycosyltransferase	2877	3783	1	906	32.45
+NZ_CP046000.1	CAOCEE_021161	wzy	O-antigen polymerase	wzy	3779	4958	1	1179	33.33
+NZ_CP046000.1	CAOCEE_021160	?	glycosyltransferase	glycosyltransferase	4950	5925	1	975	33.33
+NZ_CP046000.1	CAOCEE_021159	wzx	flippase	wzx	5921	7190	1	1269	34.52
+NZ_CP046000.1	CAOCEE_021157	?	Glycosyltransferase	glycosyltransferase	8297	9284	1	987	29.79
+NZ_CP046000.1	CAOCEE_021154	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	11126	11996	1	870	35.98
+NZ_CP148382.1	CAOCEE_020809	?	Glycosyltransferase	glycosyltransferase	699	1779	1	1080	31.02
+NZ_CP148382.1	CAOCEE_020804	?	Putative glycosyltransferase	glycosyltransferase	5742	6489	1	747	34.14
+NZ_CP148382.1	CAOCEE_020802	wzy	O-antigen polysaccharide polymerase Wzy	wzy	7981	9319	1	1338	32.29
+NZ_CP148382.1	CAOCEE_020801	wzx	Oligosaccharide flippase family protein	wzx	9308	10583	1	1275	30.04
+NZ_CP148382.1	CAOCEE_020798	?	Glycosyltransferase	glycosyltransferase	13261	14335	1	1074	31.28
+NZ_CP020509.1	CAOCEE_024669	wzx	flippase	wzx	334	1630	1	1296	30.94
+NZ_CP020509.1	CAOCEE_024667	?	glycosyltransferase	glycosyltransferase	2560	3778	1	1218	32.35
+NZ_CP020509.1	CAOCEE_024666	wzy	DUF1229 domain-containing protein	wzy	3770	4913	1	1143	29.4
+NZ_CP020509.1	CAOCEE_024665	?	glycosyltransferase family 2 protein	glycosyltransferase	4881	5610	1	729	29.36
+NZ_CP020509.1	CAOCEE_024664	?	glycosyltransferase family 1 protein	glycosyltransferase	5614	6649	1	1035	34.78
+NZ_CP020509.1	CAOCEE_024659	?	PGL/p-HBAD biosynthesis glycosyltransferase/MT3031	glycosyltransferase	10691	11438	1	747	33.33
+NZ_CP132979.1	CAOCEE_004399	wzx	O-antigen flippase	wzx	384	1674	1	1290	32.64
+NZ_CP132979.1	CAOCEE_004396	wzy	O-antigen polymerase	wzy	3279	4443	1	1164	28.69
+NZ_CP132979.1	CAOCEE_004395	?	Glycosyltransferase	glycosyltransferase	4417	5560	1	1143	29.05
+NZ_CP132979.1	CAOCEE_004386	?	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase	glycosyltransferase	13331	14144	1	813	31.24
+NZ_AP019856.1	CAOCEE_042637	?	glycosyltransferase	glycosyltransferase	1355	2372	1	1017	33.92
+NZ_AP019856.1	CAOCEE_042630	wzx	lipopolysaccharide biosynthesis protein	wzx	6483	7713	1	1230	31.22
+NZ_AP019856.1	CAOCEE_042629	?	alpha-1,2-fucosyltransferase	glycosyltransferase	7716	8613	1	897	32.44
+NZ_AP019856.1	CAOCEE_042628	wzy	O-antigen polymerase	wzy	8605	9781	1	1176	29.51
+NZ_AP019856.1	CAOCEE_042627	?	glycosyltransferase	glycosyltransferase	9789	10581	1	792	30.18
+NZ_CP138423.1	CAOCEE_031226	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	172	1249	1	1077	43.08
+NZ_CP138423.1	CAOCEE_031225	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1245	2130	1	885	37.85
+NZ_CP138423.1	CAOCEE_031224	?	glycosyltransferase	glycosyltransferase	2134	2908	1	774	32.82
+NZ_CP138423.1	CAOCEE_031220	wzx	O-antigen translocase	wzx	4939	6214	1	1275	34.75
+NZ_CP138423.1	CAOCEE_031219	?	glycosyltransferase	glycosyltransferase	6203	7142	1	939	30.88
+NZ_CP138423.1	CAOCEE_031218	wzy	DUF6337 domain-containing protein	wzy	7169	8423	1	1254	32.22
+NZ_CM136168.1	CAOCEE_003997	?	glycosyltransferase family 4 protein	glycosyltransferase	2940	3924	1	984	31.91
+NZ_CM136168.1	CAOCEE_003996	?	glycosyltransferase family 4 protein	glycosyltransferase	3916	5044	1	1128	31.83
+NZ_CM136168.1	CAOCEE_003995	wzx	lipopolysaccharide biosynthesis protein	wzx	5030	6281	1	1251	28.3
+NZ_CM136168.1	CAOCEE_003994	wzy	hypothetical protein	wzy	6268	7423	1	1155	27.79
+NZ_CM136168.1	CAOCEE_003992	?	glycosyltransferase	glycosyltransferase	8611	9784	1	1173	29.41
+NZ_CM136168.1	CAOCEE_003990	?	glycosyltransferase family 4 protein	glycosyltransferase	11440	12664	1	1224	33.91
+NZ_CP079767.1	CAOCEE_017887	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	366	1449	1	1083	49.4
+NZ_CP079767.1	CAOCEE_017886	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1497	2385	1	888	40.77
+NZ_CP079767.1	CAOCEE_017883	wzx	lipopolysaccharide biosynthesis protein	wzx	3322	4762	1	1440	35.62
+NZ_CP079767.1	CAOCEE_017882	wzy	EpsG family protein	wzy	4758	5847	1	1089	31.04
+NZ_CP079767.1	CAOCEE_017878	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	8704	9247	1	543	43.65
+NZ_CP056073.1	CAOCEE_047218	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	370	1456	1	1086	42.82
+NZ_CP056073.1	CAOCEE_047217	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1455	2355	1	900	46.33
+NZ_CP056073.1	CAOCEE_047216	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2412	3291	1	879	43.0
+NZ_CP056073.1	CAOCEE_047215	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3293	3842	1	549	35.34
+NZ_CP056073.1	CAOCEE_047211	wzx	O-antigen translocase	wzx	5800	7069	1	1269	32.15
+NZ_CP056073.1	CAOCEE_047209	wzy	Wzy	wzy	8481	9825	1	1344	28.57
+NZ_CP056073.1	CAOCEE_047208	?	glycosyltransferase	glycosyltransferase	9805	10864	1	1059	29.93
+NZ_CP056073.1	CAOCEE_047207	?	Glycosyltransferase	glycosyltransferase	10860	11748	1	888	30.41
+NZ_CP056073.1	CAOCEE_047206	?	glycosyltransferase	glycosyltransferase	11735	12497	1	762	34.12
+NZ_AP027470.1	CAOCEE_027742	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	44.48
+NZ_AP027470.1	CAOCEE_027741	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.44
+NZ_AP027470.1	CAOCEE_027740	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3037	1	888	42.68
+NZ_AP027470.1	CAOCEE_027736	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	5272	5818	1	546	32.23
+NZ_AP027470.1	CAOCEE_027734	wzx	O-antigen translocase	wzx	6976	8254	1	1278	33.88
+NZ_AP027470.1	CAOCEE_027733	?	glycosyltransferase	glycosyltransferase	8231	9095	1	864	29.86
+NZ_AP027470.1	CAOCEE_027732	wzy	Oligosaccharide repeat unit polymerase	wzy	9096	10410	1	1314	31.13
+NZ_AP027470.1	CAOCEE_027731	?	glycosyltransferase family 2 protein	glycosyltransferase	10402	11272	1	870	33.45
+NZ_AP027470.1	CAOCEE_027730	?	glycosyltransferase	glycosyltransferase	11268	12093	1	825	31.27
+NZ_CP028759.1	CAOCEE_011549	?	glycosyltransferase	glycosyltransferase	324	1212	1	888	30.74
+NZ_CP028759.1	CAOCEE_011548	wzy	EpsG family protein	wzy	1300	2449	1	1149	29.5
+NZ_CP028759.1	CAOCEE_011547	?	glycosyltransferase	glycosyltransferase	2453	3488	1	1035	29.66
+NZ_CP028759.1	CAOCEE_011546	?	glycosyltransferase family 2 protein	glycosyltransferase	3490	4291	1	801	29.96
+NZ_CP028759.1	CAOCEE_011545	?	glycosyltransferase family 2 protein	glycosyltransferase	4287	5049	1	762	29.66
+NZ_CP028759.1	CAOCEE_011544	wzx	oligosaccharide flippase family protein	wzx	5041	6343	1	1302	27.88
+NZ_AP026907.1	CAOCEE_000877	wzy	O-antigen polymerase	wzy	1731	3027	1	1296	29.01
+NZ_AP026907.1	CAOCEE_000876	wzx	oligosaccharide flippase family protein	wzx	3032	4247	1	1215	28.23
+NZ_AP026907.1	CAOCEE_000875	?	glycosyltransferase	glycosyltransferase	4230	5328	1	1098	30.87
+NZ_AP026907.1	CAOCEE_000874	?	glycosyltransferase	glycosyltransferase	5296	6142	1	846	34.87
+NZ_CP148440.1	CAOCEE_048591	wzx	Translocase	wzx	5012	6296	1	1284	32.4
+NZ_CP148440.1	CAOCEE_048590	wzy	putative O-antigen polymerase	wzy	6292	7594	1	1302	29.57
+NZ_CP148440.1	CAOCEE_048589	?	Glycosyltransferase	glycosyltransferase	7586	8702	1	1116	35.93
+NZ_AP027543.1	CAOCEE_019122	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.74
+NZ_AP027543.1	CAOCEE_019121	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.33
+NZ_AP027543.1	CAOCEE_019120	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3034	1	885	43.62
+NZ_AP027543.1	CAOCEE_019119	wzx	Putative O-antigen transporter	wzx	3076	4324	1	1248	30.45
+NZ_AP027543.1	CAOCEE_019117	wzy	Wzy	wzy	5097	6285	1	1188	27.02
+NZ_AP027543.1	CAOCEE_019112	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	9740	10271	1	531	32.2
+NZ_AP024123.1	CAOCEE_028047	wzx	Putative O-antigen transporter	wzx	335	1604	1	1269	27.5
+NZ_AP024123.1	CAOCEE_028046	?	Glycosyltransferase family 4 protein	glycosyltransferase	1600	2536	1	936	26.82
+NZ_AP024123.1	CAOCEE_028045	?	Glycosyltransferase	glycosyltransferase	2519	3668	1	1149	28.46
+NZ_AP024123.1	CAOCEE_028044	wzy	Oligosaccharide repeat unit polymerase	wzy	3664	4825	1	1161	26.87
+NZ_AP024123.1	CAOCEE_028043	?	Glycosyltransferase family 4 protein	glycosyltransferase	4821	5928	1	1107	33.06
+NZ_CM129856.1	CAOCEE_047454	wzx	O-antigen flippase	wzx	5994	7209	1	1215	31.03
+NZ_CM129856.1	CAOCEE_047452	wzy	O-antigen polymerase	wzy	8169	9465	1	1296	29.09
+NZ_CM129856.1	CAOCEE_047450	?	putative glycosyltransferase family 4 protein	glycosyltransferase	10440	11553	1	1113	32.88
+NZ_CP090305.1	CAOCEE_004753	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1520	2606	1	1086	43.0
+NZ_CP090305.1	CAOCEE_004752	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2605	3505	1	900	44.22
+NZ_CP090305.1	CAOCEE_004751	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3558	4437	1	879	39.02
+NZ_CP090305.1	CAOCEE_004750	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4433	4988	1	555	38.92
+NZ_CP090305.1	CAOCEE_004749	wzx	Putative O-antigen transporter	wzx	4971	6132	1	1161	31.18
+NZ_CP090305.1	CAOCEE_004747	wzy	Wzy	wzy	7198	8620	1	1422	30.52
+NZ_CP100978.1	CAOCEE_037496	wzx	Putative O-antigen transporter	wzx	1050	2301	1	1251	29.82
+NZ_CP100978.1	CAOCEE_037493	wzy	EpsG family protein	wzy	4397	5513	1	1116	28.49
+NZ_CP037910.1	CAOCEE_043361	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	42.91
+NZ_CP037910.1	CAOCEE_043360	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	47.56
+NZ_CP037910.1	CAOCEE_043359	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.34
+NZ_CP037910.1	CAOCEE_043358	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3584	1	552	36.41
+NZ_CP037910.1	CAOCEE_043357	wzx	Putative O-antigen transporter	wzx	3613	4819	1	1206	33.33
+NZ_CP037910.1	CAOCEE_043356	?	Glycosyltransferase family 2	glycosyltransferase	4815	5733	1	918	28.54
+NZ_CP037910.1	CAOCEE_043355	wzy	Wzy	wzy	5751	7056	1	1305	27.36
+NZ_CP037910.1	CAOCEE_043353	wfgD	UDP-glc:alpha-D-glcNac-diphosphoundecaprenol beta-1,3-glucosyltransferase wfgD	glycosyltransferase	7624	8554	1	930	29.57
+NZ_CP135595.1	CAOCEE_033164	wzx	Putative O-antigen transporter	wzx	234	1533	1	1299	27.1
+NZ_CP135595.1	CAOCEE_033161	wzy	O-antigen polymerase	wzy	3781	4831	1	1050	29.14
+NZ_AP026961.1	CAOCEE_030743	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	43.09
+NZ_AP026961.1	CAOCEE_030742	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.56
+NZ_AP026961.1	CAOCEE_030741	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.12
+NZ_AP026961.1	CAOCEE_030740	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3572	1	540	40.74
+NZ_AP026961.1	CAOCEE_030738	wzx	Wzx	wzx	4640	5975	1	1335	31.24
+NZ_AP026961.1	CAOCEE_030737	wzy	Wzy	wzy	5955	7095	1	1140	27.89
+NZ_AP042564.1	CAOCEE_032460	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.27
+NZ_AP042564.1	CAOCEE_032459	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	47.0
+NZ_AP042564.1	CAOCEE_032458	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3026	1	876	44.29
+NZ_AP042564.1	CAOCEE_032457	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3597	1	564	37.59
+NZ_AP042564.1	CAOCEE_032456	wzx	Putative O-antigen transporter	wzx	3577	4852	1	1275	28.0
+NZ_AP042564.1	CAOCEE_032454	?	Glycosyltransferase	glycosyltransferase	5524	6583	1	1059	31.16
+NZ_AP042564.1	CAOCEE_032452	?	Glycosyltransferase	glycosyltransferase	7573	8698	1	1125	28.62
+NZ_AP042564.1	CAOCEE_032450	wzy	O-antigen polymerase	wzy	9468	10674	1	1206	27.78
+NZ_CP021726.1	CAOCEE_009298	wzx	Putative O-antigen transporter	wzx	3716	4937	1	1221	29.73
+NZ_CP021726.1	CAOCEE_009297	?	Glycosyltransferase	glycosyltransferase	4951	5821	1	870	31.61
+NZ_CP021726.1	CAOCEE_009296	wzy	Wzy	wzy	5817	7062	1	1245	30.28
+NZ_CP021726.1	CAOCEE_009295	?	Glycosyltransferase	glycosyltransferase	7048	7960	1	912	31.91
+NZ_CP021726.1	CAOCEE_009293	?	Glycosyltransferase	glycosyltransferase	9276	10086	1	810	27.53
+NZ_CM129038.1	CAOCEE_028952	wzx	lipopolysaccharide biosynthesis protein	wzx	2770	4192	1	1422	29.75
+NZ_CM129038.1	CAOCEE_028951	?	glycosyltransferase family 2 protein	glycosyltransferase	5575	6547	1	972	29.84
+NZ_CM129038.1	CAOCEE_028950	?	glycosyltransferase family 4 protein	glycosyltransferase	6521	7703	1	1182	29.36
+NZ_CM129038.1	CAOCEE_028949	wzy	hypothetical protein	wzy	7720	8914	1	1194	29.15
+NZ_CM129038.1	CAOCEE_028948	?	glycosyltransferase family 4 protein	glycosyltransferase	9100	10225	1	1125	30.49
+NZ_CM129038.1	CAOCEE_028947	?	glycosyltransferase	glycosyltransferase	10205	11327	1	1122	31.11
+NZ_AP027800.1	CAOCEE_039333	?	glycosyltransferase family A protein	glycosyltransferase	211	988	1	777	29.34
+NZ_AP027800.1	CAOCEE_039331	wzx	oligosaccharide flippase family protein	wzx	2220	3420	1	1200	30.83
+NZ_AP027800.1	CAOCEE_039330	wzy	EpsG family protein	wzy	3409	4639	1	1230	26.59
+NZ_AP027800.1	CAOCEE_039328	?	glycosyltransferase	glycosyltransferase	5485	6304	1	819	34.19
+NZ_CP130667.1	CAOCEE_022742	wzx	O-antigen flippase	wzx	312	1530	1	1218	28.74
+NZ_CP130667.1	CAOCEE_022740	wzy	putative O-antigen polymerase	wzy	2811	3870	1	1059	26.82
+NZ_AP026783.1	CAOCEE_005393	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	108	1194	1	1086	42.63
+NZ_AP026783.1	CAOCEE_005392	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1193	2093	1	900	48.44
+NZ_AP026783.1	CAOCEE_005391	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2150	3029	1	879	42.89
+NZ_AP026783.1	CAOCEE_005390	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3033	3576	1	543	40.88
+NZ_AP026783.1	CAOCEE_005389	wzx	Putative O-antigen transporter	wzx	3592	4843	1	1251	34.53
+NZ_AP026783.1	CAOCEE_005388	wzy	putative glycosyltransferase	glycosyltransferase	4892	5873	1	981	29.66
+NZ_AP026783.1	CAOCEE_005387	?	putative glycosyltransferase, group II family	glycosyltransferase	5888	6776	1	888	34.23
+NZ_AP026783.1	CAOCEE_005385	?	putative glycosyltransferase, group 2 family	glycosyltransferase	7207	8080	1	873	30.24
+NZ_AP026783.1	CAOCEE_005384	?	putative glycosyltransferase	glycosyltransferase	8076	9264	1	1188	29.97
+NZ_AP026783.1	CAOCEE_005383	?	putative glycosyltransferase, group 2 family	glycosyltransferase	9287	10130	1	843	33.93
+NZ_AP027865.1	CAOCEE_015206	wzx	MOP flippase family protein	wzx	344	1790	1	1446	28.98
+NZ_AP027865.1	CAOCEE_015204	?	glycosyltransferase family 4 protein	glycosyltransferase	2929	4072	1	1143	31.5
+NZ_AP027865.1	CAOCEE_015203	?	glycosyltransferase	glycosyltransferase	4068	5172	1	1104	28.8
+NZ_AP027865.1	CAOCEE_015202	wzy	O-antigen polymerase	wzy	5161	6274	1	1113	29.11
+NZ_AP027865.1	CAOCEE_015201	?	glycosyltransferase family 4 protein	glycosyltransferase	6275	7427	1	1152	33.42
+NZ_CM142761.1	CAOCEE_012725	?	glycosyltransferase	glycosyltransferase	571	1660	1	1089	31.68
+NZ_CM142761.1	CAOCEE_012724	?	glycosyltransferase family 2 protein	glycosyltransferase	1659	2415	1	756	30.56
+NZ_CM142761.1	CAOCEE_012723	?	glycosyltransferase family 4 protein	glycosyltransferase	2426	3554	1	1128	31.91
+NZ_CM142761.1	CAOCEE_012722	wzy	O-antigen ligase family protein	wzy	3544	4765	1	1221	28.17
+NZ_CM142761.1	CAOCEE_012721	wzx	Putative O-antigen transporter	wzx	4754	5975	1	1221	31.94
+NZ_CM142761.1	CAOCEE_012720	?	Glycosyltransferase	glycosyltransferase	5967	6744	1	777	29.86
+NZ_AP027769.1	CAOCEE_040884	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	106	1192	1	1086	43.37
+NZ_AP027769.1	CAOCEE_040883	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1191	2091	1	900	48.44
+NZ_AP027769.1	CAOCEE_040882	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2148	3027	1	879	43.46
+NZ_AP027769.1	CAOCEE_040881	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3031	3571	1	540	38.89
+NZ_AP027769.1	CAOCEE_040879	wzx	oligosaccharide flippase family protein	wzx	4657	6076	1	1419	28.54
+NZ_AP027769.1	CAOCEE_040877	?	glycosyltransferase family A protein	glycosyltransferase	7187	8144	1	957	29.47
+NZ_AP027769.1	CAOCEE_040875	?	O-antigen polysaccharide polymerase Wzy	wzy	8876	9566	1	690	31.3
+NZ_CM132251.1	CAOCEE_013165	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	107	1193	1	1086	42.36
+NZ_CM132251.1	CAOCEE_013164	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	1192	2092	1	900	46.89
+NZ_CM132251.1	CAOCEE_013163	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	2149	3028	1	879	43.46
+NZ_CM132251.1	CAOCEE_013162	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	3032	3560	1	528	38.83
+NZ_CM132251.1	CAOCEE_013160	wzx	hypothetical protein	wzx	4110	4794	1	684	30.41
+NZ_CP021175.1	CAOCEE_021690	wzx	MOP flippase family protein	wzx	5231	6662	1	1431	31.87
+NZ_CP010129.1	CAOCEE_023679	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	1520	2606	1	1086	43.37
+NZ_CP010129.1	CAOCEE_023678	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	2605	3505	1	900	48.0
+NZ_CP010129.1	CAOCEE_023677	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	3562	4441	1	879	41.87
+NZ_CP010129.1	CAOCEE_023676	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	4445	4976	1	531	38.61
+NZ_CP010129.1	CAOCEE_023675	wzx	Putative O-antigen transporter	wzx	5017	6226	1	1209	28.87
+NZ_CP010129.1	CAOCEE_023671	?	Glycosyltransferase family 2 protein	glycosyltransferase	9393	10254	1	861	27.64
+NZ_CP010129.1	CAOCEE_023669	?	O-antigen polymerase	wzy	10782	11454	1	672	26.49
+NZ_CP010129.1	CAOCEE_023668	?	Glycosyltransferase family 4 protein	glycosyltransferase	11450	12569	1	1119	36.46
+NZ_CP041628.1	CAOCEE_043901	?	glycosyltransferase	glycosyltransferase	6756	10482	1	3726	36.15
+NZ_CP041628.1	CAOCEE_043898	?	glycosyltransferase family 1 protein	glycosyltransferase	12430	13573	1	1143	39.28
+NZ_CP041628.1	CAOCEE_043897	?	glycosyltransferase	glycosyltransferase	13566	14673	1	1107	31.53
+NZ_CP041628.1	CAOCEE_043896	?	glycosyltransferase	glycosyltransferase	14733	15063	1	330	33.94
+NZ_CM170101.1	CAOCEE_002537	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	4219	5275	1	1056	34.94
+NZ_CM170101.1	CAOCEE_002536	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	5276	6140	1	864	35.07
+NZ_CM170101.1	CAOCEE_002535	rfbD	dTDP-4-dehydrorhamnose reductase	sugar_biosynthesis	6136	7012	1	876	31.51
+NZ_CM170101.1	CAOCEE_002534	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	sugar_biosynthesis	7016	7565	1	549	33.33
+NZ_CM170101.1	CAOCEE_002527	?	glycosyltransferase family 4 protein	glycosyltransferase	14411	15902	1	1491	33.74
+NZ_CM170101.1	CAOCEE_002526	?	glycosyltransferase family 2 protein	glycosyltransferase	15907	16807	1	900	31.11
+NZ_CM170101.1	CAOCEE_002525	?	glycosyltransferase	glycosyltransferase	16837	17587	1	750	33.6
+NZ_CP098880.1	CAOCEE_000420	?	O-antigen flippase	wzx	5909	7088	1	1179	29.35
+NZ_CP138428.1	CAOCEE_024325	rfbB	dTDP-glucose 4,6-dehydratase	sugar_biosynthesis	109	1183	1	1074	43.48
+NZ_CP138428.1	CAOCEE_024324	rfbA	glucose-1-phosphate thymidylyltransferase RfbA	sugar_biosynthesis	1183	2059	1	876	38.7
+NZ_CP138428.1	CAOCEE_024320	?	O-antigen flippase Wzx	wzx	4003	5269	1	1266	34.04
+NZ_CP138428.1	CAOCEE_024319	?	Glycosyltransferase	glycosyltransferase	5273	6515	1	1242	31.32
+NZ_CP138428.1	CAOCEE_024318	?	Glycosyltransferase	glycosyltransferase	6519	7593	1	1074	31.01
+NZ_CP138428.1	CAOCEE_024317	?	O-antigen polymerase	wzy	7596	8643	1	1047	27.7
+AF172324.1	?	wzx	O-antigen repeat unit transporter Wzx	wzx	288	1710	1	1422	29.82
+AF172324.1	?	wzy	O-antigen polymerase Wzy	wzy	2647	3835	1	1188	27.86
+KY379508.1	?	wzm	ABC transporter permease	wzm	0	768	1	768	34.38
+KY379508.1	?	wzt	sugar ABC transporter ATP-binding protein	wzt	767	1508	1	741	42.24
+KY379508.1	?	wfdJ	GT2 family glycosyl transferase	glycosyltransferase	2667	3558	1	891	34.9
+KY379508.1	?	?	glycosyltransferase	glycosyltransferase	4835	6587	1	1752	35.33

@@ -1,6 +1,21 @@
 .DS_Store
 .idea/
-/2 Wzx-Wzy Classifier/
-/4 Benchmarking Results/
-/2 Wzx-Wzy Classifier/
-/1 Clustering O-antigens/6 Process Oagdb/
+
+# Large regenerable intermediates (reproduced by the pipeline steps in the README)
+/1 Clustering O-antigens/1 Extraction of galf-gnd loci/O-antigen_db.fasta_all.fasta
+/1 Clustering O-antigens/3 Remove Transposases/O-antigen_db.fasta_all.gbff
+O-antigen_db.transposase_clean.gbff
+/1 Clustering O-antigens/5 O-antigen Loci Clustering/O-antigen_db.transposase_clean.min3orfs_rc.gbff
+/1 Clustering O-antigens/4 Build Pangenome Matrix/min3/
+/1 Clustering O-antigens/4 Build Pangenome Matrix/ppanggolin_input/
+/1 Clustering O-antigens/4 Build Pangenome Matrix/matrix/
+/1 Clustering O-antigens/4 Build Pangenome Matrix/ppanggolin_output_*/
+/1 Clustering O-antigens/4 Build Pangenome Matrix/ecoh_out.tsv
+/1 Clustering O-antigens/6 Process Oagdb/EC_Oag_NoNovel.gbk
+*_all_layers_embeddings.csv
+
+# MMseqs2 binary database files
+clusterDB.*
+proteinDB*
+repDB*
+/3 O-antigen Pangenome/clustering/tmp/
