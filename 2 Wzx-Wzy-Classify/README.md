@@ -1,4 +1,4 @@
-This code can train the Wzx-Wzy-Other classifier.
+This code trains the Wzx-Wzy-Other classifier.
 
 The proteins in oag_wzx_wzy_dedup.faa were used for training.
 
