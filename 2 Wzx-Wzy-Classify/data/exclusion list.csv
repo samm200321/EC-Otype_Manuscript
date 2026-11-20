@@ -1,0 +1,370 @@
+protein_id,accession,product,label
+NZ_CP023815.1|CAOCEE_002358,NZ_CP023815.1,S88 variant O45 family O-antigen flippase,wzx
+NZ_CP044311.1|CAOCEE_001554,NZ_CP044311.1,O45 family O-antigen flippase,wzx
+NZ_CP044311.1|CAOCEE_001552,NZ_CP044311.1,O45 family O-antigen polymerase,wzy
+NZ_AP027258.1|CAOCEE_000867,NZ_AP027258.1,O74 family O-antigen flippase,wzx
+NZ_AP027258.1|CAOCEE_000864,NZ_AP027258.1,O74 family O-antigen polymerase,wzy
+NZ_CP100876.1|CAOCEE_000484,NZ_CP100876.1,Wzy,wzy
+NZ_CP100876.1|CAOCEE_000482,NZ_CP100876.1,O-antigen flippase,wzx
+NZ_AP027648.1|CAOCEE_004985,NZ_AP027648.1,O93 family O-antigen flippase,wzx
+NZ_AP027648.1|CAOCEE_004984,NZ_AP027648.1,O93 family O-antigen polymerase,wzy
+NZ_CP122629.1|CAOCEE_035690,NZ_CP122629.1,O58 family O-antigen polymerase,wzy
+NZ_CP191567.1|CAOCEE_004020,NZ_CP191567.1,O10 family O-antigen flippase,wzx
+NZ_CP191567.1|CAOCEE_004017,NZ_CP191567.1,O10 family O-antigen polymerase,wzy
+NZ_AP042512.1|CAOCEE_015390,NZ_AP042512.1,O181 family O-antigen polymerase,wzy
+NZ_AP042512.1|CAOCEE_015389,NZ_AP042512.1,O181 family O-antigen flippase,wzx
+NZ_CP076243.1|CAOCEE_000219,NZ_CP076243.1,O157 family O-antigen polymerase,wzy
+NZ_CP076243.1|CAOCEE_000217,NZ_CP076243.1,O157 family O-antigen flippase,wzx
+NZ_OY754453.1|CAOCEE_012961,NZ_OY754453.1,O61 family O-antigen flippase,wzx
+NZ_OY754453.1|CAOCEE_012959,NZ_OY754453.1,O61 family O-antigen polymerase,wzy
+NZ_CM136167.1|CAOCEE_016415,NZ_CM136167.1,O-antigen flippase,wzx
+NZ_CP161809.1|CAOCEE_005956,NZ_CP161809.1,O108 family O-antigen flippase,wzx
+NZ_CP161809.1|CAOCEE_005955,NZ_CP161809.1,O108 family O-antigen polymerase,wzy
+NZ_CP027452.1|CAOCEE_042428,NZ_CP027452.1,O169/O183 family O-antigen polymerase,wzy
+NZ_CP027452.1|CAOCEE_042422,NZ_CP027452.1,O183 family O-antigen flippase,wzx
+NZ_CP169224.1|CAOCEE_008982,NZ_CP169224.1,O-antigen polymerase,wzy
+NZ_CP019259.1|CAOCEE_002633,NZ_CP019259.1,O39 family O-antigen flippase,wzx
+NZ_CP019259.1|CAOCEE_002630,NZ_CP019259.1,O39 family O-antigen polymerase,wzy
+NZ_CP122454.1|CAOCEE_000924,NZ_CP122454.1,O6 family O-antigen flippase,wzx
+NZ_CP122454.1|CAOCEE_000923,NZ_CP122454.1,O6 family O-antigen polymerase,wzy
+NZ_CP054556.1|CAOCEE_002801,NZ_CP054556.1,O3 family O-antigen flippase,wzx
+NZ_CP054556.1|CAOCEE_002799,NZ_CP054556.1,O3 family O-antigen polymerase,wzy
+NZ_CP046006.1|CAOCEE_006474,NZ_CP046006.1,O173 family O-antigen flippase,wzx
+NZ_CP046006.1|CAOCEE_006466,NZ_CP046006.1,O173 family O-antigen polymerase,wzy
+NZ_CP028122.1|CAOCEE_000646,NZ_CP028122.1,O43 family O-antigen flippase,wzx
+NZ_CP028122.1|CAOCEE_000642,NZ_CP028122.1,O43 family O-antigen polymerase,wzy
+NZ_CP122823.1|CAOCEE_007285,NZ_CP122823.1,O120 family O-antigen flippase,wzx
+NZ_CP122823.1|CAOCEE_007283,NZ_CP122823.1,O120 family O-antigen polymerase,wzy
+NZ_OY754409.1|CAOCEE_009128,NZ_OY754409.1,O-antigen polymerase,wzy
+NZ_CP040269.1|CAOCEE_003815,NZ_CP040269.1,O48 family O-antigen flippase,wzx
+NZ_CP040269.1|CAOCEE_003813,NZ_CP040269.1,O48 family O-antigen polymerase,wzy
+NZ_AP045043.1|CAOCEE_013252,NZ_AP045043.1,O148 family O-antigen flippase,wzx
+NZ_AP045043.1|CAOCEE_013251,NZ_AP045043.1,O148 family O-antigen polymerase,wzy
+NZ_CP101274.1|CAOCEE_004609,NZ_CP101274.1,O53 family O-antigen flippase,wzx
+NZ_CP101274.1|CAOCEE_004607,NZ_CP101274.1,O53 family O-antigen polymerase,wzy
+NZ_CP135658.1|CAOCEE_000109,NZ_CP135658.1,O11 family O-antigen flippase,wzx
+NZ_CP135658.1|CAOCEE_000107,NZ_CP135658.1,O11 family O-antigen polymerase,wzy
+NZ_CP075665.1|CAOCEE_002368,NZ_CP075665.1,O91 family O-antigen flippase,wzx
+NZ_CP075665.1|CAOCEE_002364,NZ_CP075665.1,O91 family O-antigen polymerase,wzy
+NZ_CP139125.1|CAOCEE_019038,NZ_CP139125.1,putative O-antigen polymerase,wzy
+NZ_CP117971.1|CAOCEE_009864,NZ_CP117971.1,O33 family O-antigen flippase,wzx
+NZ_CP117971.1|CAOCEE_009862,NZ_CP117971.1,O33 family O-antigen polymerase,wzy
+NZ_CP119740.1|CAOCEE_005101,NZ_CP119740.1,O180 family O-antigen flippase,wzx
+NZ_CP119740.1|CAOCEE_005100,NZ_CP119740.1,O180 family O-antigen polymerase,wzy
+NZ_CP053211.1|CAOCEE_012979,NZ_CP053211.1,O176 family O-antigen polymerase,wzy
+NZ_CP053211.1|CAOCEE_012978,NZ_CP053211.1,O176 family O-antigen flippase,wzx
+NZ_AP042652.1|CAOCEE_000414,NZ_AP042652.1,O116 family O-antigen flippase,wzx
+NZ_AP042652.1|CAOCEE_000410,NZ_AP042652.1,O116 family O-antigen polymerase,wzy
+NZ_CP116103.1|CAOCEE_001046,NZ_CP116103.1,O75 family O-antigen polymerase,wzy
+NZ_CP116103.1|CAOCEE_001041,NZ_CP116103.1,O75 family O-antigen flippase,wzx
+NZ_CP076706.1|CAOCEE_000076,NZ_CP076706.1,O170 family O-antigen flippase,wzx
+NZ_CP076706.1|CAOCEE_000072,NZ_CP076706.1,O170 family O-antigen polymerase,wzy
+NZ_AP042515.1|CAOCEE_002822,NZ_AP042515.1,O156 family O-antigen polymerase,wzy
+NZ_CM129889.1|CAOCEE_013012,NZ_CM129889.1,O109 family O-antigen polymerase,wzy
+NZ_CM129889.1|CAOCEE_013006,NZ_CM129889.1,O109 family O-antigen flippase,wzx
+NZ_CP063499.1|CAOCEE_004367,NZ_CP063499.1,O147 family O-antigen flippase,wzx
+NZ_CP063499.1|CAOCEE_004366,NZ_CP063499.1,O147 family O-antigen polymerase,wzy
+NZ_LR134296.1|CAOCEE_014536,NZ_LR134296.1,O41 family O-antigen flippase,wzx
+NZ_LR134296.1|CAOCEE_014533,NZ_LR134296.1,O41 family O-antigen polymerase,wzy
+NZ_CP159694.1|CAOCEE_016935,NZ_CP159694.1,Oligosaccharide repeat unit polymerase,wzy
+NZ_AP027818.1|CAOCEE_017653,NZ_AP027818.1,O143 family O-antigen flippase,wzx
+NZ_AP027818.1|CAOCEE_017650,NZ_AP027818.1,Wzy,wzy
+NZ_CP151045.1|CAOCEE_000840,NZ_CP151045.1,O-antigen polymerase,wzy
+NZ_CP051158.1|CAOCEE_007744,NZ_CP051158.1,O130 family O-antigen flippase,wzx
+NZ_CP051158.1|CAOCEE_007741,NZ_CP051158.1,O130 family O-antigen polymerase,wzy
+NZ_CP027454.1|CAOCEE_003530,NZ_CP027454.1,O121 family O-antigen flippase,wzx
+NZ_CP027454.1|CAOCEE_003527,NZ_CP027454.1,O121 family O-antigen polymerase,wzy
+NZ_AP027474.1|CAOCEE_004193,NZ_AP027474.1,O81 family O-antigen flippase,wzx
+NZ_AP027474.1|CAOCEE_004190,NZ_AP027474.1,O81 family O-antigen polymerase,wzy
+NZ_CM125665.1|CAOCEE_003651,NZ_CM125665.1,O85 family O-antigen polymerase,wzy
+NZ_CM125665.1|CAOCEE_003649,NZ_CM125665.1,O85 family O-antigen flippase,wzx
+NZ_CP010134.1|CAOCEE_000525,NZ_CP010134.1,O103 family O-antigen flippase,wzx
+NZ_CP010134.1|CAOCEE_000522,NZ_CP010134.1,O103 family O-antigen polymerase,wzy
+NZ_CM146020.1|CAOCEE_000330,NZ_CM146020.1,O174 family O-antigen flippase,wzx
+NZ_CM146020.1|CAOCEE_000329,NZ_CM146020.1,O174 family O-antigen polymerase,wzy
+NZ_CP051751.1|CAOCEE_019181,NZ_CP051751.1,O36 family O-antigen flippase,wzx
+NZ_CP041437.1|CAOCEE_000536,NZ_CP041437.1,O46/O134 family O-antigen flippase,wzx
+NZ_CP041437.1|CAOCEE_000534,NZ_CP041437.1,O46/O134 family O-antigen polymerase,wzy
+NZ_CP075465.1|CAOCEE_020103,NZ_CP075465.1,O142 family O-antigen flippase,wzx
+NZ_CP075465.1|CAOCEE_020102,NZ_CP075465.1,O142 family O-antigen polymerase,wzy
+NZ_CP010191.1|CAOCEE_022729,NZ_CP010191.1,O65 family O-antigen flippase,wzx
+NZ_CP010191.1|CAOCEE_022725,NZ_CP010191.1,O65 family O-antigen polymerase,wzy
+NZ_CP148483.1|CAOCEE_000692,NZ_CP148483.1,O49 family O-antigen flippase,wzx
+NZ_CP148483.1|CAOCEE_000690,NZ_CP148483.1,O49 family O-antigen polymerase,wzy
+NZ_CP129263.1|CAOCEE_000431,NZ_CP129263.1,O112ac family O-antigen polymerase,wzy
+NZ_CP129263.1|CAOCEE_000427,NZ_CP129263.1,O112ac family O-antigen flippase,wzx
+NZ_CP062910.1|CAOCEE_010352,NZ_CP062910.1,O112ab family O-antigen flippase,wzx
+NZ_CP062910.1|CAOCEE_010351,NZ_CP062910.1,O112ab family O-antigen polymerase,wzy
+NZ_CP100944.1|CAOCEE_006713,NZ_CP100944.1,O116 family O-antigen flippase,wzx
+NZ_CP100944.1|CAOCEE_006710,NZ_CP100944.1,O-antigen polymerase,wzy
+NZ_AP022245.1|CAOCEE_000968,NZ_AP022245.1,O184 family O-antigen flippase,wzx
+NZ_AP022245.1|CAOCEE_000966,NZ_AP022245.1,O184 family O-antigen polymerase,wzy
+NZ_CM149577.1|CAOCEE_004740,NZ_CM149577.1,O84 family O-antigen flippase,wzx
+NZ_CM149577.1|CAOCEE_004736,NZ_CM149577.1,O84 family O-antigen polymerase,wzy
+NZ_CP035770.1|CAOCEE_000560,NZ_CP035770.1,O145 family O-antigen flippase,wzx
+NZ_CP035770.1|CAOCEE_000559,NZ_CP035770.1,O145 family O-antigen polymerase,wzy
+NZ_CP123593.1|CAOCEE_000572,NZ_CP123593.1,O-antigen polymerase,wzy
+NZ_CP159726.1|CAOCEE_033709,NZ_CP159726.1,O-antigen flippase,wzx
+NZ_CP159726.1|CAOCEE_033707,NZ_CP159726.1,O-antigen polymerase,wzy
+NZ_CP035882.1|CAOCEE_000899,NZ_CP035882.1,O114 family O-antigen flippase,wzx
+NZ_CP035882.1|CAOCEE_000897,NZ_CP035882.1,O114 family O-antigen polymerase,wzy
+NZ_CP055256.1|CAOCEE_006592,NZ_CP055256.1,O125 family O-antigen flippase,wzx
+NZ_CP055256.1|CAOCEE_006589,NZ_CP055256.1,O125 family O-antigen polymerase,wzy
+NZ_CP176489.1|CAOCEE_007992,NZ_CP176489.1,O175 family O-antigen polymerase,wzy
+NZ_CP176489.1|CAOCEE_007985,NZ_CP176489.1,O175 family O-antigen flippase,wzx
+NZ_CP027445.1|CAOCEE_000723,NZ_CP027445.1,O172 family O-antigen flippase,wzx
+NZ_CP027445.1|CAOCEE_000722,NZ_CP027445.1,O172 family O-antigen polymerase,wzy
+NZ_CP080139.1|CAOCEE_000940,NZ_CP080139.1,O80 family O-antigen flippase,wzx
+NZ_CP080139.1|CAOCEE_000936,NZ_CP080139.1,O80 family O-antigen polymerase,wzy
+NZ_CP020092.1|CAOCEE_004829,NZ_CP020092.1,O182 family O-antigen flippase,wzx
+NZ_CP020092.1|CAOCEE_004826,NZ_CP020092.1,O182 family O-antigen polymerase,wzy
+NZ_CP104788.1|CAOCEE_009645,NZ_CP104788.1,O-antigen flippase Wzx,wzx
+NZ_CP104788.1|CAOCEE_009641,NZ_CP104788.1,O-antigen polymerase,wzy
+NZ_CM132948.1|CAOCEE_000457,NZ_CM132948.1,O102 family O-antigen flippase,wzx
+NZ_CM132948.1|CAOCEE_000455,NZ_CM132948.1,O102 family O-antigen polymerase,wzy
+NZ_CM129855.1|CAOCEE_002464,NZ_CM129855.1,O29 family O-antigen flippase,wzx
+NZ_CM129855.1|CAOCEE_002463,NZ_CM129855.1,O29 family O-antigen polymerase,wzy
+NZ_AP043621.1|CAOCEE_003173,NZ_AP043621.1,O169/O183 family O-antigen polymerase,wzy
+NZ_AP043621.1|CAOCEE_003164,NZ_AP043621.1,O169 family O-antigen flippase,wzx
+NZ_AP027676.1|CAOCEE_011075,NZ_AP027676.1,O107/O117 family O-antigen flippase,wzx
+NZ_AP027676.1|CAOCEE_011074,NZ_AP027676.1,O107/O117 family O-antigen polymerase,wzy
+NZ_CP097198.1|CAOCEE_001092,NZ_CP097198.1,O23 family O-antigen polymerase,wzy
+NZ_CP097198.1|CAOCEE_001090,NZ_CP097198.1,O23 family O-antigen flippase,wzx
+NZ_CP169755.1|CAOCEE_001375,NZ_CP169755.1,O1 family O-antigen flippase,wzx
+NZ_CP169755.1|CAOCEE_001372,NZ_CP169755.1,O1 family O-antigen polymerase,wzy
+NZ_CP178662.1|CAOCEE_004657,NZ_CP178662.1,O185 family O-antigen polymerase,wzy
+NZ_CP178662.1|CAOCEE_004655,NZ_CP178662.1,O185 family O-antigen flippase,wzx
+NZ_CP022164.1|CAOCEE_000633,NZ_CP022164.1,O15 family O-antigen flippase,wzx
+NZ_CP022164.1|CAOCEE_000631,NZ_CP022164.1,O15 family O-antigen polymerase,wzy
+NZ_CP018948.1|CAOCEE_002105,NZ_CP018948.1,O131 family O-antigen flippase,wzx
+NZ_CP018948.1|CAOCEE_002103,NZ_CP018948.1,O131 family O-antigen polymerase,wzy
+NZ_CP116169.1|CAOCEE_015354,NZ_CP116169.1,O35 family O-antigen flippase,wzx
+NZ_CP116169.1|CAOCEE_015350,NZ_CP116169.1,O35 family O-antigen polymerase,wzy
+NZ_CP025856.1|CAOCEE_000666,NZ_CP025856.1,O128 family O-antigen flippase,wzx
+NZ_CP025856.1|CAOCEE_000662,NZ_CP025856.1,O128 family O-antigen polymerase,wzy
+NZ_CM148343.1|CAOCEE_000464,NZ_CM148343.1,O22 family O-antigen flippase,wzx
+NZ_CP103544.1|CAOCEE_026928,NZ_CP103544.1,O-antigen polymerase,wzy
+NZ_CP029242.1|CAOCEE_000762,NZ_CP029242.1,O-antigen polymerase,wzy
+NZ_CM128675.1|CAOCEE_001490,NZ_CM128675.1,O-antigen polymerase,wzy
+NZ_CP080133.1|CAOCEE_010600,NZ_CP080133.1,O27 family O-antigen polymerase,wzy
+NZ_CP080133.1|CAOCEE_010597,NZ_CP080133.1,O27 family O-antigen flippase,wzx
+NZ_LR778153.1|CAOCEE_017312,NZ_LR778153.1,O168 family O-antigen flippase,wzx
+NZ_LR778153.1|CAOCEE_017308,NZ_LR778153.1,O168 family O-antigen polymerase,wzy
+NZ_CP023849.1|CAOCEE_000116,NZ_CP023849.1,O25 family O-antigen flippase,wzx
+NZ_CP023849.1|CAOCEE_000113,NZ_CP023849.1,O-antigen polymerase,wzy
+NZ_AP027844.1|CAOCEE_000817,NZ_AP027844.1,O21 family O-antigen flippase,wzx
+NZ_AP027844.1|CAOCEE_000813,NZ_AP027844.1,O21 family O-antigen polymerase,wzy
+NZ_CP155555.1|CAOCEE_003246,NZ_CP155555.1,O69 family O-antigen flippase,wzx
+NZ_CP155555.1|CAOCEE_003243,NZ_CP155555.1,O69 family O-antigen polymerase,wzy
+NZ_CP134380.1|CAOCEE_017743,NZ_CP134380.1,O79 family O-antigen polymerase,wzy
+NZ_CP134380.1|CAOCEE_017741,NZ_CP134380.1,O79 family O-antigen flippase,wzx
+NZ_LR134080.1|CAOCEE_001017,NZ_LR134080.1,O82 family O-antigen polymerase,wzy
+NZ_CP027457.1|CAOCEE_032957,NZ_CP027457.1,O20/O137 family O-antigen polymerase,wzy
+NZ_CP027457.1|CAOCEE_032956,NZ_CP027457.1,O20/O137 family O-antigen flippase,wzx
+NZ_CP086627.1|CAOCEE_000049,NZ_CP086627.1,O86 family O-antigen flippase,wzx
+NZ_CP039404.1|CAOCEE_016381,NZ_CP039404.1,O63 family O-antigen flippase,wzx
+NZ_CP039404.1|CAOCEE_016378,NZ_CP039404.1,O63 family O-antigen polymerase,wzy
+NZ_CM142798.1|CAOCEE_010285,NZ_CM142798.1,O119 family O-antigen flippase,wzx
+NZ_CM142798.1|CAOCEE_010283,NZ_CM142798.1,O119 family O-antigen polymerase,wzy
+NZ_CM129847.1|CAOCEE_005982,NZ_CM129847.1,O71 family O-antigen flippase,wzx
+NZ_CM129847.1|CAOCEE_005980,NZ_CM129847.1,O71 family O-antigen polymerase,wzy
+NZ_CP016404.1|CAOCEE_013548,NZ_CP016404.1,flippase,wzx
+NZ_CP028772.1|CAOCEE_001690,NZ_CP028772.1,O87 family O-antigen flippase,wzx
+NZ_CP028772.1|CAOCEE_001687,NZ_CP028772.1,O87 family O-antigen polymerase,wzy
+NZ_CP145513.1|CAOCEE_000223,NZ_CP145513.1,O-antigen polymerase,wzy
+NZ_AP022107.1|CAOCEE_009401,NZ_AP022107.1,O179 family O-antigen flippase,wzx
+NZ_AP022107.1|CAOCEE_009399,NZ_AP022107.1,O179 family O-antigen polymerase,wzy
+NZ_CM135183.1|CAOCEE_001190,NZ_CM135183.1,O141 family O-antigen flippase,wzx
+NZ_CM135183.1|CAOCEE_001187,NZ_CM135183.1,O141 family O-antigen polymerase,wzy
+NZ_CM151386.1|CAOCEE_008578,NZ_CM151386.1,O160 family O-antigen flippase,wzx
+NZ_CM151386.1|CAOCEE_008575,NZ_CM151386.1,O160 family O-antigen polymerase,wzy
+NZ_CP010183.1|CAOCEE_002688,NZ_CP010183.1,O132 family O-antigen flippase,wzx
+NZ_CP010183.1|CAOCEE_002683,NZ_CP010183.1,O132 family O-antigen polymerase,wzy
+NZ_CP172111.1|CAOCEE_002721,NZ_CP172111.1,O51 family O-antigen flippase,wzx
+NZ_CP172111.1|CAOCEE_002719,NZ_CP172111.1,O51 family O-antigen polymerase,wzy
+NZ_CP141075.1|CAOCEE_031735,NZ_CP141075.1,O37 family O-antigen flippase,wzx
+NZ_CP141075.1|CAOCEE_031733,NZ_CP141075.1,O37 family O-antigen polymerase,wzy
+NZ_CP074012.1|CAOCEE_002895,NZ_CP074012.1,O150 family O-antigen flippase,wzx
+NZ_CP074012.1|CAOCEE_002890,NZ_CP074012.1,O150 family O-antigen polymerase,wzy
+NZ_CP091026.1|CAOCEE_002708,NZ_CP091026.1,Oligosaccharide repeat unit polymerase,wzy
+NZ_CP091026.1|CAOCEE_002706,NZ_CP091026.1,O-antigen flippase,wzx
+NZ_CP188163.1|CAOCEE_000065,NZ_CP188163.1,O16 family O-antigen flippase,wzx
+NZ_CP188163.1|CAOCEE_000063,NZ_CP188163.1,O16 family O-antigen polymerase,wzy
+NZ_CP062838.1|CAOCEE_001026,NZ_CP062838.1,Oligosaccharide repeat unit polymerase,wzy
+NZ_CP148331.1|CAOCEE_018083,NZ_CP148331.1,flippase,wzx
+NZ_CP148331.1|CAOCEE_018082,NZ_CP148331.1,Oligosaccharide repeat unit polymerase,wzy
+NZ_CP080066.1|CAOCEE_000793,NZ_CP080066.1,O88 family O-antigen flippase,wzx
+NZ_CP080066.1|CAOCEE_000791,NZ_CP080066.1,O88 family O-antigen polymerase,wzy
+NZ_CP074726.1|CAOCEE_000138,NZ_CP074726.1,O26 family O-antigen flippase,wzx
+NZ_CP074726.1|CAOCEE_000137,NZ_CP074726.1,O26 family O-antigen polymerase,wzy
+NZ_CP032066.1|CAOCEE_000499,NZ_CP032066.1,O-antigen polymerase,wzy
+NZ_CP032066.1|CAOCEE_000495,NZ_CP032066.1,O-antigen flippase,wzx
+NZ_CM128604.1|CAOCEE_000910,NZ_CM128604.1,O104 family O-antigen polymerase,wzy
+NZ_CM128604.1|CAOCEE_000908,NZ_CM128604.1,O104 family O-antigen flippase,wzx
+NZ_CM132249.1|CAOCEE_001928,NZ_CM132249.1,O90/O127 family O-antigen flippase,wzx
+NZ_CM132249.1|CAOCEE_001926,NZ_CM132249.1,O90/O127 family O-antigen polymerase,wzy
+NZ_CP062824.1|CAOCEE_016128,NZ_CP062824.1,O167 family O-antigen flippase,wzx
+NZ_CP062824.1|CAOCEE_016123,NZ_CP062824.1,O167 family O-antigen polymerase,wzy
+NZ_CP115343.1|CAOCEE_000321,NZ_CP115343.1,O18 family O-antigen flippase,wzx
+NZ_CP115343.1|CAOCEE_000320,NZ_CP115343.1,Wzy,wzy
+NZ_CP132983.1|CAOCEE_000297,NZ_CP132983.1,O55 family O-antigen polymerase,wzy
+NZ_CP132983.1|CAOCEE_000296,NZ_CP132983.1,O55 family O-antigen flippase,wzx
+NZ_LT883142.1|CAOCEE_001499,NZ_LT883142.1,O40 family O-antigen polymerase,wzy
+NZ_LT883142.1|CAOCEE_001497,NZ_LT883142.1,O40 family O-antigen flippase,wzx
+NZ_CP156034.1|CAOCEE_002174,NZ_CP156034.1,O5 family O-antigen flippase,wzx
+NZ_CP156034.1|CAOCEE_002173,NZ_CP156034.1,O5 family O-antigen polymerase,wzy
+NZ_CP024127.1|CAOCEE_005021,NZ_CP024127.1,O115 family O-antigen flippase,wzx
+NZ_CP024127.1|CAOCEE_005019,NZ_CP024127.1,O115 family O-antigen polymerase,wzy
+NZ_CP072802.1|CAOCEE_017217,NZ_CP072802.1,O-antigen flippase,wzx
+NZ_CP072802.1|CAOCEE_017216,NZ_CP072802.1,O-antigen polymerase,wzy
+NZ_CP079772.1|CAOCEE_000040,NZ_CP079772.1,O-antigen polymerase,wzy
+NZ_CP079772.1|CAOCEE_000039,NZ_CP079772.1,O38 family O-antigen flippase,wzx
+NZ_CP029328.1|CAOCEE_016844,NZ_CP029328.1,Wzy,wzy
+NZ_CP102853.1|CAOCEE_008820,NZ_CP102853.1,O32 family O-antigen flippase,wzx
+NZ_CP102853.1|CAOCEE_008819,NZ_CP102853.1,O32 family O-antigen polymerase,wzy
+NZ_AP027156.1|CAOCEE_001870,NZ_AP027156.1,O-antigen polymerase,wzy
+NZ_CP024134.1|CAOCEE_001667,NZ_CP024134.1,O70 family O-antigen flippase,wzx
+NZ_CP024134.1|CAOCEE_001664,NZ_CP024134.1,O70 family O-antigen polymerase,wzy
+NZ_CP122604.1|CAOCEE_007750,NZ_CP122604.1,O139 family O-antigen polymerase,wzy
+NZ_CP122604.1|CAOCEE_007748,NZ_CP122604.1,O139 family O-antigen flippase,wzx
+NZ_AP042574.1|CAOCEE_007396,NZ_AP042574.1,O171 family O-antigen flippase,wzx
+NZ_AP042574.1|CAOCEE_007394,NZ_AP042574.1,O171 family O-antigen polymerase,wzy
+NZ_CM129848.1|CAOCEE_009031,NZ_CM129848.1,O133 family O-antigen flippase,wzx
+NZ_CM129848.1|CAOCEE_009028,NZ_CM129848.1,O133 family O-antigen polymerase,wzy
+NZ_CP180600.1|CAOCEE_014611,NZ_CP180600.1,O98 family O-antigen flippase,wzx
+NZ_CP180600.1|CAOCEE_014610,NZ_CP180600.1,O-antigen polymerase,wzy
+NZ_CP137737.1|CAOCEE_022928,NZ_CP137737.1,flippase,wzx
+NZ_AP044767.1|CAOCEE_000177,NZ_AP044767.1,O163 family O-antigen flippase,wzx
+NZ_AP044767.1|CAOCEE_000176,NZ_AP044767.1,O163 family O-antigen polymerase,wzy
+NZ_CP007594.1|CAOCEE_000805,NZ_CP007594.1,O78 family O-antigen polymerase,wzy
+NZ_CP007594.1|CAOCEE_000801,NZ_CP007594.1,O78 family O-antigen flippase,wzx
+NZ_CP024138.1|CAOCEE_012348,NZ_CP024138.1,O24 family O-antigen polymerase,wzy
+NZ_CP024138.1|CAOCEE_012347,NZ_CP024138.1,O24 family O-antigen flippase,wzx
+NZ_AP021944.1|CAOCEE_004174,NZ_AP021944.1,O140 family O-antigen flippase,wzx
+NZ_AP021944.1|CAOCEE_004166,NZ_AP021944.1,O140 family O-antigen polymerase,wzy
+NZ_CP128590.1|CAOCEE_000475,NZ_CP128590.1,O146 family O-antigen flippase,wzx
+NZ_CP128590.1|CAOCEE_000472,NZ_CP128590.1,O146 family O-antigen polymerase,wzy
+NZ_AP027576.1|CAOCEE_011232,NZ_AP027576.1,O149 family O-antigen flippase,wzx
+NZ_AP027576.1|CAOCEE_011230,NZ_AP027576.1,O149 family O-antigen polymerase,wzy
+NZ_CP023673.1|CAOCEE_008588,NZ_CP023673.1,O177 family O-antigen flippase,wzx
+NZ_CP023673.1|CAOCEE_008586,NZ_CP023673.1,O177 family O-antigen polymerase,wzy
+NZ_CP100525.1|CAOCEE_006835,NZ_CP100525.1,O152 family O-antigen flippase,wzx
+NZ_CP100525.1|CAOCEE_006833,NZ_CP100525.1,O152 family O-antigen polymerase,wzy
+NZ_CP061764.1|CAOCEE_016803,NZ_CP061764.1,O19 family O-antigen flippase,wzx
+NZ_CP061764.1|CAOCEE_016802,NZ_CP061764.1,O19 family O-antigen polymerase,wzy
+NZ_CP010229.1|CAOCEE_003481,NZ_CP010229.1,O105 family O-antigen polymerase,wzy
+NZ_CP010229.1|CAOCEE_003476,NZ_CP010229.1,O105 family O-antigen flippase,wzx
+NZ_CP049936.1|CAOCEE_008241,NZ_CP049936.1,Wzy,wzy
+NZ_CP049936.1|CAOCEE_008229,NZ_CP049936.1,Wzx,wzx
+NZ_CP139182.1|CAOCEE_006638,NZ_CP139182.1,O-antigen flippase,wzx
+NZ_CP139182.1|CAOCEE_006637,NZ_CP139182.1,O-antigen polymerase,wzy
+NZ_CP168984.1|CAOCEE_001442,NZ_CP168984.1,O-antigen flippase,wzx
+NZ_CP168984.1|CAOCEE_001441,NZ_CP168984.1,O-antigen polymerase,wzy
+NZ_CP011416.1|CAOCEE_010539,NZ_CP011416.1,O96 family O-antigen flippase,wzx
+NZ_CP011416.1|CAOCEE_010536,NZ_CP011416.1,O96 family O-antigen polymerase,wzy
+NZ_CP122634.1|CAOCEE_004692,NZ_CP122634.1,oligosaccharide flippase family protein,wzx
+NZ_CP122634.1|CAOCEE_004691,NZ_CP122634.1,O138 family O-antigen flippase,wzx
+NZ_CP122634.1|CAOCEE_004685,NZ_CP122634.1,O138 family O-antigen polymerase,wzy
+NZ_CP182174.1|CAOCEE_001617,NZ_CP182174.1,O4 family O-antigen flippase,wzx
+NZ_CP182174.1|CAOCEE_001615,NZ_CP182174.1,O antigen polymerase,wzy
+NZ_CP069571.1|CAOCEE_000277,NZ_CP069571.1,O7 family O-antigen flippase,wzx
+NZ_CP069571.1|CAOCEE_000273,NZ_CP069571.1,Sugar polymerase,wzy
+NZ_CP069571.1|CAOCEE_000272,NZ_CP069571.1,O7 family O-antigen polymerase,wzy
+NZ_CM148320.1|CAOCEE_002569,NZ_CM148320.1,O30 family O-antigen polymerase,wzy
+NZ_CM148320.1|CAOCEE_002568,NZ_CM148320.1,O30 family O-antigen flippase,wzx
+NZ_CM129871.1|CAOCEE_009872,NZ_CM129871.1,O166 family O-antigen flippase,wzx
+NZ_CM129871.1|CAOCEE_009870,NZ_CM129871.1,O166 family O-antigen polymerase,wzy
+NZ_CP127034.1|CAOCEE_003338,NZ_CP127034.1,O159 family O-antigen flippase,wzx
+NZ_CP127034.1|CAOCEE_003335,NZ_CP127034.1,O159 family O-antigen polymerase,wzy
+NZ_CM142806.1|CAOCEE_009591,NZ_CM142806.1,O161 family O-antigen flippase,wzx
+NZ_CM142806.1|CAOCEE_009589,NZ_CM142806.1,O161 family O-antigen polymerase,wzy
+NZ_CP030331.1|CAOCEE_003497,NZ_CP030331.1,O54 family O-antigen polymerase,wzy
+NZ_CP030331.1|CAOCEE_003491,NZ_CP030331.1,O54 family O-antigen flippase,wzx
+NZ_CP054940.1|CAOCEE_003561,NZ_CP054940.1,O-antigen flippase,wzx
+NZ_CP054940.1|CAOCEE_003560,NZ_CP054940.1,O-antigen polymerase,wzy
+NZ_CP073926.1|CAOCEE_004338,NZ_CP073926.1,O76 family O-antigen flippase,wzx
+NZ_CP073926.1|CAOCEE_004336,NZ_CP073926.1,O76 family O-antigen polymerase,wzy
+AB811621.1|gene_2,AB811621.1,O-antigen flippase,wzx
+AB811621.1|gene_4,AB811621.1,O-antigen polymerase,wzy
+AB812084.1|gene_5,DQ000315.1,Wzy,wzy
+DQ000315.1|gene_6,DQ000315.1,Wzx,wzx
+DQ462205.1|gene_2,DQ462205.1,Wzx,wzx
+AB811618.1|gene_4,DQ462205.1,Wzy,wzy
+AB811605.1|gene_4,AB811605.1,O-antigen polymerase,wzy
+AB811605.1|gene_5,AB811605.1,O-antigen flippase,wzx
+EU296423.1|gene_5,EU296423.1,Wzx,wzx
+EU296422.1|gene_8,EU296423.1,Wzy,wzy
+KJ778799.1|gene_4,AB812063.1,O-antigen flippase,wzx
+AB812063.1|gene_3,AB812063.1,O-antigen polymerase,wzy
+AB812084.1|gene_5,AB811620.1,O-antigen polymerase,wzy
+AB811620.1|gene_6,AB811620.1,O-antigen flippase,wzx
+DQ069297.1|gene_5,DQ069297.1,O-antigen flippase,wzx
+DQ069297.1|gene_7,DQ069297.1,O-antigen polymerase,wzy
+AB812049.1|gene_4,AB812049.1,O-antigen flippase,wzx
+AB812049.1|gene_6,AB812049.1,O-antigen polymerase,wzy
+NZ_CP024257.1_reverse_complement|MGLELH_141555,NZ_CP024257.1_reverse_complement,O25 family O-antigen flippase,wzx
+NZ_CP024257.1_reverse_complement|MGLELH_141570,NZ_CP024257.1_reverse_complement,Wzy,wzy
+KJ739600.2|gene_6,KJ739600.2,O-antigen flippase,wzx
+KJ739600.2|gene_8,KJ739600.2,O-antigen polymerase,wzy
+EU296420.1|gene_1,EU296420.1,Wzx,wzx
+EU296420.1|gene_5,EU296420.1,Wzy,wzy
+GU068044.1|gene_6,GU068044.1,Wzx,wzx
+GU068044.1|gene_7,GU068044.1,Wzy,wzy
+KP710590.1|gene_3,KP710590.1,O-antigen flippase,wzx
+KP710590.1|gene_5,KP710590.1,O-antigen polymerase,wzy
+NZ_CP013029.1_reverse_complement|MGLELH_21175,NZ_CP013029.1_reverse_complement,O165 family O-antigen flippase,wzx
+NZ_CP013029.1_reverse_complement|MGLELH_21185,NZ_CP013029.1_reverse_complement,O165 family O-antigen polymerase,wzy
+AF078736.1|gene_8,AF078736.1,putative O unit flippase,wzx
+AF078736.1|gene_9,AF078736.1,putative O antigen polymerase,wzy
+AY654590.1|gene_2,AY654590.1,Wzy,wzy
+AY654590.1|gene_8,AY654590.1,Wzx,wzx
+KJ534585.1|gene_5,KJ534585.1,O antigen flippase,wzx
+KJ534585.1|gene_8,KJ534585.1,O antigen polymerase,wzy
+KJ755546.1|gene_6,KJ755546.1,O-antigen flippase,wzx
+KJ755546.1|gene_8,KJ755546.1,O-antigen polymerase,wzy
+AB812064.1|gene_5,AB812064.1,O-antigen flippase,wzx
+AB812064.1|gene_9,AB812064.1,O-antigen polymerase,wzy
+AY657020.1|gene_2,AY657020.1,Wzy,wzy
+AY657020.1|gene_6,AY657020.1,Wzx,wzx
+DQ000314.1|gene_5,DQ000314.1,Wzy,wzy
+AB812084.1|gene_6,DQ000314.1,Wzx,wzx
+KJ755558.1|gene_2,KJ755558.1,O-antigen flippase,wzx
+KJ755558.1|gene_3,KJ755558.1,O-antigen polymerase,wzy
+EU296422.1|gene_5,EU296422.1,Wzx,wzx
+EU296422.1|gene_8,EU296422.1,Wzy,wzy
+AB812084.1|gene_5,AB812084.1,O-antigen polymerase,wzy
+AB812084.1|gene_6,AB812084.1,O-antigen flippase,wzx
+DQ990684.1|gene_2,DQ990685.1,O-antigen flippase,wzx
+DQ990685.1|gene_4,DQ990685.1,O-antigen polymerase,wzy
+KP710595.1|gene_3,DQ676934.1,Wzx,wzx
+DQ676934.1|gene_10,DQ676934.1,Wzy,wzy
+EU296424.1|gene_5,EU296424.1,Wzx,wzx
+EU296424.1|gene_8,EU296424.1,Wzy,wzy
+KP710595.1|gene_3,KP710595.1,O-antigen flippase,wzx
+KP710595.1|gene_10,KP710595.1,O-antigen polymerase,wzy
+AB811618.1|gene_2,AB811618.1,O-antigen flippase,wzx
+AB811618.1|gene_4,AB811618.1,O-antigen polymerase,wzy
+KJ778805.1|gene_6,KJ778805.1,O-antigen flippase,wzx
+KJ778805.1|gene_8,KJ778805.1,O-antigen polymerase,wzy
+EU296419.1|gene_1,EU296419.1,Wzx,wzx
+EU296419.1|gene_6,EU296419.1,Wzy,wzy
+EU694095.1|gene_5,EU694095.1,Wzx,wzx
+EU694095.1|gene_6,EU694095.1,Wzy,wzy
+KJ778808.1|gene_1,KJ778808.1,O-antigen flippase,wzx
+KJ778808.1|gene_2,KJ778808.1,O-antigen polymerase,wzy
+AB812025.1|gene_4,AB812025.1,O-antigen polymerase,wzy
+AB812025.1|gene_6,AB812025.1,O-antigen flippase,wzx
+DQ990684.1|gene_2,DQ990684.1,O-antigen flippase,wzx
+DQ990684.1|gene_4,DQ990684.1,O-antigen polymerase,wzy
+DQ000313.1|gene_5,DQ000313.1,Wzy,wzy
+DQ000313.1|gene_6,DQ000313.1,Wzx,wzx
+AB811624.1|gene_7,EU549863.1,O-antigen flippase,wzx
+EU549863.1|gene_10,EU549863.1,O-antigen polymerase,wzy
+AB811624.1|gene_7,AB811624.1,O-antigen flippase,wzx
+AB811624.1|gene_10,AB811624.1,O-antigen polymerase,wzy
+DQ220293.1|gene_8,DQ220293.1,Wzy,wzy
+DQ220293.1|gene_9,DQ220293.1,Wzx,wzx
+AB812039.1|gene_9,AB812039.1,O-antigen flippase,wzx
+AB812039.1|gene_11,AB812039.1,O-antigen polymerase,wzy
+KJ778799.1|gene_4,KJ778799.1,O-antigen flippase,wzx
+KJ778799.1|gene_5,KJ778799.1,O-antigen polymerase,wzy
