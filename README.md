@@ -9,7 +9,7 @@ This produced 2 GenBank files, containing established O-antigen loci and putativ
 
 
 **Folder 2 - Wzx-Wzy Classifier**
-This folder implements the Wzx-Wzy classifier. The fasta file of all proteins used for training is provided. To reproduce, embeddings would need to be regenerated using the esmc600m_embeddings.py
+This folder implements the Wzx-Wzy classifier. The fasta file of all proteins used for training is provided. To reproduce, embeddings would need to be regenerated using the esmc600m_embeddings.py. See MODEL_CARD.md for details of the trained model (`wzx-wzy-rf.joblib`).
 
 
 **Folder 3 - O-antigen Pan-Genome**
