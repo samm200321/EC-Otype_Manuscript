@@ -1,4 +1,4 @@
-# GEOD Manuscript
+# EC-Otyper Manuscript
 
 This repo contains the python notebooks and scripts required to reproduce the key results and figures in *A gene cluster-based O-antigen typing database for Escherichia coli*
 
@@ -48,4 +48,4 @@ The ESM-C model (Synthyra/ESMplusplus_large) is downloaded from HuggingFace on f
 
 **Folder 3** — run `process_pan.ipynb` (uses the MMseqs2 clusters in `clustering/clusters.tsv`; the clustering command is in `clustering/cluster.sh`) and `Gene_stats.ipynb` (uses `EC_Oag.gbk`). `pairwise_id.py` computes all-vs-all protein identities with MMseqs2.
 
-**Folder 4** — run `mcnemar_geod_benchmark.ipynb` on `benchmark_summary.csv`. The raw Kaptive, EcOH and ECTyper outputs are included for reference.
+**Folder 4** — run `mcnemar_ecotyper_benchmark.ipynb` on `benchmark_summary.csv`. The raw Kaptive, EcOH and ECTyper outputs are included for reference.

@@ -1,4 +1,4 @@
-﻿Assembly,Reported O-antigen,GEOD prediction,ECTyper prediction,EcOH prediction,GEOD result,ECTyper result,EcOH result
+﻿Assembly,Reported O-antigen,EC-Otyper prediction,ECTyper prediction,EcOH prediction,EC-Otyper result,ECTyper result,EcOH result
 ESC_OB1501AA_AS,O174,Rough LPS (OL173),-,-,No Prediction,No Prediction,No Prediction
 ESC_OB1502AA_AS,O28ac,O28ac-Gp2,O28/O42,O28ac/O42,Ambiguous Correct,Ambiguous Match,Ambiguous Match
 ESC_OB1503AA_AS,O160,O160,-,-,Correct,No Prediction,No Prediction
